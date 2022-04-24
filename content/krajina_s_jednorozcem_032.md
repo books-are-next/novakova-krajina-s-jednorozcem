@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Jedenáctá kapitola
 contentType: prose
 ---
-
-Jedenáctá kapitola
 
   
 

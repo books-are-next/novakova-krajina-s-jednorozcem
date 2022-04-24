@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Pátá kapitola
 contentType: prose
 ---
-
-Pátá kapitola
 
   
 

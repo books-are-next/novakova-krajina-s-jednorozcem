@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Jedenáctá kapitola
 contentType: prose
 ---
-
-Jedenáctá kapitola
 
   
 
@@ -145,30 +143,30 @@ Poté Veljana s úlevou myšlenky na Kornelaka zapudila – a její společn�
 
 Na hrad se Veljana vracela pozdě, hlavou jí zněl útržek jednoho z příběhů, jimž se louteník v její přítomnosti opatrně vyhnul. Přesto se jí zničehonic vtíral do mysli a nemohla se ho zbavit. V duchu zase viděla Vihora onoho dne, kdy ji opouštěl, aby se už v tomto životě nepotkali. Vzpomínka však kupodivu přestala bolet.
 
-Nasadil přilbu, ruku zdvih,  
+_Nasadil přilbu, ruku zdvih,  
 na jílci meče po otcích  
 matně krvaví rubíny.  
-Svítalo, měsíc zapadal.
+Svítalo, měsíc zapadal._
 
-Na prahu příští pustiny  
+_Na prahu příští pustiny  
 mládenec panně sbohem dal.  
 Přízraky mrtvých z hrobů vstaly  
-a kůň měl v očích noční děs.
+a kůň měl v očích noční děs._
 
-Krkavci křikli zpod nebes.  
+_Krkavci křikli zpod nebes.  
 Dunělo moře u Knížecí skály.  
 Dunělo moře, bubny duněly –  
-a vojsko táhlo. Chví se zem!
+a vojsko táhlo. Chví se zem!_
 
-Víc nespatří se pod sluncem,  
+_Víc nespatří se pod sluncem,  
 nepřijde pod hvězdami  
 obejmout rytíř bledou paní.  
-Oba dva o tom vědí.
+Oba dva o tom vědí._
 
-Prach vojsko zakryl jako dým.  
+_Prach vojsko zakryl jako dým.  
 Spílají stínům vlci šedí.  
 Vstříc jedou muži hrobům svým.  
-Vrať se mi! – Už se nevrátím.
+Vrať se mi! – Už se nevrátím._
 
 Smutno mi je – ale už to nepálí jako horká smůla na nekryté kůži…
 

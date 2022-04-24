@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Sedmnáctá kapitola
 contentType: prose
 ---
-
-Sedmnáctá kapitola
 
   
 

@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Desátá kapitola
 contentType: prose
 ---
-
-Desátá kapitola
 
   
 
@@ -89,7 +87,7 @@ A potom ji doprovodily přede dveře kněžniných komnat. Dva vyslanci zvolen�
 
 Před lety tu taky byli, aby vyslechli svatební slib a poklonili se novému vládci. Dnes budou svědky vladařova pádu. Pět a půl roku. Pět a půl roku osamění horšího, než bylo předchozí, neboť bylo osaměním bez naděje. Pět a půl roku, a přesto chodby vedoucí do dvorany jako by dosud vzpomínaly na tehdejší jitro, jako by dosud odrážely hlasy slavnostně vystrojených dívek, které doprovázely nevěstu za ženichem, na hlavách věnce z květin a peří.
 
-„… dala se zlákat  
+_„… dala se zlákat  
 gazela mladá,  
 gazela mladá, šedavá celá,  
 dala se zlákat  
@@ -98,7 +96,7 @@ Toho, kdo zpívá,
 uvidět chtěla  
 gazela mladá, šedavá celá,  
 toho, kdo zpívá,  
-uvidět chtěla…“
+uvidět chtěla…“_
 
 Teď tudy kráčí stejná žena v jiném doprovodu, a je to, jako by vězenkyně následovala své strážce. Doléhá na ni stín a strach, že svou hru prohraje příliš brzo, s každým dalším krokem ho přibývá. Naposled váhá, bolestně váhá s očima duše žádostivě upřenýma na rozvírající se mřížoví. Jde a za družičky má obavy a nerozhodnost. Krok a ještě krok. Zalkle se rozléhají ozvuky těch kroků mezi zdmi.
 

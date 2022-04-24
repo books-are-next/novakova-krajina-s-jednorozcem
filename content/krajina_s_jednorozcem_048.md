@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Devátá kapitola
 contentType: prose
 ---
-
-Devátá kapitola
 
   
 

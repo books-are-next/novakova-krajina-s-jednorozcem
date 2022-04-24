@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Třetí kapitola
 contentType: prose
 ---
-
-Třetí kapitola
 
   
 
@@ -263,18 +261,18 @@ Prý se u dvora báli, aby se žalem nepomátl na rozumu.
 
 V krčmě u západní brány si potulný zpěvák přihnul vína a rozvážně se opřel do strun:
 
-„Ke králi, k ženichu pospíchá paní,  
+_„Ke králi, k ženichu pospíchá paní,  
 ej, spěchá paní,  
-stín křídel sokolích dopadl na ni.
+stín křídel sokolích dopadl na ni._
 
-Nad řekou hraniční, na mostě kamenném,  
+_Nad řekou hraniční, na mostě kamenném,  
 ej, mostě kamenném,  
-zhlédla se v sokolu, co kroužil pod nebem.
+zhlédla se v sokolu, co kroužil pod nebem._
 
-Copak si počít jen, sestro má rozmilá,  
+_Copak si počít jen, sestro má rozmilá,  
 ej, sestro rozmilá,  
-když právě srdce své navždy jsem ztratila?
+když právě srdce své navždy jsem ztratila?_
 
-Ztratila jsem srdce, duši dám za něho,  
+_Ztratila jsem srdce, duši dám za něho,  
 ej, duši za něho,  
-za toho sokola, sokola bílého…“
+za toho sokola, sokola bílého…“_

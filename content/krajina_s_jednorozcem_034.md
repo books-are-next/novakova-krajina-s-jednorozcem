@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Třináctá kapitola
 contentType: prose
 ---
-
-Třináctá kapitola
 
   
 
@@ -79,11 +77,11 @@ Chůva se vlastními slovy rozohňovala. Probouzela se v ní dračice střeží
 
 „Uklidni se, Lito, nech staré věci spát,“ kněžna přerušila chůvu skoro káravě, „a nech být mého muže.“ Pak zazpívala s nucenou lehkostí:
 
-„Dva jsme na jedné lodi,  
+_„Dva jsme na jedné lodi,  
 kol kolem moře zdivočelé,  
 peklo jen peklo plodí,  
 a ve svých mlýnech mele  
-mě, jeho, celý život náš…
+mě, jeho, celý život náš…_
 
 Neznáš snad tuhle písničku, Lito? Některé mosty zkrátka nepostavíš a některé rány nezahojíš. A už o tom nechci mluvit,“ prohlásila nakonec rozhodně.
 
@@ -123,14 +121,14 @@ Dharid-Nyr si nalil víno ze džbánu a napil se. Žíznivě, chtivě, ve snaze
 
 Je to s námi jako s těmi dvěma prokletými, o nichž se na jihu zpívá a kteří se ženou ke své zkáze s nezadržitelností splašených stád a korábů pod plnými plachtami, do nichž se zapletl zlý vítr. Všechno, co nás obklopuje, se na nás ochočeně pitvoří. Plný džbán vína, za oknem mrholení, dům mírný tichem, tichem… a ve skulinách zdánlivě pevných ochranných zdí štíři…
 
-Připíjím hluchému tichu za noci,  
+_Připíjím hluchému tichu za noci,  
 úzkosti s každým douškem přibývá.  
 Nad kopci hrozné hvězdy planoucí.  
 A samota jak šelma strašlivá  
 mou živou duši trhá na cáry.  
 Jsme pohřbeni a křídlo démona  
 do stínů svrhlo, v co jsme doufali.  
-Oba jsme sami, ženo má.
+Oba jsme sami, ženo má._
 
 Tak nějak to zpívával u přístaviště syn jednorukého rybáře, a spravoval sítě, tak nějak… Nevím přesně…, nevím už nic. Nevím už ani, kde já sám stojím. Jestli před propastí, nebo na začátku mostu.
 

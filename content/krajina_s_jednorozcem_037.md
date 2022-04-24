@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Šestnáctá kapitola
 contentType: prose
 ---
-
-Šestnáctá kapitola
 
   
 
