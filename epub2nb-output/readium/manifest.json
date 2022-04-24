@@ -1,0 +1,448 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Krajina s jednorožcem",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Luisa Nováková",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-11-22T00:00:00.000Z",
+    "published": "2021-11-22T07:18:02.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_052.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_krajina_s_jednorozcem.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Prolog",
+      "href": "OEBPS/Text/krajina_s_jednorozcem_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "KNIHA PRVNÍ",
+      "children": [
+        {
+          "title": "První kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Druhá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Třetí kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_009.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Čtvrtá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_010.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Pátá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_011.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Šestá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_012.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Sedmá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_013.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Osmá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_014.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Devátá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_015.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Desátá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_016.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Jedenáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_017.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Dvanáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_018.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Třináctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_019.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Čtrnáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_020.xhtml#_idParaDest-16"
+        }
+      ],
+      "href": "OEBPS/Text/krajina_s_jednorozcem_006.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "KNIHA DRUHÁ",
+      "children": [
+        {
+          "title": "První kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_022.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Druhá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_023.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Třetí kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_024.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Čtvrtá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_025.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Pátá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_026.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Šestá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_027.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Sedmá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_028.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Osmá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_029.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Devátá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_030.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Desátá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_031.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Jedenáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_032.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Dvanáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_033.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Třináctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_034.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Čtrnáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_035.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Patnáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_036.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Šestnáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_037.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Sedmnáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_038.xhtml#_idParaDest-34"
+        }
+      ],
+      "href": "OEBPS/Text/krajina_s_jednorozcem_021.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "KNIHA TŘETÍ",
+      "children": [
+        {
+          "title": "První kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_040.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Druhá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_041.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Třetí kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_042.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Čtvrtá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_043.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Pátá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_044.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Šestá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_045.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Sedmá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_046.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Osmá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_047.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Devátá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_048.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Desátá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_049.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "Jedenáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_050.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "Dvanáctá kapitola",
+          "href": "OEBPS/Text/krajina_s_jednorozcem_051.xhtml#_idParaDest-47"
+        }
+      ],
+      "href": "OEBPS/Text/krajina_s_jednorozcem_039.xhtml#_idParaDest-35"
+    }
+  ]
+}
