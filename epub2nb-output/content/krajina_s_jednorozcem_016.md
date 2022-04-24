@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Desátá kapitola
 contentType: prose
 ---
-
-Desátá kapitola
 
   
 
@@ -39,8 +37,8 @@ Elynu to zarazilo. Podobné počínání se k Ilše nehodilo. Působilo nepřir
 
 Blížilo se poledne. Děvčata sušící seno, unavená sluncem, už opustila veselé popěvky. Drobná, hezky boubelatá světlovláska s pěkným hlasem se pustila do starobylé balady.
 
-„Kéž bych já byla sokolem na tvojí rukavici,  
-tvým prstenem, tvou korouhví, křišťálem na tvém jílci…“
+_„Kéž bych já byla sokolem na tvojí rukavici,  
+tvým prstenem, tvou korouhví, křišťálem na tvém jílci…“_
 
 Světlovláska zpívala. Halýša Jaldevicova se mračila – a vypadala najednou velice osaměle. Zvedla ruku, bezděky přejížděla prsty po hezké agrafě, kterou měla připnutou na živůtku, a její myšlenky se brouzdaly kdovíkde.
 
@@ -76,10 +74,10 @@ Hrdlo se jí stáhlo.
 
 Míjela na cestě houf vesnických děvčat spěchajících k ohni. Uctivě ji pozdravily, ale sotva je minula, pokračovaly v prozpěvování.
 
-„Veliký měsíc, čaromocná máta,  
+_„Veliký měsíc, čaromocná máta,  
 červnová tráva rozesmátá,  
 na prahu stanul slunovrat,  
-ještě výš nechte ohně plát.“
+ještě výš nechte ohně plát.“_
 
 Ze staženého hrdla stoupala zahlcující hořkost.
 
@@ -99,10 +97,10 @@ A oni: měla by ses vdát!
 
 Vlhký večerní vzduch voněl senem, lesem, půdou. Světlušky jí křížily cestu v celých hejnech, z mokřin zaznívaly žabí hlasy. Nad krajinou se nesl smích od ohňů a píšťalky plašily mlčenlivý let sov:
 
-„Dva věnce upletu, pro tebe jeden, druhý pro mě.  
+_„Dva věnce upletu, pro tebe jeden, druhý pro mě.  
 Hodím je do ohně, pojď jenom blíž, pojď blíž,  
 prsten mi přichystej a místo ve svém domě,  
-neměls nic slibovat – teď se mě nezbavíš!“
+neměls nic slibovat – teď se mě nezbavíš!“_
 
 Náhle, za zátočinou, klisna varovně zafrkala a Halýša jí přitáhla uzdu. Z hlubokých stínů okolo cesty vyklouzl malý mrštný stín. Liška. Zahlédla jezdkyni – ale místo aby rychle zmizela, zastavila se a zadívala se dívce přímo do obličeje. Vypadala udiveně. Zvědavě popoběhla blíže. Je vzteklá, napadlo zemanku – a v téže chvíli, co jí ta myšlenka proběhla hlavou, věděla, že se mýlí. Liška si ji jen prohlížela, zmatená, ano, Halýša cítila její zmatek. Šelmička netušila, koho má před sebou – a nebyla dávno nezkušené štěně. Před kolika lidmi už utíkala – a dnes?
 

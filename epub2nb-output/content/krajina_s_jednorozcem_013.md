@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Sedmá kapitola
 contentType: prose
 ---
-
-Sedmá kapitola
 
   
 

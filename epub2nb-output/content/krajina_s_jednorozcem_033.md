@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Dvanáctá kapitola
 contentType: prose
 ---
-
-Dvanáctá kapitola
 
   
 
@@ -37,14 +35,14 @@ Jako dnes. Odpočatá zvířata klusala k jihu.
 
 Nybem jedoucí v čele družiny začal cosi pobrukovat. Vyplašili hejno křepelek, v pleskotu polekaných křídel se vzneslo a zapadlo za oblinu nízkého pahrbku, nad nímž vycházelo dnešní slunce. Mladíkův hlas zůstal povlávat nad krajinou.
 
-„Dva stromy u cesty, vichřicí olámané.  
+_„Dva stromy u cesty, vichřicí olámané.  
 Strže a údolí porostlá tymiánem  
 pro radost rozcuchaných koní.  
 Rorýsi nad řekou se honí,  
 na březích kvete, kvete tráva.  
 A tvoje krásná, tmavá hlava,  
 těžkými copy zdobená,  
-o moje prsa opřená.“
+o moje prsa opřená.“_
 
 Koně pofrkávali. Step setřásala rosu.
 
@@ -56,7 +54,7 @@ Podivný den. Dusný, horký, zamračený, téměř letní, ačkoli byl teprve d
 
 Nybem si dnes jen pobrukuje, těžký vzduch dusí slova i táhlý nápěv.
 
-„Sázela v kopcích lilii, ej, sokolička bílá,  
+_„Sázela v kopcích lilii, ej, sokolička bílá,  
 slétli se černí krkavci, že se jim zalíbila.  
 Volala, plakala, nic toho nedbali,  
 lilii zelenou v pařátech zlámali.  
@@ -65,7 +63,7 @@ Kéž by je démoni v mezky proměnili.
 Kéž je ďas noc co noc štve nad i pod zemí,  
 nauzdí ocelí, osedlá plameny,  
 na ostrých čepelích před ránem napase,  
-že tak ukřivdili panně černovlasé.“
+že tak ukřivdili panně černovlasé.“_
 
 Až když se před nimi rozevřel výhled na rozlehlou vodní plochu jezera Pomen, zavanul poutníkům v ústrety čerstvý větřík. Zmoření koně zdvihli pokleslé hlavy a živě zafrkali. I jezdci se probrali z otupělosti a spokojeně se nadechli. Ubylo také ovádů, lehké jezerní povívání je snad odneslo do zatuchlých arachatských bažin. Pozvolna padal soumrak.
 

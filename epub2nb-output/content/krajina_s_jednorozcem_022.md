@@ -1,9 +1,7 @@
 ---
-title: ''
+title: První kapitola
 contentType: prose
 ---
-
-První kapitola
 
   
 
@@ -73,21 +71,21 @@ Veljana cítila smutek nad sebou, nad vlastním životem, který se podobal pře
 
 Bezmyšlenkovitě sáhla po svitku veršů, které četla včera večer a líbily se jí. Snažila se odpoutat od svého rozrušení. Zprvu nedokázala básně vůbec vnímat, a když se jí konečně podařilo soustředit, našla ve slovech jenom nové rozjitření.
 
-Na co má prázdná slova?  
+_Na co má prázdná slova?  
 Neřeknu, co bych chtěla.  
 Jsem němá jako ryba,  
 měsíc se na mě dívá,  
 dívá a mlčí se mnou,  
 proplouvá vodou temnou,  
-tůněmi noci mé.
+tůněmi noci mé._
 
-Bojím se, podzime,  
+_Bojím se, podzime,  
 ty zachmuřený němý.  
 Bojím se, líto je mi.  
 To líto strnišťové,  
 to líto pláněk v poli.  
 Bolí je usychání?  
-Bolí je, bolí!
+Bolí je, bolí!_
 
 Skoro vztekle odhodila pergamenový svitek na zem. Ubohé, ponižující naříkání!
 
@@ -343,21 +341,21 @@ Tříštěny, zmalátnělé mlhou ji doprovázely nějaké hlasy a prastará sl
 
 Kdysi dávno – tak dávno, že už si ani nepamatuje, zdali je to pravda – by je dokázala spojit a doplnit. Ale tehdy ještě nebyla vlči­cí, sestrou luny a půlnocí, to ještě za sebou vlekla stín. Teď už by neuměla zpívat jako lidé – a nechtěla.
 
-„A byla jedna krásná panna,  
-obloha jarní, nocí vraná…“
+_„A byla jedna krásná panna,  
+obloha jarní, nocí vraná…“_
 
 Zaklonila hlavu a v zešikmených zorničkách posazených po stranách obličeje ji bodl svit hvězdy, na špici zobáku Prvního sokola.
 
-„… a byla jedna krásná paní,  
-v obilných lánech čekal na ni…“
+_„… a byla jedna krásná paní,  
+v obilných lánech čekal na ni…“_
 
 Noční tvorové ji vítali, patřila k nim.
 
 Pláň, co se zdála nekonečná, narazila na úpatí žulového skaliska. Tak snadno se mi dosud nedýchalo! Pod nohama oblázky a písek, rychle vzhůru, vodu, vodu slyším! Ne, voda nezpívá, voda jen zní. K čemu by voda potřebovala slova, k čemu bych je potřebovala já?
 
-„A byla luna, luna stálá,  
+_„A byla luna, luna stálá,  
 sedmkrát sedmá paní vzala  
-z lidského na svůj svět…“
+z lidského na svůj svět…“_
 
 „… už nevracej mě zpět,“ zatoužila vlčice. Tmou se rozlehlo táhlé zavytí.
 

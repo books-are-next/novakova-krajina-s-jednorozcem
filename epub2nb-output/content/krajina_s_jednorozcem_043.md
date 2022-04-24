@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Čtvrtá kapitola
 contentType: prose
 ---
-
-Čtvrtá kapitola
 
   
 

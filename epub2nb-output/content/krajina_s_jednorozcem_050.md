@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Jedenáctá kapitola
 contentType: prose
 ---
-
-Jedenáctá kapitola
 
   
 
@@ -51,14 +49,14 @@ Nějaké děvče dole u ohně vyskočilo na kamenný stupeň, vzneslo se nad hl
 
 Začala zpívat. Nezkušený hlas mezi palácovými zdmi měkce násobila ozvěna:
 
-„Step, moře, hory – dálka daleká.  
+_„Step, moře, hory – dálka daleká.  
 Největší dálka – duše člověka.  
 A láska v ní jak posel v zlaté zbroji,  
 jenž jednu dálku s druhou dálkou spojí,  
 až v nekonečno splynou.  
 Oblaka nad hladinou.  
 V kavylu mořský vítr usíná.  
-Nezbyla z dvojí samoty ani ta jediná.“
+Nezbyla z dvojí samoty ani ta jediná.“_
 
 Stříbrná olivová snítka stočená do kroužku zmatněla hlubokou tmou.
 

@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Třetí kapitola
 contentType: prose
 ---
-
-Třetí kapitola
 
   
 

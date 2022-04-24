@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Osmá kapitola
 contentType: prose
 ---
-
-Osmá kapitola
 
   
 

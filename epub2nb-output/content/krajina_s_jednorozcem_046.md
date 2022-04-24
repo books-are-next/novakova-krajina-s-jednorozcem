@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Sedmá kapitola
 contentType: prose
 ---
-
-Sedmá kapitola
 
   
 
@@ -25,12 +23,12 @@ Už když se manželova sestra vdávala, rozmlouvala jí tu svatbu.
 
 „Ano, je král a líbí se mi, až mi srdce trne. Ale neboj se, Zalko, nevolila jsem lehkomyslně,“ tvrdila. Jenže nebylo jí co věřit – smála se a zkoušela při těch slovech svatební pás pošitý stříbrnými plíšky. Točila se vpravo vlevo, ruce v bok, aby věděla, jak plíšky cinkají, a uvažovala spíš o jejich podmanivém zvuku než o Zalčiných varováních. Zamilovaná nevěsta. Plná zaslepeného obdivu k snoubenci. Stačil náznak nedůvěry v Latydarovu dokonalost a Halýša svého ženicha pobouřeně, divoce bránila. Jak je statečný, jak velkomyslný, jak laskavý, a vůbec! Pokud se nehádala, odháněla námitky žertováním, jako tenkrát, když si Zalce pro zlost začala prozpěvovat, zatímco zálibně odkládala pás k šatům přichystaným pro obřad:
 
-„Neber si, panenko, prstýnek od knížete,  
+_„Neber si, panenko, prstýnek od knížete,  
 ve stínu hradních zdí tvá myrta nepokvete.  
 K čemu ti bude erb a pošetilá pýcha,  
 v komnatách velmožů těžko se dýchá.  
 A liška s ohařem spíš by se srovnali,  
-než by se zemanka hodila ke králi.“
+než by se zemanka hodila ke králi.“_
 
 Dnes si byla Zalka skoro jistá, že v tom pošetilém okouzlení vězelo už tehdy ještě něco jiného než pouhá zamilovanost. A dávno manželovu sestru nepodezírala, že ji k svatbě vedla chuť stát se velkou paní. Osudy těch dvou spojovalo něco hrozivého. Prokletí a vina. Jak je možné, že byla Halýša tak slepá, že nepochopila, co se s ní děje? Vždyť určitě znala příběhy o luně – zapomněla je snad v hodinu, kdy se stala součástí dalšího z nich?
 

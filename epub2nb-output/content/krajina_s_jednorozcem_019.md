@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Třináctá kapitola
 contentType: prose
 ---
-
-Třináctá kapitola
 
   
 

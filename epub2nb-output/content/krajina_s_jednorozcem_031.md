@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Desátá kapitola
 contentType: prose
 ---
-
-Desátá kapitola
 
   
 

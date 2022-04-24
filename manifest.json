@@ -1,0 +1,1010 @@
+{
+  "author": "Luisa Nováková",
+  "contenttype": "prose",
+  "identifier": "novakova-krajina-s-jednorozcem-24a771c",
+  "isbn": "978-80-274-2002-5; 978-80-274-2001-8; 978-80-274-2003-2",
+  "languagecode": "cs",
+  "modified": "2021-11-22T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "MKP",
+  "title": "Krajina s jednorožcem",
+  "revision": "24a771c",
+  "generatedAt": {
+    "date": "Sun Apr 24 2022 20:44:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650833093852
+  },
+  "documents": [
+    {
+      "title": "Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "krajina_s_jednorozcem_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prolog • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_005.html",
+      "words": 2647,
+      "chars": 16362,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 1,
+      "prev": "krajina_s_jednorozcem_002.html",
+      "next": "krajina_s_jednorozcem_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prolog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA PRVNÍ • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_006.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "krajina_s_jednorozcem_005.html",
+      "next": "krajina_s_jednorozcem_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA PRVNÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_007.html",
+      "words": 3599,
+      "chars": 22017,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 3,
+      "prev": "krajina_s_jednorozcem_006.html",
+      "next": "krajina_s_jednorozcem_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Druhá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_008.html",
+      "words": 2412,
+      "chars": 14999,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 4,
+      "prev": "krajina_s_jednorozcem_007.html",
+      "next": "krajina_s_jednorozcem_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Druhá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Třetí kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_009.html",
+      "words": 3661,
+      "chars": 22056,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 5,
+      "prev": "krajina_s_jednorozcem_008.html",
+      "next": "krajina_s_jednorozcem_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Třetí kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtvrtá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_010.html",
+      "words": 3234,
+      "chars": 19159,
+      "ideas": 113,
+      "role": "chapter",
+      "order": 6,
+      "prev": "krajina_s_jednorozcem_009.html",
+      "next": "krajina_s_jednorozcem_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtvrtá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pátá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_011.html",
+      "words": 896,
+      "chars": 5375,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 7,
+      "prev": "krajina_s_jednorozcem_010.html",
+      "next": "krajina_s_jednorozcem_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pátá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šestá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_012.html",
+      "words": 2288,
+      "chars": 13634,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 8,
+      "prev": "krajina_s_jednorozcem_011.html",
+      "next": "krajina_s_jednorozcem_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šestá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sedmá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_013.html",
+      "words": 3503,
+      "chars": 21402,
+      "ideas": 165,
+      "role": "chapter",
+      "order": 9,
+      "prev": "krajina_s_jednorozcem_012.html",
+      "next": "krajina_s_jednorozcem_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sedmá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osmá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_014.html",
+      "words": 2899,
+      "chars": 18100,
+      "ideas": 110,
+      "role": "chapter",
+      "order": 10,
+      "prev": "krajina_s_jednorozcem_013.html",
+      "next": "krajina_s_jednorozcem_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osmá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Devátá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_015.html",
+      "words": 1842,
+      "chars": 11052,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 11,
+      "prev": "krajina_s_jednorozcem_014.html",
+      "next": "krajina_s_jednorozcem_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Devátá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Desátá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_016.html",
+      "words": 1291,
+      "chars": 7654,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 12,
+      "prev": "krajina_s_jednorozcem_015.html",
+      "next": "krajina_s_jednorozcem_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Desátá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jedenáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_017.html",
+      "words": 3224,
+      "chars": 19521,
+      "ideas": 100,
+      "role": "chapter",
+      "order": 13,
+      "prev": "krajina_s_jednorozcem_016.html",
+      "next": "krajina_s_jednorozcem_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jedenáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvanáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_018.html",
+      "words": 2620,
+      "chars": 15558,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 14,
+      "prev": "krajina_s_jednorozcem_017.html",
+      "next": "krajina_s_jednorozcem_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvanáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Třináctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_019.html",
+      "words": 2467,
+      "chars": 15331,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 15,
+      "prev": "krajina_s_jednorozcem_018.html",
+      "next": "krajina_s_jednorozcem_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Třináctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtrnáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_020.html",
+      "words": 2027,
+      "chars": 12267,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 16,
+      "prev": "krajina_s_jednorozcem_019.html",
+      "next": "krajina_s_jednorozcem_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtrnáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA DRUHÁ • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_021.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 17,
+      "prev": "krajina_s_jednorozcem_020.html",
+      "next": "krajina_s_jednorozcem_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA DRUHÁ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_022.html",
+      "words": 4849,
+      "chars": 29030,
+      "ideas": 201,
+      "role": "chapter",
+      "order": 18,
+      "prev": "krajina_s_jednorozcem_021.html",
+      "next": "krajina_s_jednorozcem_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Druhá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_023.html",
+      "words": 4153,
+      "chars": 24795,
+      "ideas": 113,
+      "role": "chapter",
+      "order": 19,
+      "prev": "krajina_s_jednorozcem_022.html",
+      "next": "krajina_s_jednorozcem_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Druhá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Třetí kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_024.html",
+      "words": 1853,
+      "chars": 11177,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 20,
+      "prev": "krajina_s_jednorozcem_023.html",
+      "next": "krajina_s_jednorozcem_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Třetí kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtvrtá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_025.html",
+      "words": 2808,
+      "chars": 16778,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 21,
+      "prev": "krajina_s_jednorozcem_024.html",
+      "next": "krajina_s_jednorozcem_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtvrtá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pátá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_026.html",
+      "words": 1145,
+      "chars": 6927,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 22,
+      "prev": "krajina_s_jednorozcem_025.html",
+      "next": "krajina_s_jednorozcem_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pátá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šestá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_027.html",
+      "words": 2202,
+      "chars": 13349,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 23,
+      "prev": "krajina_s_jednorozcem_026.html",
+      "next": "krajina_s_jednorozcem_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šestá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sedmá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_028.html",
+      "words": 2919,
+      "chars": 17840,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 24,
+      "prev": "krajina_s_jednorozcem_027.html",
+      "next": "krajina_s_jednorozcem_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sedmá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osmá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_029.html",
+      "words": 5741,
+      "chars": 35987,
+      "ideas": 114,
+      "role": "chapter",
+      "order": 25,
+      "prev": "krajina_s_jednorozcem_028.html",
+      "next": "krajina_s_jednorozcem_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osmá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Devátá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_030.html",
+      "words": 1833,
+      "chars": 11370,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 26,
+      "prev": "krajina_s_jednorozcem_029.html",
+      "next": "krajina_s_jednorozcem_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Devátá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Desátá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_031.html",
+      "words": 3151,
+      "chars": 19252,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 27,
+      "prev": "krajina_s_jednorozcem_030.html",
+      "next": "krajina_s_jednorozcem_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Desátá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jedenáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_032.html",
+      "words": 2385,
+      "chars": 14793,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 28,
+      "prev": "krajina_s_jednorozcem_031.html",
+      "next": "krajina_s_jednorozcem_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jedenáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvanáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_033.html",
+      "words": 2743,
+      "chars": 17440,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 29,
+      "prev": "krajina_s_jednorozcem_032.html",
+      "next": "krajina_s_jednorozcem_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvanáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Třináctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_034.html",
+      "words": 2341,
+      "chars": 14147,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 30,
+      "prev": "krajina_s_jednorozcem_033.html",
+      "next": "krajina_s_jednorozcem_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Třináctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtrnáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_035.html",
+      "words": 1754,
+      "chars": 10979,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 31,
+      "prev": "krajina_s_jednorozcem_034.html",
+      "next": "krajina_s_jednorozcem_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtrnáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Patnáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_036.html",
+      "words": 3042,
+      "chars": 18957,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 32,
+      "prev": "krajina_s_jednorozcem_035.html",
+      "next": "krajina_s_jednorozcem_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Patnáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šestnáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_037.html",
+      "words": 1460,
+      "chars": 9151,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 33,
+      "prev": "krajina_s_jednorozcem_036.html",
+      "next": "krajina_s_jednorozcem_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šestnáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sedmnáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_038.html",
+      "words": 3767,
+      "chars": 23103,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 34,
+      "prev": "krajina_s_jednorozcem_037.html",
+      "next": "krajina_s_jednorozcem_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sedmnáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA TŘETÍ • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_039.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 35,
+      "prev": "krajina_s_jednorozcem_038.html",
+      "next": "krajina_s_jednorozcem_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA TŘETÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_040.html",
+      "words": 1437,
+      "chars": 8982,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 36,
+      "prev": "krajina_s_jednorozcem_039.html",
+      "next": "krajina_s_jednorozcem_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Druhá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_041.html",
+      "words": 1371,
+      "chars": 8427,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 37,
+      "prev": "krajina_s_jednorozcem_040.html",
+      "next": "krajina_s_jednorozcem_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Druhá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Třetí kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_042.html",
+      "words": 3390,
+      "chars": 20455,
+      "ideas": 138,
+      "role": "chapter",
+      "order": 38,
+      "prev": "krajina_s_jednorozcem_041.html",
+      "next": "krajina_s_jednorozcem_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Třetí kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtvrtá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_043.html",
+      "words": 2138,
+      "chars": 12947,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 39,
+      "prev": "krajina_s_jednorozcem_042.html",
+      "next": "krajina_s_jednorozcem_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtvrtá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pátá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_044.html",
+      "words": 1696,
+      "chars": 10497,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 40,
+      "prev": "krajina_s_jednorozcem_043.html",
+      "next": "krajina_s_jednorozcem_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pátá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šestá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_045.html",
+      "words": 3349,
+      "chars": 20281,
+      "ideas": 125,
+      "role": "chapter",
+      "order": 41,
+      "prev": "krajina_s_jednorozcem_044.html",
+      "next": "krajina_s_jednorozcem_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šestá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sedmá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_046.html",
+      "words": 1333,
+      "chars": 7798,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 42,
+      "prev": "krajina_s_jednorozcem_045.html",
+      "next": "krajina_s_jednorozcem_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sedmá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osmá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_047.html",
+      "words": 2500,
+      "chars": 15183,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 43,
+      "prev": "krajina_s_jednorozcem_046.html",
+      "next": "krajina_s_jednorozcem_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osmá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Devátá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_048.html",
+      "words": 1777,
+      "chars": 10716,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 44,
+      "prev": "krajina_s_jednorozcem_047.html",
+      "next": "krajina_s_jednorozcem_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Devátá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Desátá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_049.html",
+      "words": 3054,
+      "chars": 18680,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 45,
+      "prev": "krajina_s_jednorozcem_048.html",
+      "next": "krajina_s_jednorozcem_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Desátá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jedenáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_050.html",
+      "words": 1141,
+      "chars": 6989,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 46,
+      "prev": "krajina_s_jednorozcem_049.html",
+      "next": "krajina_s_jednorozcem_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jedenáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvanáctá kapitola • Krajina s jednorožcem",
+      "file": "krajina_s_jednorozcem_051.html",
+      "words": 1726,
+      "chars": 10445,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 47,
+      "prev": "krajina_s_jednorozcem_050.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvanáctá kapitola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Krajina s jednorožcem",
+      "file": "colophon.html",
+      "words": 135,
+      "chars": 909,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "krajina_s_jednorozcem_051.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 111815,
+      "chars": 681942,
+      "ideas": 3672
+    },
+    "chapters": {
+      "words": 111674,
+      "chars": 680995,
+      "ideas": 3648
+    }
+  }
+}

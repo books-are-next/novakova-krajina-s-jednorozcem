@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Patnáctá kapitola
 contentType: prose
 ---
-
-Patnáctá kapitola
 
   
 

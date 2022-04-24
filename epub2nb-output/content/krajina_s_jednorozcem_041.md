@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Druhá kapitola
 contentType: prose
 ---
-
-Druhá kapitola
 
   
 
