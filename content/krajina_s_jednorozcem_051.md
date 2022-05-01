@@ -1,7 +1,9 @@
 ---
-title: Dvanáctá kapitola
+title: ''
 contentType: prose
 ---
+
+## Dvanáctá kapitola
 
   
 
@@ -11,9 +13,9 @@ Latydar se dosud v duchu pře se Zalkou. To není možné, není to možné! Ne
 
 Jenže to, co se dělo po Halýšině zmizení, co nikdo nedokázal vysvětlit, co se vzpíralo zkušenosti i rozumu, to všechno náhle získávalo smysl, zapadalo jedno do druhého jak dílky skládanky, vytvářelo jasný obraz. Kletbou vyhnal vlastní ženu z lidského světa tam, odkud není návratu, jako se nelze vrátit ze zemí za Branami.
 
-_„A byla luna, luna stálá,  
+„A byla luna, luna stálá,  
 sedmkrát sedmá paní vzala,  
-z lidského na svůj svět…“_
+z lidského na svůj svět…“
 
 Na plavých křídlech jsi ke mně přilétala, Halško, má duše, a já tě nepoznal! Přilétala a utíkala přede mnou, na plavých křídlech, která nevrhají stín…
 

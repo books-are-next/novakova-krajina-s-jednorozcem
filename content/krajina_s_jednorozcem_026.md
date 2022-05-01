@@ -1,7 +1,9 @@
 ---
-title: Pátá kapitola
+title: ''
 contentType: prose
 ---
+
+## Pátá kapitola
 
   
 
@@ -13,7 +15,7 @@ Charin důvěrně znala kletbu zimních nocí. Nocí bez konce, nocí v yzarsk�
 
 Zavolala si louteníka a poručila mu, aby zpíval. Příběh hluboko uvízlý v paměti a duši rozemského lidu, o Hanuer a Thanrymovi. Trýznivě smutný jako tato noc a zároveň trýznivě krásný – protože v něm bylo také ráno. Sice neviděné, ale na dosah. Až skončí píseň, ti dva, o nichž se zpívá, po něm vztáhnou ruku, v krajinách, do nichž my nedohlédnem.
 
-_„Držela nad ním věrnou stráž.  
+„Držela nad ním věrnou stráž.  
 Když jeho srdce umlkalo,  
 ticho se tichem zalykalo,  
 v soutěsce výkřik orla,  
@@ -25,13 +27,13 @@ Na srdci, které doznívá,
 spočívá její ruka.  
 Krev chladne, Běsí brána puká.  
 Ženou se stáda obzorem,  
-vítr se žene a s ním čas…“_
+vítr se žene a s ním čas…“
 
 Vtom Charin Zara louteníka přerušila pohybem ruky. Poslušně přeťal příběh vprostřed věty.
 
-_… pták Večer zpíval ve věžích  
+… pták Večer zpíval ve věžích  
 Sedmibranného hradu,  
-dvou srdcí naráz tlukot ztich…_
+dvou srdcí naráz tlukot ztich…
 
 Na dívku náhle dolehla ještě bolavější tíseň. Nechtěla už slyšet o pramenu, který vytryskl zpod Běsí brány na znamení velkého vítězství, nepřála si poslouchat o šedomodrém stromě, který rozkvetl uprostřed podzimu a od té doby rok co rok v tomtéž podivném čase kvete. Poslala muže pryč.
 
@@ -89,9 +91,9 @@ Charin Zara konečně klidně usnula.
 
 Potom se jí zdálo o bělokorém stromě se světle šedomodrým listím. Ve větvích mezi tmavomodrými kalichy květů seděl neznámý běloskvoucí pták a zpíval lidským hlasem stále dokola pár veršů z písně o Hanuer a Thanrymovi:
 
-_„Kdybys mi stokrát odpřisáhl  
+„Kdybys mi stokrát odpřisáhl  
 zavržení a nenávist,  
 do rukou tvých se přece svěřím,  
 jak vlnám osikový list.  
 Kdyby mě stokrát druzí milovali,  
-tys pro mě první mezi králi.“_
+tys pro mě první mezi králi.“
