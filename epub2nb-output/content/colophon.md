@@ -13,7 +13,7 @@ Luisa Nováková
 
 Znění tohoto textu vychází z autorčina rukopisu díla Krajina s jednorožcem. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
-§
+**§**
 
 Text díla (Luisa Nováková: Krajina s jednorožcem), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), je vázán autorskými právy a jeho použití je definováno [Autorským zákonem](https://www.mkcr.cz/predpisy-zakonu-709.html) č. 121/2000 Sb.
 
@@ -30,8 +30,8 @@ Verze 1.0 z 26. 11. 2021.
 
 ***
 
-Luisa Nováková  
-Krajina s jednorožcem
+**Luisa Nováková  
+Krajina s jednorožcem**
 
 Ilustrace na obálce John William Waterhouse
 
