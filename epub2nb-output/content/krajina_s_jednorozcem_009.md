@@ -1,7 +1,9 @@
 ---
-title: Třetí kapitola
+title: ''
 contentType: prose
 ---
+
+## Třetí kapitola
 
   
 
@@ -187,10 +189,10 @@ Zadívala se na něj. Obličej měl ve stínu. Nepochybně se jejími slovy bavi
 
 Překvapilo ji, když Latydar zahvízdal melodii, která k ní patřila. Ale ano, jistě, mohl ji znát. Bezpochyby si ji zpívávali damalští vojáci v jeho vojsku.
 
-_„Veliký měsíc, čaromocná máta,  
+„Veliký měsíc, čaromocná máta,  
 červnová tráva rozevlátá,  
 na prahu stanul slunovrat,  
-ještě výš nechte ohně plát…“_
+ještě výš nechte ohně plát…“
 
 Pohvizduje si do kroku vzdalujících se divokých koní damalský popěvek, který si vybavil, sotva zaslechl pár slov. Koně se ztrácejí za ohybem stezky. Ochlazuje se, slunce zapadá. Zbytek družiny je dostihl a zarazil se opodál.
 

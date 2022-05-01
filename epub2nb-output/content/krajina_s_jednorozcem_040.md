@@ -1,7 +1,9 @@
 ---
-title: První kapitola
+title: ''
 contentType: prose
 ---
+
+## První kapitola
 
   
 
@@ -57,14 +59,14 @@ Také teď se v sedle napřímil, zdvihl hlavu a pokračoval v cestě s odta
 
 Jakýsi žebravý louteník začal starodávný chvalozpěv, jímž Trynští vítali své vládce při návratu z dalekých nebezpečných cest, ale pozměnil slova. Zpíval pak několik veršů stále dokola a dav se k němu pozvolna přidával, hlas po hlasu. Než král dospěl k paláci, jako by už zpíval kamennými ústy sám Trynovec:
 
-_„Buď zdráv, ty, kdo se vracíš,  
+„Buď zdráv, ty, kdo se vracíš,  
 ty, kdo se vracíš, vítr ve vlasech!  
 Vítej ve městě, které jsi z trosek vztyčil,  
 které jsi vybudoval na spáleništi,  
 které jsi obehnal pevnými hradbami!  
 Vítej ve městě bílých havranů se zlatými věnci!  
 S láskou volají tvé jméno,  
-jméno toho, kdo se vrací, vítr ve vlasech…“_
+jméno toho, kdo se vrací, vítr ve vlasech…“
 
 Na schodech paláce stála dívka. Štíhlá, vysoká, plavá, v bílé sváteční říze. Několik kroků před ostatním dvorem. Odpolední paprsky se protahovaly vysokým arkýřem boční branky a obtékaly její nehybnou postavu.
 
