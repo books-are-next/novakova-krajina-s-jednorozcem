@@ -52,7 +52,7 @@
             "filename": "krajina_s_jednorozcem_002.md",
             "xhtml": "krajina_s_jednorozcem_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -1104,6 +1104,6 @@
       "user": "books-are-next",
       "repo": "novakova-krajina-s-jednorozcem"
     },
-    "generatedAt": 1651441949258
+    "generatedAt": 1652351688008
   }
 }

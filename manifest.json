@@ -1,22 +1,73 @@
 {
-  "author": "Luisa Nováková",
-  "contenttype": "prose",
-  "identifier": "novakova-krajina-s-jednorozcem-070f1a7",
-  "isbn": "978-80-274-2002-5; 978-80-274-2001-8; 978-80-274-2003-2",
-  "languagecode": "cs",
-  "modified": "2021-11-22T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "MKP",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Krajina s jednorožcem",
-  "revision": "070f1a7",
+  "author": "Luisa Nováková",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "novakova-krajina-s-jednorozcem-ff73e77",
+  "revision": "ff73e77",
+  "readingOrder": [
+    "promo.html",
+    "krajina_s_jednorozcem_005.html",
+    "krajina_s_jednorozcem_006.html",
+    "krajina_s_jednorozcem_007.html",
+    "krajina_s_jednorozcem_008.html",
+    "krajina_s_jednorozcem_009.html",
+    "krajina_s_jednorozcem_010.html",
+    "krajina_s_jednorozcem_011.html",
+    "krajina_s_jednorozcem_012.html",
+    "krajina_s_jednorozcem_013.html",
+    "krajina_s_jednorozcem_014.html",
+    "krajina_s_jednorozcem_015.html",
+    "krajina_s_jednorozcem_016.html",
+    "krajina_s_jednorozcem_017.html",
+    "krajina_s_jednorozcem_018.html",
+    "krajina_s_jednorozcem_019.html",
+    "krajina_s_jednorozcem_020.html",
+    "krajina_s_jednorozcem_021.html",
+    "krajina_s_jednorozcem_022.html",
+    "krajina_s_jednorozcem_023.html",
+    "krajina_s_jednorozcem_024.html",
+    "krajina_s_jednorozcem_025.html",
+    "krajina_s_jednorozcem_026.html",
+    "krajina_s_jednorozcem_027.html",
+    "krajina_s_jednorozcem_028.html",
+    "krajina_s_jednorozcem_029.html",
+    "krajina_s_jednorozcem_030.html",
+    "krajina_s_jednorozcem_031.html",
+    "krajina_s_jednorozcem_032.html",
+    "krajina_s_jednorozcem_033.html",
+    "krajina_s_jednorozcem_034.html",
+    "krajina_s_jednorozcem_035.html",
+    "krajina_s_jednorozcem_036.html",
+    "krajina_s_jednorozcem_037.html",
+    "krajina_s_jednorozcem_038.html",
+    "krajina_s_jednorozcem_039.html",
+    "krajina_s_jednorozcem_040.html",
+    "krajina_s_jednorozcem_041.html",
+    "krajina_s_jednorozcem_042.html",
+    "krajina_s_jednorozcem_043.html",
+    "krajina_s_jednorozcem_044.html",
+    "krajina_s_jednorozcem_045.html",
+    "krajina_s_jednorozcem_046.html",
+    "krajina_s_jednorozcem_047.html",
+    "krajina_s_jednorozcem_048.html",
+    "krajina_s_jednorozcem_049.html",
+    "krajina_s_jednorozcem_050.html",
+    "krajina_s_jednorozcem_051.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun May 01 2022 21:53:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651441997734
+    "date": "Thu May 12 2022 10:43:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352234114
   },
   "documents": [
     {
-      "title": "Krajina s jednorožcem",
-      "file": "krajina_s_jednorozcem_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +75,17 @@
       "order": 0,
       "prev": null,
       "next": "krajina_s_jednorozcem_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Prolog • Krajina s jednorožcem",
+      "title": "Prolog",
       "file": "krajina_s_jednorozcem_005.html",
       "words": 2647,
       "chars": 16362,
       "ideas": 56,
       "role": "chapter",
       "order": 1,
-      "prev": "krajina_s_jednorozcem_002.html",
+      "prev": "promo.html",
       "next": "krajina_s_jednorozcem_006.html",
       "toc": [
         {
@@ -55,7 +98,7 @@
       ]
     },
     {
-      "title": "KNIHA PRVNÍ • Krajina s jednorožcem",
+      "title": "KNIHA PRVNÍ",
       "file": "krajina_s_jednorozcem_006.html",
       "words": 2,
       "chars": 11,
@@ -467,7 +510,7 @@
       ]
     },
     {
-      "title": "KNIHA DRUHÁ • Krajina s jednorožcem",
+      "title": "KNIHA DRUHÁ",
       "file": "krajina_s_jednorozcem_021.html",
       "words": 2,
       "chars": 11,
@@ -963,7 +1006,7 @@
       ]
     },
     {
-      "title": "KNIHA TŘETÍ • Krajina s jednorožcem",
+      "title": "KNIHA TŘETÍ",
       "file": "krajina_s_jednorozcem_039.html",
       "words": 2,
       "chars": 11,
@@ -1319,11 +1362,11 @@
       ]
     },
     {
-      "title": "Tiráž • Krajina s jednorožcem",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 135,
-      "chars": 909,
-      "ideas": 21,
+      "words": 116,
+      "chars": 762,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "krajina_s_jednorozcem_051.html",
@@ -1341,9 +1384,9 @@
   ],
   "totals": {
     "all": {
-      "words": 111815,
-      "chars": 681942,
-      "ideas": 3672
+      "words": 111796,
+      "chars": 681795,
+      "ideas": 3667
     },
     "chapters": {
       "words": 111674,
