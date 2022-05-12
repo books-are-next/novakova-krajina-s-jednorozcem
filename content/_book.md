@@ -14,7 +14,7 @@ meta:
   isbn: 978-80-274-2002-5; 978-80-274-2001-8; 978-80-274-2003-2
   publisherShort: MKP
 readingOrder:
-  - krajina_s_jednorozcem_002.html
+  - promo.html
   - krajina_s_jednorozcem_005.html
   - krajina_s_jednorozcem_006.html
   - krajina_s_jednorozcem_007.html
