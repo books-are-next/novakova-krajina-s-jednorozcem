@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Čtvrtá kapitola
 
 Odpouštím, řekl. Odpouštím ti. Copak by dokázal v té chvíli, na prahu její smrti, na dotek od zmrazující hrůzy proměňující lidskou tvář, copak by dokázal v té chvíli říci ne?
@@ -132,3 +134,5 @@ Latydar se konečně zvedl. Dolehla na něj únava, ale byla to už pouze únava
 Chvíli pátral po zbytcích staré bolesti a nové zášti. Nenalezl je.
 
 Odpustil jsem. Světlo světel, ty to víš.
+
+</section>

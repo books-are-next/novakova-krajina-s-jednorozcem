@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Šestá kapitola
 
 Po návratu z chrámu Latydar narazil na kněžnu-správkyni, jak se pod arkádami vnitřního nádvoří prochází s rozemským rytířem. Živě se spolu bavili. Popravdě mluvil hlavně Séned-Mar a dívka mu naslouchala. Potom se zastavila a rozesmála se lehkomyslným dívčím smíchem, kterého by se Latydar od vážné Veljany nikdy nenadál.
@@ -252,3 +254,5 @@ Jako se láska bez věrnosti neobejde, nenajdeš ani skutečnou věrnost, která
 „Zítra vyrazím do Damalu… Já… Vím, že tam dávno hledali,“ pokrčil rameny se směsí beznaděje a vzdoru, „přesto… Musím tam. Postaráš se o království jako jindy? Do jara je daleko, ne? Před chvilkou jsi to sama řekla. A já se vrátím za pár týdnů.“
 
 Dvě plané třešně u krajů cesty se nad jejich hlavami toužebně vztahovaly jedna po druhé. Minuli je. Latydar se po nich mimoděk ohlédl. Propletené větve? Ne. To kořeny. Jeden přes druhý, jeden vedle druhého, něžné, pevné, hluboké kořeny dvou stromů pod jedinou cestou, na jejíž konec nedohlédneš ani z korun, ze zeleného listoví.
+
+</section>

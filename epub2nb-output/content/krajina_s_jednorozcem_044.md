@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Pátá kapitola
 
 Dusno a obloha skloněná tak nízko, jako by ani nebyl konec června, ale čas listopadových dešťů, tísnily Yzar. Všechno se zdálo rozmazané, lhostejné a skoro zbytečné, pokud se člověk poddal té shora doléhající tíži. Cesty jako by se ztrácely mezi rozeklanými skalami, ústíce do propastí, řeky jako by hynuly v poušti, osamění člověka, dokonce lidský život sám jako by pozbýval smyslu. A bouře, která by pročistila vzduch, dovolila volně se nadechnout a rozhlédnout po krajině omyté deštěm, nepřicházela. V noci sice občas Yzarští slýchali vzdálené hřmění a na obzoru, v odlehlosti desítek stepních mil, někde nad Východním jezeřím se blýskalo, ale sídelní město se dál zalykalo vyprahlostí podobno mořem vyvržené rybě bezvýsledně otevírající ústa vzhůru.
@@ -68,3 +70,5 @@ Ostatně o něm teď přemýšlela stále. Ale jinak než dřív. Bez vyvzdorov
 Zdálo se jí o Dharid-Nyrovi. Zdávalo se jí o něm noc co noc. Mívala přitom stále týž sen, z něhož se budila vyčerpanější, než ulehla. Stihatel, přes obličej staženou kápi bílého pláště, ji pronásledoval v těsných chodbách, které nevedly nikam. Potom se proměnil v lovce hrajícího na stříbrnou vábničku. Stále za ní, stále před ní. Nedokázala mu uniknout. Nutil ji dorazit až na vrchol útesu, nebo nad sráz, nebo na sám okraj podemletého břehu. Někam, odkud není už jak udělat další krok, leda k té hodině, k té chvíli, v níž bude rozhodnuto. V níž lovec odhalí svou tvář, ne prvně viděnou – stokrát známou. A kořist se zřítí do propasti.
 
 Prudké kapky na nádvoří bez milosti roztloukaly modré kalichy bělokorého stromu.
+
+</section>

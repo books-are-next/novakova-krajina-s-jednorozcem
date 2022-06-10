@@ -3,23 +3,33 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Sedmá kapitola
 
 Zalka, zemanka z Pomezí, četla manželův list. Ogien, jemuž sestřina svatba s trynským králem otevřela bránu k damalskému dvoru, pobýval právě u damalského vladaře.
 
-  
+</section>
+
+<section>
 
 _„Duše mé duše, manželko má a paní,“_ psal, _„spěchám Ti povědět důležitou novinu, jež sem právě dospěla. Trynský vládce a náš příbuzný žije. Navrátil se ve zdraví domů. Předpokládám, že se o tom sama co nejdříve přesvědčíš, neboť nepochybně podá zprávu také přímo nám, co své nejbližší přízni, ale chtěl jsem…“_
 
-  
+</section>
+
+<section>
 
 Ogien měl pravdu. Latydar nemeškal a poslal list na Pomezí hned po svém příjezdu do Trynovce. Pergamen popsaný výrazným, hezkým, ale poněkud neuspořádaným písmem od včerejška ležel na truhle, kam ho Zalka odložila.
 
-  
+</section>
+
+<section>
 
 „Jeho návratem se mnohé mění, jak jistě chápeš. Nadešel čas prozradit, co jsme před vojevodovými lidmi utajili. Znám Tvůj názor, vždyť jsme nejednou o celé věci mluvili. Ty pak víš, že jsem s Tebou nikdy příliš nesouhlasil. Nakonec jsi mě však přesvědčila, že je dobré si nechat pro sebe pravdu, když není jisto, co se na trynském dvoře děje. Teď však je král zpátky a nemůžeme déle lhát. Prosím Tě, má milovaná, smiř se s tím, je neodvratné, abys…“
 
-  
+</section>
+
+<section>
 
 Zalka vzdychla. Ogien byl tvrdohlavý. Tvrdohlavý jako jeho sestra. A nevzejde z toho nic dobrého, jako nevzešlo nic dobrého z její neústupnosti. Co mu mám vlastně odpovědět?
 
@@ -29,7 +39,9 @@ Už když se manželova sestra vdávala, rozmlouvala jí tu svatbu.
 
 „Ano, je král a líbí se mi, až mi srdce trne. Ale neboj se, Zalko, nevolila jsem lehkomyslně,“ tvrdila. Jenže nebylo jí co věřit – smála se a zkoušela při těch slovech svatební pás pošitý stříbrnými plíšky. Točila se vpravo vlevo, ruce v bok, aby věděla, jak plíšky cinkají, a uvažovala spíš o jejich podmanivém zvuku než o Zalčiných varováních. Zamilovaná nevěsta. Plná zaslepeného obdivu k snoubenci. Stačil náznak nedůvěry v Latydarovu dokonalost a Halýša svého ženicha pobouřeně, divoce bránila. Jak je statečný, jak velkomyslný, jak laskavý, a vůbec! Pokud se nehádala, odháněla námitky žertováním, jako tenkrát, když si Zalce pro zlost začala prozpěvovat, zatímco zálibně odkládala pás k šatům přichystaným pro obřad:
 
-  
+</section>
+
+<section>
 
 _„Neber si, panenko, prstýnek od knížete,  
 ve stínu hradních zdí tvá myrta nepokvete.  
@@ -38,7 +50,9 @@ v komnatách velmožů těžko se dýchá.
 A liška s ohařem spíš by se srovnali,  
 než by se zemanka hodila ke králi.“_
 
-  
+</section>
+
+<section>
 
 Dnes si byla Zalka skoro jistá, že v tom pošetilém okouzlení vězelo už tehdy ještě něco jiného než pouhá zamilovanost. A dávno manželovu sestru nepodezírala, že ji k svatbě vedla chuť stát se velkou paní. Osudy těch dvou spojovalo něco hrozivého. Prokletí a vina. Jak je možné, že byla Halýša tak slepá, že nepochopila, co se s ní děje? Vždyť určitě znala příběhy o luně – zapomněla je snad v hodinu, kdy se stala součástí dalšího z nich?
 
@@ -56,7 +70,9 @@ V dubnu ji strach ovládl natolik, že se rozhodla vytnout znáhla vyrostlou b�
 
 Zalka se bála. To ji ovšem neodvrátilo od jejího předsevzetí. Naopak, čím větší byl její strach, tím mocněji se držela svého rozhodnutí.
 
-  
+</section>
+
+<section>
 
 „Můj pane, můj manželi, Tvoje sestra mi donesla svého syna, a i když nepromluvila, neboť už nezná lidskou řeč, tolik jí zbylo ve vzpomínce z jejího předešlého života, že donesla své dítě domů a donesla ho mně! Přála si nepochybně, abych ho vychovala. A já to udělám, i kdyby mi ten maličký dávno nepřirostl k srdci, a Ty víš, že přirostl.
 
@@ -66,10 +82,14 @@ Už když se Tvá sestra vrátila z cesty do Kiřína, pomalu se proměňovala.
 
 Kdo jiný může mít její neštěstí na svědomí, ne-li král, s nímž se právě v noci Nové luny vzcházející jednou za sto padesát let ve zlém rozešla? Mnohokrát jsme o tom mluvili a sám jsi uznal, že co si myslím, je až příliš podobné pravdě. A takovému člověku mám teď svěřit dítě? Sama chlapečka vychovám, a čí je syn, se dozví, teprve až dospěje a nastane čas, kdy by měl usednout na otcův trůn. Prosím, můj milý, věř, že je to jediná správná cesta!“
 
-  
+</section>
+
+<section>
 
 Ano, nikomu maličkého nedám. Nikomu.
 
 Leda by si jeho matka pro něj sama přišla – ale ne tak, jak se k němu snaží dostat nyní. Leda by přišla, pošlapala zaříkané prahy, lidskou řečí po lidsku pozdravila, neuhýbala před svazečky býlí chránícími dům. Leda by přišla za dne, slunce v zádech a před sebou vlastní stín. Není však moci, která by ji vyvedla ze světa, v němž teď přebývá a odkud vyjde jedině za Brány soumraku, až ji dostihne smrt.
 
 Tak se to zpívá, tak vyprávějí staří. Některé cesty vedou jenom tam, a nikdy nazpátek.
+
+</section>

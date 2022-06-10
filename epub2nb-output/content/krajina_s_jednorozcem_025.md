@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Čtvrtá kapitola
 
 Byly asi dvě hodiny po půlnoci, když Veljanu vzbudil hluk v předpokoji. Její služebná tam komusi zdvořile odporovala, komusi, kdo se nejspíš dožadoval vstupu.
@@ -224,3 +226,5 @@ Zavrtěl hlavou. Skoro se usmál.
 Rozmrzele si pravicí přejel přes oči. Dva dny nespal, neměl chuť si s Veljanou dál povídat a dokazovat jí cosi podle jeho mínění nad slunce jasnějšího.
 
 „Čáry?“ zavrtěla hlavou. „Čáry za tím nehledám, ale lidi!“
+
+</section>

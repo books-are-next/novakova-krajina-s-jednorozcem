@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "novakova-krajina-s-jednorozcem-97c7cb7",
-  "revision": "97c7cb7",
+  "identifier": "novakova-krajina-s-jednorozcem-7e611c4",
+  "revision": "7e611c4",
   "readingOrder": [
     "promo.html",
     "krajina_s_jednorozcem_005.html",
@@ -61,8 +61,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870722316
+    "date": "Fri Jun 10 2022 17:53:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883606628
   },
   "documents": [
     {
@@ -1364,9 +1364,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 110,
-      "chars": 719,
-      "ideas": 15,
+      "words": 78,
+      "chars": 544,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "krajina_s_jednorozcem_051.html",
@@ -1384,9 +1384,9 @@
   ],
   "totals": {
     "all": {
-      "words": 111790,
-      "chars": 681752,
-      "ideas": 3666
+      "words": 111758,
+      "chars": 681577,
+      "ideas": 3658
     },
     "chapters": {
       "words": 111674,

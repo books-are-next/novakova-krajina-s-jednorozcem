@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## První kapitola
 
 Eistha Char se líně pohupovala v sinském kotvišti okukovaná zvědavým davem, který se sběhl na nábřeží, jen se novina o králově návratu rozšířila po městě. Byla to krásná loď a přes veškeré nepřátelství, kterému se stěží mohlo vyhnout cokoli, co připomínalo nedávnou válku, ji mnozí obdivovali. Vypadala vedle těžkých kupeckých korábů jako mladičká panna, již poprvé přivedli na slavnost, a sličná tvář příďové sochy se usmívala se zasněnou bezelstností na molo, na hradby pevnosti, na rozčilené, vzrušené lidi. Voněla solí a chaluhami jako kterákoli jiná loď a v jejím ráhnoví usedali racci stejně jako na ráhnech lodí ostatních.
@@ -53,7 +55,9 @@ Také teď se v sedle napřímil, zdvihl hlavu a pokračoval v cestě s odta
 
 Jakýsi žebravý louteník začal starodávný chvalozpěv, jímž Trynští vítali své vládce při návratu z dalekých nebezpečných cest, ale pozměnil slova. Zpíval pak několik veršů stále dokola a dav se k němu pozvolna přidával, hlas po hlasu. Než král dospěl k paláci, jako by už zpíval kamennými ústy sám Trynovec:
 
-  
+</section>
+
+<section>
 
 _„Buď zdráv, ty, kdo se vracíš,  
 ty, kdo se vracíš, vítr ve vlasech!  
@@ -64,7 +68,9 @@ Vítej ve městě bílých havranů se zlatými věnci!
 S láskou volají tvé jméno,  
 jméno toho, kdo se vrací, vítr ve vlasech…“_
 
-  
+</section>
+
+<section>
 
 Na schodech paláce stála dívka. Štíhlá, vysoká, plavá, v bílé sváteční říze. Několik kroků před ostatním dvorem. Odpolední paprsky se protahovaly vysokým arkýřem boční branky a obtékaly její nehybnou postavu.
 
@@ -83,3 +89,5 @@ Dívala se na něj rozšířenýma očima. Pomalu se uklonil a políbil ji dvor
 Vešli do paláce.
 
 Rohy jeden po druhém umlkaly. Dunění zvonů zvolna sláblo.
+
+</section>

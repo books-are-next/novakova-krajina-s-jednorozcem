@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Dvanáctá kapitola
 
 Pod stromy vysazenými v popelu mrtvých hořely hranice. Kouř, co z nich plazivě stoupal, se mísil s jemnou vlhkou mlhou. Druhá noc ohňů. Mezi tou první o letním slunovratu a tou listopadovou dozrálo obilí, děti i hříbata povyrostly.
@@ -35,18 +37,24 @@ Mlha tlumila a lámala zvuky, dívčí hlasy působily téměř přízračně, 
 
 Děvčata ze vsi náležející k Pomezí a děvečky ze dvora se ozvaly z blízké Zubří hlavy, kam vyšly společně. Ten vážný popěvek bude z Lužinky a ten, co mu rozverně odpovídá, z Blatin:
 
-  
+</section>
+
+<section>
 
 _„Hezká jsem, hezká, přehlédls to snad?  
 Neviděl jsi mě v kole tancovat?  
 Slepého nechci, zůstaň sám, jak jsi!  
 Pro jiného jsem rostla do krásy.“_
 
-  
+</section>
+
+<section>
 
 Ani nevěděla proč, snad že se příliš hořce zahleděla do jedné tváře a nechtěla zpívat o tom, o čem ani nešeptala, přidala do toho věnce splétaného od pahorku k pahorku, od kopce ke kopci, nad usedlostmi, vesnicemi a dvory, známé zaklínadlo. Nepatřilo sem docela, podobalo se peří cizokrajných pávů vetknutému v dožínkové koruně. Ty, které je zaslechly, tu nepatřičnost vycítily, ale zalíbila se jim – a tak se připojovaly k Halýše jedna po druhé. Brzy zaklínala celá krajina.
 
-  
+</section>
+
+<section>
 
 _„Mateřídouška, routa, bez,  
 přijď pro mě, milý, ještě dnes!  
@@ -66,7 +74,9 @@ spěchej ke mně,
 Mateřídouška, routa, bez,  
 přijď pro mě, milý, ještě dnes.“_
 
-  
+</section>
+
+<section>
 
 Halýša zmlkla a už jen poslouchala, jak se k ní zaklínání vrací, jak je posléze znova přerušují zpěvavá volání. Trvalo to do půlnoci. Nakonec se rozlehlo táhlé troubení volských rohů, do nichž zaduli mládenci od ohňů. Skončilo, jako když utne, a rozhostilo se ticho. Beze slova se panny vracely k ostatním.
 
@@ -213,3 +223,5 @@ Milované jméno znělo zdánlivě nesmírně dlouho, násobeno ozvěnou odráž
 Mlčela a mlčely i ostatní hlasy.
 
 Jako by věděly, že už není proč dál dotírat.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Osmá kapitola
 
 Loď, vezoucí v podpalubí královského zajatce, vplula do bouřky. Moře si s ní rozmarně pohrálo, severovýchodní vítr při prvním nenadálém nárazu utrhl plachtu a potom zvesela polámal stěžně. Vichřice zahnala poškozenou kocábku, bez ustání zalévanou obrovským syčícími vlnami, daleko ze směru plavby. Zahodila ji nakonec jak hračku, která už omrzela, mezi útesy jednoho z neobydlených ostrovů, sřetězených do širokého, lodím nebezpečného oblouku. Rozemští jim přezdívali Běloskalí, námořníci v Trynu nazvali sou­ostroví Královský luk. Skutečně totiž připomínalo dlouhý válečný luk, s napjatou tětivou drobných ostrůvků a osamělých útesů, útočně obrácený proti vzdálenému rozemskému pobřeží.
@@ -230,3 +232,5 @@ Potom se všichni tři pustili do usilovné práce. Obrali pobité o všechno, 
 „Jedeme,“ přikázal svým lidem. Latydara přivázal za ruce k vlastnímu sedlu. „Divil bych se,“ řekl, „kdybys měl dnes v noci chuť někam utíkat. To by museli být trynští králové z jinačího těsta než obyčejní chlapi.“
 
 Začínal slunečný den. Mlha se zdvihala z trávy k promodrávající, větrem do čista vymetené obloze. Zamířili k Sedmé bráně. Asi po čtyřech hodinách minuli příkrou skalní stěnu porostlou hvězdicemi netřesků, která ohraničovala Sedmibransko ze severu. Tehdy stočili koně mírně k půlnoci. Od Ryethových vrat, začátku území Atham-Sega, je dělilo sedm dní jízdy.
+
+</section>

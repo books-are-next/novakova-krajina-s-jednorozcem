@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Patnáctá kapitola
 
 Jedna z jižanských bájí vyprávěla o tom, že když sličná a moudrá Hanuer uprchla před svými bratry a mužem, jehož pro ni vybrali, opustila rodný dům a výsady kněžny, aby se stala ženou cizince Thanryma a spojila se s ním v životě i umírání, uchýlili se manželé po měsících, v nichž se skrývali před pronásledovateli, po týdnech věčných útěků nakonec do bezpečí neproniknutelného thušského pralesa. Zůstávali tam dva roky. A byla to jediná léta míru, jež jim byla dopřána bok po boku v tomto světě.
@@ -164,3 +166,5 @@ Spěchala ke zraněnému. Stále ještě hluboce spal a nezdálo se, že by mu 
 Nocí chodívají i dobré bytosti, třeba to byla některá z nich. Ta vlčice, o níž se zmínil Séned? Hanuer nevěděla. Svázala však snítky dobromyslu, černobýlu a pralesní routy, třikrát je protáhla ve vodním prameni, třikrát nad plamenem a zavěsila nade dveře a do okna jizby.
 
 S východem příští luny kroužil kolem dvorce obrovský pták. A později v sadu za stavením zaštkal vlčí hlas. Ale zvláštní němá žena v přízračně bílé tunice se neobjevila, i když ji Hanuer, stojíc na domovním prahu, dlouho vyhlížela.
+
+</section>

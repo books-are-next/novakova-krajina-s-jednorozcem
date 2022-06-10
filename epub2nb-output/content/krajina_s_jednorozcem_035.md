@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Čtrnáctá kapitola
 
 Ještě před tím, než odplují z Rozemska, chtěl Séned-Mar navštívit svou sestru. Byli si velice blízcí a odloučení, které jim přinesl konec války, snášeli oba neradi.
@@ -90,3 +92,5 @@ Latydar mu neodporoval. Skutečně teď stěží mohli udělat cokoli jiného, i
 „Jsem tvůj dlužník, vzácný pane. Kdybys mě nestrhl stranou, strom by mě zabil. Zachránil jsi mi život. Nemám jak ti takovou službu oplatit. Ale slibuji, že udělám všechno, abych splnil tvé přání a doprovodil tě domů co nejrychleji. Zkus mi, prosím, uvěřit! Na svou čest ti přísahám.“
 
 Divý vítr mu dál kradl slova.
+
+</section>

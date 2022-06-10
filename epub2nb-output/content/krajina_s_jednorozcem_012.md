@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Šestá kapitola
 
 Natáhl se do dubnové trávy v lese nedaleko jezera.
@@ -162,3 +164,5 @@ Z úvah ho vyrušil rozruch u stavení. Děti, které vyhlížely stádo, při
 „Hříbata, už je ženou!“
 
 Latydar se váhavě zvedl z trávy a zamířil mezi lidi. Ohař zívl, protáhl se a neochotně ho následoval.
+
+</section>

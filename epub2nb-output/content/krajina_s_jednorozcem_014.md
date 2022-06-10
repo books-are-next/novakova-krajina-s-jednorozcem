@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Osmá kapitola
 
 Blížila se půlnoc. Stěny komnaty, ověšené kůžemi vzácných zvířat a obrazy vyvedenými ve zlatě a pestrých barvách, zahaloval měkký šerosvit.
@@ -222,3 +224,5 @@ Lutavis byl tvrdý k sobě i k lidem okolo. Syn ho zklamal. Lehkomyslností, 
 Lutavis zase nechtěl slyšet chlapcovo vysvětlení. To první ani kterékoli příští.
 
 A Latydar otci brzy přestal vysvětlovat cokoli. Svéhlavý kralevic.
+
+</section>

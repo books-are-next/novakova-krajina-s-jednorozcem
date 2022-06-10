@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## První kapitola
 
 Králův panoš zastihl zemskou správkyni na arkádách nad hlavním ná­dvořím kiřínského hradu a hned tam jí předal pánovo spěšné poselství. Tam si ho taky Veljana přečetla. Dvakrát. A stále jako by mu nevěřila.
@@ -71,7 +73,9 @@ Veljana cítila smutek nad sebou, nad vlastním životem, který se podobal pře
 
 Bezmyšlenkovitě sáhla po svitku veršů, které četla včera večer a líbily se jí. Snažila se odpoutat od svého rozrušení. Zprvu nedokázala básně vůbec vnímat, a když se jí konečně podařilo soustředit, našla ve slovech jenom nové rozjitření.
 
-  
+</section>
+
+<section>
 
 _Na co má prázdná slova?  
 Neřeknu, co bych chtěla.  
@@ -81,7 +85,9 @@ dívá a mlčí se mnou,
 proplouvá vodou temnou,  
 tůněmi noci mé._
 
-  
+</section>
+
+<section>
 
 _Bojím se, podzime,  
 ty zachmuřený němý.  
@@ -91,7 +97,9 @@ to líto pláněk v poli.
 Bolí je usychání?  
 Bolí je, bolí!_
 
-  
+</section>
+
+<section>
 
 Skoro vztekle odhodila pergamenový svitek na zem. Ubohé, ponižující naříkání!
 
@@ -337,33 +345,45 @@ Tříštěny, zmalátnělé mlhou ji doprovázely nějaké hlasy a prastará sl
 
 Kdysi dávno – tak dávno, že už si ani nepamatuje, zdali je to pravda – by je dokázala spojit a doplnit. Ale tehdy ještě nebyla vlči­cí, sestrou luny a půlnocí, to ještě za sebou vlekla stín. Teď už by neuměla zpívat jako lidé – a nechtěla.
 
-  
+</section>
+
+<section>
 
 _„A byla jedna krásná panna,  
 obloha jarní, nocí vraná…“_
 
-  
+</section>
+
+<section>
 
 Zaklonila hlavu a v zešikmených zorničkách posazených po stranách obličeje ji bodl svit hvězdy, na špici zobáku Prvního sokola.
 
-  
+</section>
+
+<section>
 
 _„… a byla jedna krásná paní,  
 v obilných lánech čekal na ni…“_
 
-  
+</section>
+
+<section>
 
 Noční tvorové ji vítali, patřila k nim.
 
 Pláň, co se zdála nekonečná, narazila na úpatí žulového skaliska. Tak snadno se mi dosud nedýchalo! Pod nohama oblázky a písek, rychle vzhůru, vodu, vodu slyším! Ne, voda nezpívá, voda jen zní. K čemu by voda potřebovala slova, k čemu bych je potřebovala já?
 
-  
+</section>
+
+<section>
 
 _„A byla luna, luna stálá,  
 sedmkrát sedmá paní vzala  
 z lidského na svůj svět…“_
 
-  
+</section>
+
+<section>
 
 „… už nevracej mě zpět,“ zatoužila vlčice. Tmou se rozlehlo táhlé zavytí.
 
@@ -406,3 +426,5 @@ Latydar ji balil do hřejivého pláště a něco přitom konejšivě povídal.
 Halýša se vzpamatovala, teprve když ležela vedle Latydara v kožešinách. Opřela mu hlavu o prsa a s ulehčením usnula.
 
 Latydar spát nedokázal. Hleděl do tmy a naslouchal ženinu oddechování, dokud nezačal blednout východní obzor.
+
+</section>

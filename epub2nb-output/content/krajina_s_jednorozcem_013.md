@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Sedmá kapitola
 
 Možná že mnoha hostům připadala přítomnost Halýši Jaldevicovy na Lužince o Slavnosti značkování hříbat navýsost přirozená, ale ona sama ji pokládala svým způsobem za náhodu. Uvědomila si to znova a jasně, když před svítáním vstávala dohlédnout na pečení chleba.
@@ -332,3 +334,5 @@ Dostala chuť osvobodit se od něj dočista. Jak liška, zázračně zachráněn
 Prostoupil ji nesmyslný děs. Utéct, jen utéct pryč…, je lhostejné kam!
 
 Latydar stál ještě dlouho zamyšleně pod lípou. Světle zelené lístky po něm šepotavě stříkaly vodu.
+
+</section>

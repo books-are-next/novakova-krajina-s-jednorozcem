@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Dvanáctá kapitola
 
 Yzar opustili za úsvitu. Družina rozemského vladaře vedla Latydara k moři jinou cestou, než jakou do hlavního města dorazil před pár dny coby vězeň.
@@ -35,7 +37,9 @@ Jako dnes. Odpočatá zvířata klusala k jihu.
 
 Nybem jedoucí v čele družiny začal cosi pobrukovat. Vyplašili hejno křepelek, v pleskotu polekaných křídel se vzneslo a zapadlo za oblinu nízkého pahrbku, nad nímž vycházelo dnešní slunce. Mladíkův hlas zůstal povlávat nad krajinou.
 
-  
+</section>
+
+<section>
 
 _„Dva stromy u cesty, vichřicí olámané.  
 Strže a údolí porostlá tymiánem  
@@ -46,7 +50,9 @@ A tvoje krásná, tmavá hlava,
 těžkými copy zdobená,  
 o moje prsa opřená.“_
 
-  
+</section>
+
+<section>
 
 Koně pofrkávali. Step setřásala rosu.
 
@@ -56,7 +62,9 @@ Podivný den. Dusný, horký, zamračený, téměř letní, ačkoli byl teprve d
 
 Nybem si dnes jen pobrukuje, těžký vzduch dusí slova i táhlý nápěv.
 
-  
+</section>
+
+<section>
 
 _„Sázela v kopcích lilii, ej, sokolička bílá,  
 slétli se černí krkavci, že se jim zalíbila.  
@@ -69,7 +77,9 @@ nauzdí ocelí, osedlá plameny,
 na ostrých čepelích před ránem napase,  
 že tak ukřivdili panně černovlasé.“_
 
-  
+</section>
+
+<section>
 
 Až když se před nimi rozevřel výhled na rozlehlou vodní plochu jezera Pomen, zavanul poutníkům v ústrety čerstvý větřík. Zmoření koně zdvihli pokleslé hlavy a živě zafrkali. I jezdci se probrali z otupělosti a spokojeně se nadechli. Ubylo také ovádů, lehké jezerní povívání je snad odneslo do zatuchlých arachatských bažin. Pozvolna padal soumrak.
 
@@ -176,3 +186,5 @@ O dva dny později opustili Malé jezeří a znova je přivítala otevřená s
 Bělostná vlčice, kterou zahlédl u Pomenu na své hlídce Nybem, jako by se propadla do bezměsíčných stínů.
 
 Také plavý noční dravec na rozložitých perutích se neobjevil. Latydar ho marně vyhlížel s nepřiznaným pocitem zklamání.
+
+</section>

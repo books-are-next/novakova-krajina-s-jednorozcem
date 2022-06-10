@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Jedenáctá kapitola
 
 Když Thoren přišel své paní oznámit, že krátkodechá vzpoura, uhašená snadno předně díky kněžninu svědectví a novému slibu, vyhasla stejně rychle, jak se rozhořela, dívka už neplakala. Už se zdvihla z lůžka, na němž předtím ležela zdánlivě nekonečnou dobu, stočená do klubíčka, a vzlykala rozhořčeně, zoufale, k neutišení.
@@ -49,7 +51,9 @@ Nějaké děvče dole u ohně vyskočilo na kamenný stupeň, vzneslo se nad hl
 
 Začala zpívat. Nezkušený hlas mezi palácovými zdmi měkce násobila ozvěna:
 
-  
+</section>
+
+<section>
 
 _„Step, moře, hory – dálka daleká.  
 Největší dálka – duše člověka.  
@@ -60,7 +64,9 @@ Oblaka nad hladinou.
 V kavylu mořský vítr usíná.  
 Nezbyla z dvojí samoty ani ta jediná.“_
 
-  
+</section>
+
+<section>
 
 Stříbrná olivová snítka stočená do kroužku zmatněla hlubokou tmou.
 
@@ -113,3 +119,5 @@ Pomalu, zaskočena vlastní odvahou dotkla se hlavy opřené o její tělo.
 Váhavě, udiveně klouže bílá dlaň po ebenových vlasech.
 
 „Lúwith-á dhy, Dharid-Nyr. Lúwith-á dhy.“
+
+</section>

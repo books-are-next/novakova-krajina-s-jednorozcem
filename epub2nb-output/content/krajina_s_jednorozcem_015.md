@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Devátá kapitola
 
 Zatímco byl král za hranicemi, vojevoda orlacký přijal jeho výzvu a navrátil se ke dvoru. Objevil se v Kiříně brzy po Latydarově odjezdu. Tak záhy, až to bylo s podivem – a některé dokonce napadlo, jestli Kierys, jenž vladařovu povahu znal lépe než ostatní, na Latydarovo odpuštění dávno nečekal.
@@ -81,41 +83,53 @@ Pokoušel se ji odehnat.
 
 Odmítla mě – a dobře se stalo. Vždyť jsem ráno neznal ani její jméno – a večer ji žádal o ruku. Věděl jsem, co dělám? Stěží! opakoval si – a čím víc si to říkal, tím větší nabýval jistoty, že by znova jednal stejně. Několikrát se přistihl, jak si hvízdá písničku, kterou se naučil za války od svých vojáků a skoro ji už zapomněl.
 
-  
+</section>
+
+<section>
 
 _Proč jen, má paní,  
 mám tě tolik rád,  
 když ještě včera  
 byla jsi mi cizí?_
 
-  
+</section>
+
+<section>
 
 _Jak rychle přišel,  
 stejně rychle zmizí,  
 můj pane, ten obtížný cit!_
 
-  
+</section>
+
+<section>
 
 _Mýlíš se, paní,  
 stokrát mohu chtít!  
 Leda až umřu, potom snad  
 tě nebudu už milovat._
 
-  
+</section>
+
+<section>
 
 _Jestli však v zemích za Branami  
 vzpomínky naše budou s námi,  
 i tam se budu znova ptát,  
 proč tě, má paní, mám tak rád._
 
-  
+</section>
+
+<section>
 
 _Tak je to,  
 moje sladká paní,  
 i kdybych chtěl!  
 A nechci ani._
 
-  
+</section>
+
+<section>
 
 Jaldevicova dcera mu nešla z mysli, ačkoli potkal hodně takových – i krásnějších. Tančil s nimi, ve vzácných okamžicích odpočinku po vítězných bitvách, o slunovratech, na slavnostech u dvora. Rozmlouval s nimi. Bylo mu vedle nich příjemně a líbily se mu. Ani ho ovšem nenapadlo žádat některou o ruku.
 
@@ -136,3 +150,5 @@ Zprvu chtěl úkol svěřit Trakovi. Spoléhal na něj nejvíc ze svých lidí, 
 A on sám, ačkoli se zapřisáhl, že počká na služebníkovy zprávy, by ve skutečnosti nejraději vyrazil hned za ním.
 
 Nejsi-li už teď s někým zasnoubená, podruhé mi košem nedáš, říkal si v duchu. Uvidíš!
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Čtvrtá kapitola
 
 Halýša stála před vojevodou z Orlaku. Nevyzval ji, aby si sedla. Čekala, až si Kierys přečte dopis od kněžny.
@@ -228,3 +230,5 @@ Latydar pokládal všechny strachy o osud své koruny za nesmysly – a čím
 Správce odešel i se svou sestrou vdovou, odnášeje si pocit velké křivdy.
 
 Král zůstal sám.
+
+</section>

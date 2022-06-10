@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Třetí kapitola
 
 Ruka se jí nezachvěla, když plnila pohár. Červené těžké víno odrazilo jas loučky v držáku na zdi a pětinásobný plamen svícnu na stole, až se usadilo, zčernalé, zrádné.
@@ -255,26 +257,36 @@ Prý se u dvora báli, aby se žalem nepomátl na rozumu.
 
 V krčmě u západní brány si potulný zpěvák přihnul vína a rozvážně se opřel do strun:
 
-  
+</section>
+
+<section>
 
 _„Ke králi, k ženichu pospíchá paní,  
 ej, spěchá paní,  
 stín křídel sokolích dopadl na ni._
 
-  
+</section>
+
+<section>
 
 _Nad řekou hraniční, na mostě kamenném,  
 ej, mostě kamenném,  
 zhlédla se v sokolu, co kroužil pod nebem._
 
-  
+</section>
+
+<section>
 
 _Copak si počít jen, sestro má rozmilá,  
 ej, sestro rozmilá,  
 když právě srdce své navždy jsem ztratila?_
 
-  
+</section>
+
+<section>
 
 _Ztratila jsem srdce, duši dám za něho,  
 ej, duši za něho,  
 za toho sokola, sokola bílého…“_
+
+</section>

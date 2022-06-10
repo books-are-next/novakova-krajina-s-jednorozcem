@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Šestnáctá kapitola
 
 „Jak je ti, vzácný pane?“ zeptala se dívka, která přistoupila k lůžku, jakmile se Latydar probudil. Posadila se na stoličku vedle něj.
@@ -82,3 +84,5 @@ Znova se položil. Sklouzl pohledem od nich k oknu. Díval se ven a dlouho ml�
 Otočil se k ní s jedním ze svých kratičkých úsměvů, u něj tak vzácných, které docela stíraly z jeho rysů chladnou odtažitost.
 
 „Nevím,“ odpověděl. „Snad.“
+
+</section>

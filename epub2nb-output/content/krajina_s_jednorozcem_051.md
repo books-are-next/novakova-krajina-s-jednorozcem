@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Dvanáctá kapitola
 
 Třpyt, poháněn do trysku, letí po neprošlapaných cestách, přes kořeny a spadlé větve, hloub a hloub do nitra pralesa. Stříbrolesklá šíje se pokrývá potem. Každou chvíli hrozí, že on i jezdec srazí vaz v některém opuštěném, lidmi dlouho nenavštíveném úvalu. Kam mě to vedeš, pane? Na jaké křivolaké stezky?
@@ -11,13 +13,17 @@ Latydar se dosud v duchu pře se Zalkou. To není možné, není to možné! Ne
 
 Jenže to, co se dělo po Halýšině zmizení, co nikdo nedokázal vysvětlit, co se vzpíralo zkušenosti i rozumu, to všechno náhle získávalo smysl, zapadalo jedno do druhého jak dílky skládanky, vytvářelo jasný obraz. Kletbou vyhnal vlastní ženu z lidského světa tam, odkud není návratu, jako se nelze vrátit ze zemí za Branami.
 
-  
+</section>
+
+<section>
 
 _„A byla luna, luna stálá,  
 sedmkrát sedmá paní vzala,  
 z lidského na svůj svět…“_
 
-  
+</section>
+
+<section>
 
 Na plavých křídlech jsi ke mně přilétala, Halško, má duše, a já tě nepoznal! Přilétala a utíkala přede mnou, na plavých křídlech, která nevrhají stín…
 
@@ -98,3 +104,5 @@ Obrys dívčího stínu zvýrazněl, zatmělý měsíc začal srpkovitě nabíra
 Vykročila.
 
 Latydar zaslechl, jak pod jejíma nohama bíle chrastí oblázky.
+
+</section>

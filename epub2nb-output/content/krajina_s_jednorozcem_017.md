@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Jedenáctá kapitola
 
 Vrátil se sotva před týdnem a zase chce odjet!
@@ -143,42 +145,54 @@ Poté Veljana s úlevou myšlenky na Kornelaka zapudila – a její společn�
 
 Na hrad se Veljana vracela pozdě, hlavou jí zněl útržek jednoho z příběhů, jimž se louteník v její přítomnosti opatrně vyhnul. Přesto se jí zničehonic vtíral do mysli a nemohla se ho zbavit. V duchu zase viděla Vihora onoho dne, kdy ji opouštěl, aby se už v tomto životě nepotkali. Vzpomínka však kupodivu přestala bolet.
 
-  
+</section>
+
+<section>
 
 _Nasadil přilbu, ruku zdvih,  
 na jílci meče po otcích  
 matně krvaví rubíny.  
 Svítalo, měsíc zapadal._
 
-  
+</section>
+
+<section>
 
 _Na prahu příští pustiny  
 mládenec panně sbohem dal.  
 Přízraky mrtvých z hrobů vstaly  
 a kůň měl v očích noční děs._
 
-  
+</section>
+
+<section>
 
 _Krkavci křikli zpod nebes.  
 Dunělo moře u Knížecí skály.  
 Dunělo moře, bubny duněly –  
 a vojsko táhlo. Chví se zem!_
 
-  
+</section>
+
+<section>
 
 _Víc nespatří se pod sluncem,  
 nepřijde pod hvězdami  
 obejmout rytíř bledou paní.  
 Oba dva o tom vědí._
 
-  
+</section>
+
+<section>
 
 _Prach vojsko zakryl jako dým.  
 Spílají stínům vlci šedí.  
 Vstříc jedou muži hrobům svým.  
 Vrať se mi! – Už se nevrátím._
 
-  
+</section>
+
+<section>
 
 Smutno mi je – ale už to nepálí jako horká smůla na nekryté kůži…
 
@@ -199,3 +213,5 @@ Ráno zemská správkyně zjistila, že Latydar Kornelak časně odjel. Vzal s 
 „Vzkázal mi něco?“ ptala se. Odpovědí jí bylo uctivé zavrtění hlavou.
 
 Vždyť vím, kam jel, řekla si v duchu – a zachmuřila se při pomyšlení, s jakou se mladý král může vrátit.
+
+</section>

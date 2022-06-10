@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Sedmnáctá kapitola
 
 „Řeklas mu o tom?“
@@ -226,3 +228,5 @@ Z lesa se vynořila dvojice vysokých zvířat. V zapadajícím slunci vypadal
 „Co je to? Divocí koně?“
 
 „Ne,“ odpověděla Hanuer. „To jsou pralesní jednorožci. Jejich roh vyhání jed z krve, z ran i pramenů. Když zpívají, dívají se vzhůru.“
+
+</section>

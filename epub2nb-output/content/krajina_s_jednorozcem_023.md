@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Druhá kapitola
 
 V celém tom domě bylo plno života. Jaký rozdíl proti tmavým, za­lklým chodbám starého paláce v Kiříně, odkud Terža přijela.
@@ -228,3 +230,5 @@ Víc než měsíc je to tak. Nechtěla jsem ti o tom říct, každou chvíli se
 Je kdosi maličký – a jeho přítomnost mě vyléčila.
 
 Ten maličký, anebo maličká, kterou nosím pod srdcem.
+
+</section>
