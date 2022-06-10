@@ -5,8 +5,6 @@ contentType: prose
 
 ## Osmá kapitola
 
-  
-
 Loď, vezoucí v podpalubí královského zajatce, vplula do bouřky. Moře si s ní rozmarně pohrálo, severovýchodní vítr při prvním nenadálém nárazu utrhl plachtu a potom zvesela polámal stěžně. Vichřice zahnala poškozenou kocábku, bez ustání zalévanou obrovským syčícími vlnami, daleko ze směru plavby. Zahodila ji nakonec jak hračku, která už omrzela, mezi útesy jednoho z neobydlených ostrovů, sřetězených do širokého, lodím nebezpečného oblouku. Rozemští jim přezdívali Běloskalí, námořníci v Trynu nazvali sou­ostroví Královský luk. Skutečně totiž připomínalo dlouhý válečný luk, s napjatou tětivou drobných ostrůvků a osamělých útesů, útočně obrácený proti vzdálenému rozemskému pobřeží.
 
 Dát loď jakž takž do pořádku zabralo dost času. Náraz na skaliska poškodil pravobok, takže propouštěla vodu a vydat se s ní na nejméně pětidenní plavbu, která teď k rozemským břehům zbývala, by se odvážil leda blázen, hlupák nebo sebevrah.
@@ -22,8 +20,6 @@ Když za dva týdny Latydar a jeho věznitelé odjížděli z ostrova, po obli
 Únor končil a s ním i zdejší krátká deštivá zima.
 
 \* \* \*
-
-  
 
 Přistáli u opuštěného úseku pobřeží asi sedm mil od přístavního města Utharu. Loď Trynské vyložila a spěšně odplula. Pobřežní skály okolo byly proděravělé menšími i většími jeskyněmi. Vhodnější úkryt by se v okolí našel stěží. A Médorg z Dybna úkryt pro svého zajatce hledal, nechtěl, aby se o něm příliš vědělo. Zahlazoval za sebou stopy, jak se dalo.
 
@@ -53,8 +49,6 @@ Zbývala jenom naděje na útěk. Té se nevzdával. Střežili ho sice pečliv�
 
 \* \* \*
 
-  
-
 Médorgovi lidé vyslaní zrána do přístavu se vrátili oklikou až navečer. Vedli dvanáct jezdeckých koní a nákladní mezky, obtížené vším, co bylo na cestu potřeba. Nakoupili dlouhé kabátce, úzké nohavice, šuby z kravských koží a čapky zdobené peřím, které se dokonale hodily, budou-li chtít předstírat šlechtickou družinu mířící za nějakým mírumilovným cílem.
 
 Zároveň s sebou přivezli z přístavu zprávy. V Utharu kotvil vanedský kupecký koráb. Během plavby z Viataru, vanedského sídelního města, se vždycky několik dnů zdržoval v trynských přístavních městech. Tentokrát v Sinu, kde Vanedští nakupovali vyhlášené zlatostranské víno, po němž bývala na rozemských trzích sháňka. Na rozdíl od Médorgem najaté bárky, která se dostala do bouře a ztratila kvůli ní skoro tři týdny, vanedským kupcům počasí i vítr přály, a tak třebaže vypluli ze Sinu deset dní poté, co opustila trynské břehy Médorgova loď, přistáli v Utharu už před pěti dny. A zprávy, jimiž vanedští kupci v krčmě připláceli místním za pohostinství, skutečně stály za slyšení.
@@ -83,8 +77,6 @@ Latydar neříkal nic. Za tu noc, jež minula, se mu na tváři usadil zvlášt
 
 \* \* \*
 
-  
-
 Syrový vítr vrhal jezdcům déšť do tváře. Nízké osení na polích, měnících k nepoznání před pár lety ještě téměř neobývanou přímořskou nížinu, se ostře zelenalo, mladé, právě rašící stromky oliv, tu a tam vysazené na mezích a okolo cesty, stříbřitě prosvětlovaly sychravý den. Všechno vyhlíželo šedozeleně a zelenošedě, až na trsy tři palce vysokých a pro trynské oči nezvykle velkých rozemských ladoněk, které se podobaly rozverným cákancům temně modré barvy v přísně podmračené tváři březnového dne.
 
 Doma není po jaru nejspíš ještě ani památky, napadlo Latydara. Kopce a lesy, úvaly pod sněhem, za noci vlčí vytí, jen v nížinách a u moře už se sníh asi mění v břečku a půda toužebně voní. Ale brzy začne tát všude, Modrava se požene od horských úbočí na jihu k moři zdivočelá, zakalená, nebezpečná, zalije pobřežní bažiny, potopí ostrůvky v ústí, že je budou prozrazovat pouze koruny bažinných vrb a místy skupinka uschlých vytáhlých klasů loňského rákosí vyčnívající nad vodu. A na vzdáleném návrší, jako by se vznášel na mlze, již stvořilo tání, Trynovec…
@@ -111,8 +103,6 @@ O tom, jak se protluče nekonečnými mílemi stepi až k hranicím, zatím ne
 
 \* \* \*
 
-  
-
 Po čtrnácti dnech se začal jednotvárný vzhled stepi proměňovat. Zpestřel množícími se háji stromů synrach a skupinami ostnatých keřů nasazujících právě na květ. Zvlnil se a z trávy častěji a častěji vystupovaly bělošedé balvany. Na některých – kdysi pravděpodobně vyznačujících hlavní cestu k Sedmé bráně – bylo znát stopy dávného opracování, deštěm, větrem, sluncem i sněhem zvětralé a napolo smazané ornamenty, většinou zobrazující okřídlené koně a hady s lidskými hlavami, erbovní znamení sedmibranských držav. Tu a tam se dalo přečíst pár do kamene vytesaných písmen, ale slova by z nich už sotva kdo složil.
 
 Osmnáctého dne navečer překročili brody na řece Dhéře. V těch končinách se uchýlili z přímého směru, aby se nepřiblížili k Yzaru víc než na vzdálenost čtyř, raději pěti dní jízdy. Na jižní obzor se vyhoupl obrys bělostných skalních věží. Bludiště úzkých průsmyků, soutěsek, údolí a vznosných neschůdných stěn, ve svém středu skrývající nevelké, zato nedobytné město – Sedmou bránu, kterou nikdy nikdo nepokořil. Pouze jedinkrát hrozilo městu zničení a tehdy je zachránil Thanrym.
@@ -130,8 +120,6 @@ Těžko skrýval rozrušení. Už aby padla tma, už aby usnuli…
 Ve větvích synrachu se ozvalo strašidelné naříkání žalostníka, soumrak se prohluboval.
 
 \* \* \*
-
-  
 
 Prodloužené stíny se už smísily s tmou a po slunci zbyl pouhý šarlatový pruh skřípnutý mezi obzorem a ocelovými cáry mraků. Tehdy zaslechli dusot několika koní. Mířili k nim ze stejné strany, z níž sami přijeli. Médorg i jeho muži vyskočili a chopili se zbraní. Latydar pozorně zdvihl hlavu.
 
@@ -204,8 +192,6 @@ Konečně se Latydar s úlevou vyhoupl na oblý hřbet. Pobídl hřebce nejprve
 Jasná noc si pohrávala s vláním koňské hřívy, zaplétala se do ní, do jezdcových vlasů a do záhybů jeho pláště. Nad Latydarovou hlavou zakroužil veliký dravý pták a dlouhé perutě plavě pro­bleskly tmou, jakmile se o ně opřel měsíc. Přibývající kotouč skloněný k východu vrhal jezdci do cesty jeho vlastní stín.
 
 \* \* \*
-
-  
 
 Noc a dusot šedáka, noc a vítr, noc a měsíc. A pod měsícem letí, letí plavý pták.
 

@@ -5,8 +5,6 @@ contentType: prose
 
 ## Šestnáctá kapitola
 
-  
-
 „Jak je ti, vzácný pane?“ zeptala se dívka, která přistoupila k lůžku, jakmile se Latydar probudil. Posadila se na stoličku vedle něj.
 
 Dřevěný krov, svazečky bylin pohupující se ve vánku tam a zpátky s téměř neslyšným šustěním, vůně tohoto domu neodvratně upomínaly na dům docela jiný, vzdálený odtud týdny cesty, na damalský dvorec, z něhož si Latydar odvedl svou ženu.
@@ -38,8 +36,6 @@ Latydar zavřel oči. Suché listí bylinek šepotalo, jak se svazečky, pohupov
 Když se Hanuer za pár chvil vrátila s miskou kouřící polévky, Latydar už zase spal.
 
 \* \* \*
-
-  
 
 Oknem otevřeným do příjemné, napolo letní noci o svátku Otevřených Bran doléhaly k Latydarovi zvuky slavnosti znezřetelněné dálkou. Předlouhý obřadní zpěv začínající v hlubinách smutku a postupně nabírající jasnějších tónů, prosvětlující se nadějí a nakonec zářivě uzrálý v chvalozpěv klesal do údolí, tichnul na jeho dně u říční hladiny – a slova bylo možné snad jedině tušit.
 

@@ -5,8 +5,6 @@ contentType: prose
 
 ## Pátá kapitola
 
-  
-
 Dusno a obloha skloněná tak nízko, jako by ani nebyl konec června, ale čas listopadových dešťů, tísnily Yzar. Všechno se zdálo rozmazané, lhostejné a skoro zbytečné, pokud se člověk poddal té shora doléhající tíži. Cesty jako by se ztrácely mezi rozeklanými skalami, ústíce do propastí, řeky jako by hynuly v poušti, osamění člověka, dokonce lidský život sám jako by pozbýval smyslu. A bouře, která by pročistila vzduch, dovolila volně se nadechnout a rozhlédnout po krajině omyté deštěm, nepřicházela. V noci sice občas Yzarští slýchali vzdálené hřmění a na obzoru, v odlehlosti desítek stepních mil, někde nad Východním jezeřím se blýskalo, ale sídelní město se dál zalykalo vyprahlostí podobno mořem vyvržené rybě bezvýsledně otevírající ústa vzhůru.
 
 Dharid-Nyr měl málo chuti do povinností. Vykonával je pouze z musu a byl rád, že jich není mnoho. A stejně netoužil po zábavě. Jeho kůň byl nucen spokojit se se štolbou, kterého jenom neochotně snesl v sedle a přijímal ho pouze proto, že stáj byla těsná a step příliš vábila. Přesto hřebec zrána a vpodvečer, když se v obvyklou hodinu nedočkal svého pána, podrážděně, lítostivě ržál a ostatní koně se k němu přidávali.
@@ -32,8 +30,6 @@ Vědět, o čem si vyprávějí strom a dívka, zatímco na dně květů slád
 Dharid-Nyr odešel velmi tiše. Dívka ani strom si ho nepovšimly.
 
 \* \* \*
-
-  
 
 Charin Zara se v posledních týdnech občas cítila zcela zahnaná do kouta. Co si předsevzala unést před lety, po válce, teď k unesení bylo čím dál míň. A probouzela se chuť shodit břemeno. Její poklidný vyrovnaný svět se zhroutil, ovládla ho rozháranost. Stalo se tak poté, co se setkala dokonce dvakrát tváří v tvář s mužem, k němuž se připoutala. Jasně zodpovězené otázky se zamlžily, žádaly nové odpovědi – a ty nepřicházely ani snadno, ani nezůstávaly natrvalo.
 

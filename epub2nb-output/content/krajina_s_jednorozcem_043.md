@@ -5,8 +5,6 @@ contentType: prose
 
 ## Čtvrtá kapitola
 
-  
-
 Odpouštím, řekl. Odpouštím ti. Copak by dokázal v té chvíli, na prahu její smrti, na dotek od zmrazující hrůzy proměňující lidskou tvář, copak by dokázal v té chvíli říci ne?
 
 Vyslovil dvě slova. Slova, nic než prázdný zvuk – a přece měla moc usnadnit těžkou cestu, zachránit druhého krok před propastí. Takovou moc měla nad tou, která je přijala. Ale ne nad tím, který je daroval.
@@ -62,8 +60,6 @@ Odpustit? Neodpustil jsem. Co z toho?
 Ale rána se nezacelila, naopak hnisala. Jen únava mu bránila se jí dotýkat. Žil tak týden, zaháněje nepříjemné myšlenky prací a pátráním po Halýše. Nechtěl si to přiznat, z hledání živé se však nenápadně stávalo hledání posledních šlépějí po milované bytosti, která už překročila hranice světa. Přestal vyslovovat nahlas před lidmi její jméno, zato v duchu je volal s ještě větší naléhavostí a něhou, jako by lákal zázrak, v nějž ve skutečnosti nedoufá.
 
 \* \* \*
-
-  
 
 Potom se uspané přízraky začaly vynořovat znova, zatímco zlátlo obilí na pláních svažujících se k moři.
 
@@ -128,8 +124,6 @@ Vedl s nimi spor beze slov, poněvadž v hlubinách temnoty podobně jako v h
 Nad ránem si uvědomil, že je dosud v chrámě. A tehdy vší mocí, podoben k smrti odsouzenému hledajícímu spásu, stočil myšlenky jinam. Volal spojence. Volal ho ze dna propasti a zaslechl jeho odpověď.
 
 \* \* \*
-
-  
 
 Hladina vodní nádrže pomalu šedla. Časné letní jitro vstoupilo do sloupořadí, ze zahrad vlhce voněla levandule. Pod kopuli zabloudila vlaštovka. Poletovala tam a zase zpátky, napila se v letu z nádrže a nalezla chrámová vrata otevřená dokořán.
 

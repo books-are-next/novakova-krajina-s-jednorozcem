@@ -5,8 +5,6 @@ contentType: prose
 
 ## Třináctá kapitola
 
-  
-
 Rozemský kníže Dharid-Nyr se vracel z lovu v dobré náladě. Už dlouho nebyl tak spokojen, už dlouho si neužil projížďky stepí, koně a svého krásného loveckého orla jako dnes.
 
 Všiml si, kolik polí přibylo kolem Yzaru, kolik usedlostí. Úroda byla sklizena, letos, na rozdíl od loňska, nehrozí lidem hlad. Nouze jistě, ale ne hlad – a to byl skoro zázrak.
@@ -88,8 +86,6 @@ Yzar začínal pomaličku rozkvétat do krásy.
 Dharid-Nyr to postřehl a přestal přemýšlet o svých lodích.
 
 \* \* \*
-
-  
 
 „Můj vznešený pane, tvá choť byla dnes ve městě, na tržišti! Na vlastní oči jsem ji viděl, byla tam jen se služebnou. Poznal jsem kněžnu po jizvě na pravé ruce. Nechal bych si to pro sebe, velký kníže, ale rozhořčilo mě to – copak se to hodí? Nebos jí vyjít dovolil?“
 

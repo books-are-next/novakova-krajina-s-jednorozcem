@@ -5,8 +5,6 @@ contentType: prose
 
 ## Devátá kapitola
 
-  
-
 Zatímco byl král za hranicemi, vojevoda orlacký přijal jeho výzvu a navrátil se ke dvoru. Objevil se v Kiříně brzy po Latydarově odjezdu. Tak záhy, až to bylo s podivem – a některé dokonce napadlo, jestli Kierys, jenž vladařovu povahu znal lépe než ostatní, na Latydarovo odpuštění dávno nečekal.
 
 Dorazil bez sebemenší známky pokory či lítosti, jako by se od trůnu vzdálil z vlastní vůle a z vlastní vůle se teď zase rozhodl naopak. Sebevědomí, které knížeti navíc slušelo, div nedokázalo všechny přesvědčit, že tomu tak skutečně bylo.
@@ -49,8 +47,6 @@ Latydar přistoupil o krok blíž a udělal pohyb, jako by se chtěl konejšiv
 
 \* \* \*
 
-  
-
 Nazítří za sebou Latydar zanechal úzké uličky Kiřína a vydal se k jihozápadu. S malou družinou a v sedle výtečného koně by uběhla dlouhá cesta rychle, ale Latydar nespěchal.
 
 Poprvé putoval na zvířeti, které si přivedl z Damalu. Stálo ho spoustu námahy a trpělivosti napravit, co v dubnu způsobil mistrovsky hozený kamínek. Musel ochočovat hřebce znova od začátku a mnohem pomaleji. Po nepříjemném zážitku ztratil kůň k mladíkovi důvěru a bylo vlastně s podivem, že vůbec dovolil, aby si ho Latydar odvedl z lužinecké ohrady. Když se ho pak poprvé pokusil osedlat, shodil šedák nevítaného jezdce, ukolébaného zdánlivou povolností zvířete, tak, že Latydar skoro dva týdny kulhal.
@@ -64,8 +60,6 @@ A i řady žebráků řídly, čím víc se poutníci blížili k obnovovaném
 Socha Sirany z Rokle, která doposud stála nad dávným pohřebištěm knížat a králů, osamělá, tichá a oprýskaná, hleděla k němu vydrolenými, zamženými zorničkami. Na její kamenné hlavě, v koruně pokryté lišejníkem, toho roku zahnízdili stěhovaví ptáci. Vykládalo se to jako nadějné znamení.
 
 \* \* \*
-
-  
 
 Polozapomenutý obyčej přikazoval králi dohlédnout na to, jak jsou pokládány základy chrámu v sídelním městě. Dávná knížata prý sama pomáhala na stavbě – a Latydar se rozhodl udělat totéž.
 
@@ -87,29 +81,41 @@ Pokoušel se ji odehnat.
 
 Odmítla mě – a dobře se stalo. Vždyť jsem ráno neznal ani její jméno – a večer ji žádal o ruku. Věděl jsem, co dělám? Stěží! opakoval si – a čím víc si to říkal, tím větší nabýval jistoty, že by znova jednal stejně. Několikrát se přistihl, jak si hvízdá písničku, kterou se naučil za války od svých vojáků a skoro ji už zapomněl.
 
+  
+
 _Proč jen, má paní,  
 mám tě tolik rád,  
 když ještě včera  
 byla jsi mi cizí?_
 
+  
+
 _Jak rychle přišel,  
 stejně rychle zmizí,  
 můj pane, ten obtížný cit!_
+
+  
 
 _Mýlíš se, paní,  
 stokrát mohu chtít!  
 Leda až umřu, potom snad  
 tě nebudu už milovat._
 
+  
+
 _Jestli však v zemích za Branami  
 vzpomínky naše budou s námi,  
 i tam se budu znova ptát,  
 proč tě, má paní, mám tak rád._
 
+  
+
 _Tak je to,  
 moje sladká paní,  
 i kdybych chtěl!  
 A nechci ani._
+
+  
 
 Jaldevicova dcera mu nešla z mysli, ačkoli potkal hodně takových – i krásnějších. Tančil s nimi, ve vzácných okamžicích odpočinku po vítězných bitvách, o slunovratech, na slavnostech u dvora. Rozmlouval s nimi. Bylo mu vedle nich příjemně a líbily se mu. Ani ho ovšem nenapadlo žádat některou o ruku.
 

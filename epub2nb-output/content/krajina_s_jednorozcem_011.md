@@ -5,8 +5,6 @@ contentType: prose
 
 ## Pátá kapitola
 
-  
-
 Taržická kněžna, členka Velké rady, správkyně jedenáctého kraje Veljana Nobarova přijala vpředvečer prvního února, před Svátkem havranů nečekaného hosta.
 
 Latydar Kornelak dorazil na její hrad za soumraku, s malou družinou, a žádal o přístřeší. Hned tušila, že ho k ní náhoda nepřivedla.

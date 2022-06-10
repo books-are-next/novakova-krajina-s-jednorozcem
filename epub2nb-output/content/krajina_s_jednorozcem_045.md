@@ -5,8 +5,6 @@ contentType: prose
 
 ## Šestá kapitola
 
-  
-
 Po návratu z chrámu Latydar narazil na kněžnu-správkyni, jak se pod arkádami vnitřního nádvoří prochází s rozemským rytířem. Živě se spolu bavili. Popravdě mluvil hlavně Séned-Mar a dívka mu naslouchala. Potom se zastavila a rozesmála se lehkomyslným dívčím smíchem, kterého by se Latydar od vážné Veljany nikdy nenadál.
 
 Neviděl je dnes takto poprvé, naopak, potkával je ve dvou skoro denně, ale ve svém předchozím rozpoložení tomu nepřikládal žádnou váhu. Trynská správkyně se zkrátka snažila dodržet, co slíbila, a rozemský šlechtic se pokoušel najít dalšího mocného spojence.
@@ -85,8 +83,6 @@ Latydar nějak vytušil, o čem dívka přemýšlí. Zastavil se podruhé, a j
 
 \* \* \*
 
-  
-
 Dalšího dne konečně zasedla Velká rada. Latydar tentokrát chtěl, aby se sjeli skutečně všichni. Proto tak dlouho čekal, ačkoli průtahy vždycky těžko snášel a teď byl zvlášť jako na trní. Přál si rychle vyřešit, co bylo třeba, a potom… Potom? Snad hledat dál. Kdekoli…
 
 Povolal do sídelního města nejen velmože-správce trynských krajů, sezval také čtrnáct zástupců nižší šlechty, o nichž se dozvěděl od Veljany, že zasedli ve shromáždění, když se on ztratil a byl řešen spor, kdo má vládnout zemi.
@@ -135,8 +131,6 @@ A Veljanu napadlo, jestli ho ve skutečnosti ty věčné půtky svým způsobem
 
 \* \* \*
 
-  
-
 Večer pořádal vladař slavnost. Velkolepá hostina, nespočet světel, lesk drahocenných rouch, hudba stékající z oken do srpnové noci, všechna ta barvitá okázalost, v níž Latydar čas od času nacházel zalíbení.
 
 Kněžna-správkyně protančila noc s rozemským rytířem Séned-Marem. Nebýt to právě ona, panstvo by se pohoršilo. Ale Veljana si dávno dokázala získat dvůr natolik, že cokoli dělala, považovali zdejší lidé za správné. Místo odporu k vyslancům nedávných nepřátel probudila v Trynských shovívavou vstřícnost a ochotu dívat se na tyhle Rozemské jinak.
@@ -174,8 +168,6 @@ Vyhoď mě vysoko, vysoko, rytíři z cizí země, a pak mě pevně chyť! Je�
 Škoda že já zůstávám…
 
 \* \* \*
-
-  
 
 Eistha Char se zhoupla na vysoké vlně, jako by pták roztáhl křídla a odrazil se k letu, jako by hříbě pustili ze stáje do ohrady. Pod plnými plachtami, štíhlá příď rozčísla hladinu. A lidnatý sinský přístav se zdál Veljaně najednou prázdný, mořská pláň zvučela v jejím nitru. Pocítila stesk a touhu. Lekla se jich. Přitáhla plášť k tělu, jako by ji ovanul vlhký chlad. Špičky střevíčků smáčelo moře, vodní tříšť zanechávala na sametovém lemu řízy bělavé mapy, schnoucí v dopoledním slunci.
 

@@ -5,8 +5,6 @@ contentType: prose
 
 ## První kapitola
 
-  
-
 Králův panoš zastihl zemskou správkyni na arkádách nad hlavním ná­dvořím kiřínského hradu a hned tam jí předal pánovo spěšné poselství. Tam si ho taky Veljana přečetla. Dvakrát. A stále jako by mu nevěřila.
 
 „Pojď se mnou dovnitř, je chladno,“ poručila mládenci, který čekal, zda jej propustí. V přilehlé komnatě usedla ke krbu a vyzvala Latydarova služebníka, aby jí pověděl, co se vlastně stalo.
@@ -73,6 +71,8 @@ Veljana cítila smutek nad sebou, nad vlastním životem, který se podobal pře
 
 Bezmyšlenkovitě sáhla po svitku veršů, které četla včera večer a líbily se jí. Snažila se odpoutat od svého rozrušení. Zprvu nedokázala básně vůbec vnímat, a když se jí konečně podařilo soustředit, našla ve slovech jenom nové rozjitření.
 
+  
+
 _Na co má prázdná slova?  
 Neřeknu, co bych chtěla.  
 Jsem němá jako ryba,  
@@ -81,6 +81,8 @@ dívá a mlčí se mnou,
 proplouvá vodou temnou,  
 tůněmi noci mé._
 
+  
+
 _Bojím se, podzime,  
 ty zachmuřený němý.  
 Bojím se, líto je mi.  
@@ -88,6 +90,8 @@ To líto strnišťové,
 to líto pláněk v poli.  
 Bolí je usychání?  
 Bolí je, bolí!_
+
+  
 
 Skoro vztekle odhodila pergamenový svitek na zem. Ubohé, ponižující naříkání!
 
@@ -161,8 +165,6 @@ S tím navečer opustila vojevodův dům odhodlanější, než do něj přišla
 
 \* \* \*
 
-  
-
 A zase Kiřín plný rozdychtěného slavnostního davu, rytíři, měšťané, praporce, dvojí kruh hradeb a všude voní čerstvé větve jedlí, borovic, smrků… Dravci se vznášejí ze sokolnických rukavic. Trubky, píšťaly, bubínky. Země se otřásá pod nohama, otřásá se vzduch. Jako před rokem.
 
 A přece ne tak.
@@ -178,8 +180,6 @@ Stín ustoupil. Choulí se žebrácky ve špinavém koutě.
 Opodál. Vyčkává.
 
 \* \* \*
-
-  
 
 Latydar šel do Velké rady sebevědomě, stejně jako pokaždé. Proč také ne? Všechno bylo v pořádku, jen musel dostát zvyklostem, požádat o to, co je předem splněno. Nepočítal s odporem, pokud šlo o Halýšinu korunovaci – i když by musel oslepnout nevšimnout si, jak se nejeden z velmožů k jeho svatbě staví. Dokonce Veljana. Ale pokládal kněžnin chlad, s nímž se obracela k mladé nevěstě, za poloviční vrtoch, projev uražené ješitnosti – nepotěšilo ji, že se o všem dozvěděla na poslední chvíli, říkal si. Jenže copak se ke mně někdy chovala tak, abych si mohl myslet, že o mně skutečně chce něco vědět? Vždyť jsem si občas připadal jako odmítaný prosebník, žebrající o její sesterskou přízeň. A teď je uražená. Dlouho jí to nevydrží.
 
@@ -218,8 +218,6 @@ Rada čekala výbuch zlosti. Mlčenlivý hněv velmože zaskočil.
 „Stalo se po právu,“ řekla Veljana pevně.
 
 \* \* \*
-
-  
 
 Halýša nebyla rozhodnutím Rady nijak udivená.
 
@@ -273,8 +271,6 @@ Usnula.
 
 \* \* \*
 
-  
-
 Když Latydar osaměl, kupodivu rychle se ovládl. Posadil se do křesla, zády k oknu, natáhl nohy před sebe, ruce založil na prsou a s hlavou mírně skloněnou začal uvažovat.
 
 Ovšem, uznal po chvíli, byla to moje chyba. Scházela mi trpělivost. Přinutil jsem své už tak rozkacené rádce opustit útulné domovy, příjemné nicnedělání u praskajících krbů, a pár dnů po zimním slunovratu zamířit do Kiřína. Ani nepřijeli všichni, tolik jsem pospíchal, že jsem těm vzdálenějším nedopřál dost času na cestu. Protože jsem se nemohl dočkat, až se pokloní Halýše, až jí vzdají náležitou úctu, až ji ozdobí královskou korunou. A přál jsem si dokázat jí samé, že se mýlí, očekává-li nepřízeň mých lidí. Choval jsem se jak zamilovaný blázen. Lepší bylo nechat uplynout pár měsíců. Dovolit panstvu, ať si zvykne na tu, kterou jsem si přivedl, umožnit jim, aby se vyléčili ze slepoty vzešlé z pošetilé, dotčené pýchy. Potom by sami museli prohlédnout, že Trynu se nedostalo mnoha tak dobrých královen, jako je Halýša.
@@ -327,8 +323,6 @@ Musel se přesvědčit, zda alespoň klidně spí – a ukonejšit tak rozjit�
 
 \* \* \*
 
-  
-
 Všude dokola se povalovala lehká mlha, prozářená měsícem. Obrysy stromů a keřů, skalisek rozesetých v rozlehlé pláni, kamenů, vysokých, vysokánských trav, siluety vlků, sov kroužících nízko nad zemí, to všechno z oparu vystupovalo náhle, stříbřitě, měkce.
 
 Poblíž zaslechla zurčení pramene. Neznala tu krajinu, a přesto jí nebyla cizí. Všechny noční krajiny se skrývaly v této jediné, nádherné, bohaté, bez lidí. Ano, bez lidí. Já přece nejsem člověk! Jsem duše stromu, a jsem vlčice, a noční dravec na neslyšných křídlech. Já jsem částečka nekonečné pláně okolo, nekončící noci, v žilách mi proudí ne lidská krev, ale světlo luny. Mlha mě neskryje, nebudu-li chtít – a budu-li, i za nejjasnější noci se ztratím každému všetečnému pohledu.
@@ -343,21 +337,33 @@ Tříštěny, zmalátnělé mlhou ji doprovázely nějaké hlasy a prastará sl
 
 Kdysi dávno – tak dávno, že už si ani nepamatuje, zdali je to pravda – by je dokázala spojit a doplnit. Ale tehdy ještě nebyla vlči­cí, sestrou luny a půlnocí, to ještě za sebou vlekla stín. Teď už by neuměla zpívat jako lidé – a nechtěla.
 
+  
+
 _„A byla jedna krásná panna,  
 obloha jarní, nocí vraná…“_
 
+  
+
 Zaklonila hlavu a v zešikmených zorničkách posazených po stranách obličeje ji bodl svit hvězdy, na špici zobáku Prvního sokola.
+
+  
 
 _„… a byla jedna krásná paní,  
 v obilných lánech čekal na ni…“_
+
+  
 
 Noční tvorové ji vítali, patřila k nim.
 
 Pláň, co se zdála nekonečná, narazila na úpatí žulového skaliska. Tak snadno se mi dosud nedýchalo! Pod nohama oblázky a písek, rychle vzhůru, vodu, vodu slyším! Ne, voda nezpívá, voda jen zní. K čemu by voda potřebovala slova, k čemu bych je potřebovala já?
 
+  
+
 _„A byla luna, luna stálá,  
 sedmkrát sedmá paní vzala  
 z lidského na svůj svět…“_
+
+  
 
 „… už nevracej mě zpět,“ zatoužila vlčice. Tmou se rozlehlo táhlé zavytí.
 

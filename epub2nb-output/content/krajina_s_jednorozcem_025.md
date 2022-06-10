@@ -5,8 +5,6 @@ contentType: prose
 
 ## Čtvrtá kapitola
 
-  
-
 Byly asi dvě hodiny po půlnoci, když Veljanu vzbudil hluk v předpokoji. Její služebná tam komusi zdvořile odporovala, komusi, kdo se nejspíš dožadoval vstupu.
 
 Kněžna vstala, rychle vklouzla do lehkého šatu a přes ramena hodila plášť. Potom otevřela dveře.
@@ -70,8 +68,6 @@ Přesvědčila přítelkyni vlastní jistotou. Dokonce uplakaná služka přesta
 Veljana sama se vrátila do své komnaty a kupodivu brzy zase usnula.
 
 \* \* \*
-
-  
 
 Od Halýšina zmizení uplynul čtvrtý den a nikdo po ní nenašel ani jedinou stopu.
 
@@ -139,8 +135,6 @@ Nechala tu otázku bez odpovědi a tichounce přiložila do krbu, než odešla 
 
 \* \* \*
 
-  
-
 Kierys potkal Veljanu na cestě z trůnního sálu, kde jednala s královými staviteli. Trynovec stále rostl, téměř před očima, palác a chrám se čím dál míň tyčily nad staveništěm, čím dál víc nad skutečným městem. Už tu nestály jenom velké měšťanské domy okolo hlavního náměstí. Vyrůstaly široké ulice, sbíhající se k trhovým místům, před zimou lidé dokončili další stavení a nastěhovali se do nich. Bylo až s podivem, jak rychle Latydarův sen nabýval života.
 
 „Veljano,“ řekl dívce vojevoda, „Rada má zasednout zítra. Všichni dorazili – ale po Latydarovi není ani vidu, ani slechu! Poslal jsem dokonce několik mužů, aby se po něm poohlédli. Vrátili se asi před hodinou s tím, že král nikde v okolí není.“
@@ -178,8 +172,6 @@ A přivážel zvěst, kvůli níž zemská správkyně nad ránem vstala z lo�
 U osady zvané Nytava toho dne chytili královi lidé divokého stříbrného koně bez sedla. Tak nalezli vladařova hřebce, jeho samého však nenašli, jen ještě nad strží u Dračích útesů, pod nimiž moře vře jak netvorova krev, na kraji stezky z kluzkých kamenů, cár pláště. A byl to nepochybně králův plášť.
 
 \* \* \*
-
-  
 
 Velice opatrně udělala ještě dva kroky a podívala se z vrcholku Dračích útesů do moře. Bylo hluboko, ale jeho řev zněl i tady nahoře hrozivě, podoben zběsilému bouření podsvětní šelmy. Tmavé, vlnami neustále svlažované výčnělky ostrých skal připomínaly dravčí zuby. Hladový zpěněný chřtán. Dračí tlama. Nikdy nevydala, co jí propadlo – tak to říkali zdejší lidé, nytavští rybáři, lodníci i obyčejní měšťané. Nenasytnost Dračí tlamy byla v kraji příslovečná.
 

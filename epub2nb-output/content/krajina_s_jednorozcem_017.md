@@ -5,8 +5,6 @@ contentType: prose
 
 ## Jedenáctá kapitola
 
-  
-
 Vrátil se sotva před týdnem a zase chce odjet!
 
 Když se Latydar pár dní potom, co přibyl do Kiřína z nově založeného Trynovce, rozhodl, že musí osobně vyřešit šlechtický spor o Písčité brody, který hrozil ozbrojeným střetem, a zdržel se tam déle, než předpokládal – poněvadž prý bylo zároveň záhodno popohnat k zodpovědnosti loupeživé rytířstvo z nedalekých Jeleních skal –, přijala Veljana jeho nepřítomnost vcelku trpělivě.
@@ -145,30 +143,42 @@ Poté Veljana s úlevou myšlenky na Kornelaka zapudila – a její společn�
 
 Na hrad se Veljana vracela pozdě, hlavou jí zněl útržek jednoho z příběhů, jimž se louteník v její přítomnosti opatrně vyhnul. Přesto se jí zničehonic vtíral do mysli a nemohla se ho zbavit. V duchu zase viděla Vihora onoho dne, kdy ji opouštěl, aby se už v tomto životě nepotkali. Vzpomínka však kupodivu přestala bolet.
 
+  
+
 _Nasadil přilbu, ruku zdvih,  
 na jílci meče po otcích  
 matně krvaví rubíny.  
 Svítalo, měsíc zapadal._
+
+  
 
 _Na prahu příští pustiny  
 mládenec panně sbohem dal.  
 Přízraky mrtvých z hrobů vstaly  
 a kůň měl v očích noční děs._
 
+  
+
 _Krkavci křikli zpod nebes.  
 Dunělo moře u Knížecí skály.  
 Dunělo moře, bubny duněly –  
 a vojsko táhlo. Chví se zem!_
+
+  
 
 _Víc nespatří se pod sluncem,  
 nepřijde pod hvězdami  
 obejmout rytíř bledou paní.  
 Oba dva o tom vědí._
 
+  
+
 _Prach vojsko zakryl jako dým.  
 Spílají stínům vlci šedí.  
 Vstříc jedou muži hrobům svým.  
 Vrať se mi! – Už se nevrátím._
+
+  
 
 Smutno mi je – ale už to nepálí jako horká smůla na nekryté kůži…
 

@@ -5,8 +5,6 @@ contentType: prose
 
 ## Dvanáctá kapitola
 
-  
-
 Pod stromy vysazenými v popelu mrtvých hořely hranice. Kouř, co z nich plazivě stoupal, se mísil s jemnou vlhkou mlhou. Druhá noc ohňů. Mezi tou první o letním slunovratu a tou listopadovou dozrálo obilí, děti i hříbata povyrostly.
 
 Rok, napjatý od noci ohňů léta k noci ohňů podzimních a od listopadu k červnu se uzavíral prastarým svátkem, v němž se snoubily život a smrt, minulé a budoucí, počátek a konec.
@@ -37,12 +35,18 @@ Mlha tlumila a lámala zvuky, dívčí hlasy působily téměř přízračně, 
 
 Děvčata ze vsi náležející k Pomezí a děvečky ze dvora se ozvaly z blízké Zubří hlavy, kam vyšly společně. Ten vážný popěvek bude z Lužinky a ten, co mu rozverně odpovídá, z Blatin:
 
+  
+
 _„Hezká jsem, hezká, přehlédls to snad?  
 Neviděl jsi mě v kole tancovat?  
 Slepého nechci, zůstaň sám, jak jsi!  
 Pro jiného jsem rostla do krásy.“_
 
+  
+
 Ani nevěděla proč, snad že se příliš hořce zahleděla do jedné tváře a nechtěla zpívat o tom, o čem ani nešeptala, přidala do toho věnce splétaného od pahorku k pahorku, od kopce ke kopci, nad usedlostmi, vesnicemi a dvory, známé zaklínadlo. Nepatřilo sem docela, podobalo se peří cizokrajných pávů vetknutému v dožínkové koruně. Ty, které je zaslechly, tu nepatřičnost vycítily, ale zalíbila se jim – a tak se připojovaly k Halýše jedna po druhé. Brzy zaklínala celá krajina.
+
+  
 
 _„Mateřídouška, routa, bez,  
 přijď pro mě, milý, ještě dnes!  
@@ -61,6 +65,8 @@ spěchej ke mně,
 čekám tě, jak déšť čeká země.  
 Mateřídouška, routa, bez,  
 přijď pro mě, milý, ještě dnes.“_
+
+  
 
 Halýša zmlkla a už jen poslouchala, jak se k ní zaklínání vrací, jak je posléze znova přerušují zpěvavá volání. Trvalo to do půlnoci. Nakonec se rozlehlo táhlé troubení volských rohů, do nichž zaduli mládenci od ohňů. Skončilo, jako když utne, a rozhostilo se ticho. Beze slova se panny vracely k ostatním.
 
@@ -138,8 +144,6 @@ A vzpírala se tomu rozhodnutí víc než roček sedlu.
 
 \* \* \*
 
-  
-
 Do jizby v prvním patře borovnické hospody vstoupil zprudka a práskl za sebou dveřmi. Rychlá jízda nočním lesem smetla veške­rou vyrovnanost, kterou silou mocí předstíral při rozhovoru s Halýšou. Nejistota se mísila s pocitem poraněné pýchy. Stěží polykal další dívčino odmítnutí. A ničeho jiného než odmítnutí se mu nedostalo, takový nedovtipný hlupák nebyl. Nemít tak tvrdou hlavu, musel se vzdát. Řekla přece jasně, nepřijdu! Nemít tak tvrdou hlavu – a nemít tu pannu rád.
 
 V komnatě na něho čekal Trak. Latydar si poručil medovinu a prolil hrdlem dva poháry, jako by pil vodu v horkém letním dnu. Služebník mlčel, nevyptával se. Jen svého krále pozoroval divnýma horečnatýma očima. Ale mladík si Traka nevšímal. Nalil si další pohár. Hořkosladký nápoj mu začal stoupat do rozpálené hlavy a Latydar se trochu vzpamatoval.
@@ -173,8 +177,6 @@ Halško, moje Halško! Ty jsi věru obratnější než rozemský kat. Ohněm mě
 Čarodějko! Kolika bylinami jsi provoněla noc, ty sama ze všech nejvonnější?
 
 \* \* \*
-
-  
 
 Trak vyšel do předranní tmy před hostincem. V šenku už byla jenom krčmářka, sklízející stoly po opozdilých hostech. Ale nedivila se, když zahlédla služebníka urozeného cizince, jak míří na dvůr. Pán se vrátil před chvílí, dobrý sluha musí dohlédnout, jestli bylo náležitě postaráno o koně. Tak to má být. Brzy s prací skončila a pospíšila na lože. Ani si nevšimla, že se stařec v konírně zdržuje nezvykle dlouho.
 

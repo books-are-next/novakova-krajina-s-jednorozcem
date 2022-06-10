@@ -5,8 +5,6 @@ contentType: prose
 
 ## Třetí kapitola
 
-  
-
 Nevěsta prosila, aby svatbu o pár týdnů odložili. Alespoň do slunovratu, říkala, v kraji, kde jsem vyrostla, se věří, že svatba, když dne přibývá, přináší dobrou vůli a šťastné roky. Zvláště když letos o slunovratu vzejde Nová luna a měsíc stane zemi skoro nadosah!
 
 Damalská zemanka znala několik pověstí a písní o moci Nové luny, ale žádnou podobnou pověru ne. Nechala si to však pro sebe. Zato král, třeba nerad, kněžně věřil a podvolil se jejímu přání. Měl ostatně tím víc času na svatební přípravy. Honosností obřadu i hostiny chtěl znova přesvědčovat některé ze svých odpůrců, jak vladařsky si umí počínat. Lesk a přepych spojovali mnozí s tesknou vzpomínkou na království před válkou. A Latydar Kornelak se ve svých slabších chvílích snažil získat si lidskou úctu třebas i marnotratnými pitkami.
@@ -52,8 +50,6 @@ Proklouzla okolo něj. Ranní světlo jí přitom padlo přímo do tváře a vy
 Když král po půl hodině vstupoval do hodovní síně, šedivé prosincové ráno dozrávalo v pošmourný den.
 
 \* \* \*
-
-  
 
 Zacinkala odnášená cínová miska.
 
@@ -104,8 +100,6 @@ Rozčiloval se čím dál víc, ani si nepovšiml jejího rozrušení, nebo si h
 Odešla mlčky a tiše za sebou zavřela dveře.
 
 \* \* \*
-
-  
 
 Halýša si musela přiznat, že ji královo přání vyvedlo z míry. Bylo málo věcí, pro něž se kdy v životě cítila nesvá. A našlo se málo lidí, vedle nichž ztrácela jistotu. Latydar patřil mezi tu hrstku.
 
@@ -189,10 +183,14 @@ Zadívala se na něj. Obličej měl ve stínu. Nepochybně se jejími slovy bavi
 
 Překvapilo ji, když Latydar zahvízdal melodii, která k ní patřila. Ale ano, jistě, mohl ji znát. Bezpochyby si ji zpívávali damalští vojáci v jeho vojsku.
 
+  
+
 _„Veliký měsíc, čaromocná máta,  
 červnová tráva rozevlátá,  
 na prahu stanul slunovrat,  
 ještě výš nechte ohně plát…“_
+
+  
 
 Pohvizduje si do kroku vzdalujících se divokých koní damalský popěvek, který si vybavil, sotva zaslechl pár slov. Koně se ztrácejí za ohybem stezky. Ochlazuje se, slunce zapadá. Zbytek družiny je dostihl a zarazil se opodál.
 
@@ -237,8 +235,6 @@ Nezdálo se jí správné dárek přijmout. Přesto podruhé neodmítla. A pro�
 Pak pobídli koně a cvalem zamířili k sídelnímu městu.
 
 \* \* \*
-
-  
 
 Slavnost. Světla. A stoly plné zvěřiny, poháry s vínem, medovina. Nejnádhernější roucha, smích a hovor. Bubny, loutny, píšťaly. Čas k tanci. Jako tolikrát, vzdychla Terža.
 

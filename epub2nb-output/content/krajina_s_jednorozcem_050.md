@@ -5,8 +5,6 @@ contentType: prose
 
 ## Jedenáctá kapitola
 
-  
-
 Když Thoren přišel své paní oznámit, že krátkodechá vzpoura, uhašená snadno předně díky kněžninu svědectví a novému slibu, vyhasla stejně rychle, jak se rozhořela, dívka už neplakala. Už se zdvihla z lůžka, na němž předtím ležela zdánlivě nekonečnou dobu, stočená do klubíčka, a vzlykala rozhořčeně, zoufale, k neutišení.
 
 V Thorenových patách vstoupil Dharid-Nyr. Bez ohlášení. Na kabátci krev. Svou, nepřátelskou a Séned-Marovu. Ta ho pálila, jako by ji prolil sám.
@@ -51,6 +49,8 @@ Nějaké děvče dole u ohně vyskočilo na kamenný stupeň, vzneslo se nad hl
 
 Začala zpívat. Nezkušený hlas mezi palácovými zdmi měkce násobila ozvěna:
 
+  
+
 _„Step, moře, hory – dálka daleká.  
 Největší dálka – duše člověka.  
 A láska v ní jak posel v zlaté zbroji,  
@@ -60,11 +60,11 @@ Oblaka nad hladinou.
 V kavylu mořský vítr usíná.  
 Nezbyla z dvojí samoty ani ta jediná.“_
 
+  
+
 Stříbrná olivová snítka stočená do kroužku zmatněla hlubokou tmou.
 
 \* \* \*
-
-  
 
 Dharid-Nyr proseděl noc v předkomnatě zraněného přítele.
 
@@ -89,8 +89,6 @@ Rozednívá se. V probouzejícím se hradě nastává obvyklý shon. Vrzly dve�
 Daleko odtud Hanuer vyšla na zápraží a jde si umýt unavené oči ke studni s dřevěným vahadlem.
 
 \* \* \*
-
-  
 
 Stála u okna jeho komnaty. Stejně jako včera navečer jí Dharid-Nyr neviděl do tváře, oslněn jasným dnem venku. Ale tentokrát k němu pokročila, vystoupila ze světla. A poznal, že ani ona té noci nespala. Že dosud nesvlékla šedý svatební šat. Jen šperky odložila.
 

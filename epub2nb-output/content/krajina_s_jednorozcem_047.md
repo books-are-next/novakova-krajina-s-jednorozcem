@@ -5,8 +5,6 @@ contentType: prose
 
 ## Osmá kapitola
 
-  
-
 Hanuer hladila hebký karmínový hřbet knihy zdobený olivovou snítkou provedenou ve zlatě. Nádherný a nesmírně cenný dar od trynského krále. Poznala, že ho vybíral pečlivě jako projev ne pouhé vděčnosti za pomoc, ale jako výraz přátelství. Rozemský příběh o Thanrymovi a Hanuer se dávno před velkou válkou, snad v časech Latydarova praděda, dostal k trynskému dvoru s některým poselstvem – a teď se vracel domů. Jindy by se dívka dárkem těšila a donekonečna prohlížela stranu za stranou, uhranutá mistrovstvím iluminací, živostí barev, slovy, která po léta znala nazpaměť, a přece jako by je pokaždé potkávala znova. Jindy jistě, a pokud čas, který teď stojí na prahu, přejde, aniž by příliš vzal, vrátí se k dárku a náležitě ho docení. Dnes ji moc nezajímá.
 
 Dívka sedí za stolem proti bratrovi, a zatímco on večeří hustou polévku z hovězího masa a skopovou pečeni, zatímco na statek padají stíny pozdního odpoledne a ohlazují hrany věcí, ale ne hrany myšlenek, uvažuje Hanuer o novinkách, které bratr přivezl. Stejně jako kniha jí však dnes připadají málo podstatné.
@@ -67,8 +65,6 @@ A Séned-Mar se cítil zaskočen, neboť to bylo poprvé, co od ní slyšel tat
 
 \* \* \*
 
-  
-
 Těch několik služebníků, co s sebou měl, nechal Séned, ať cestují s trynskými dary sami, vzal hrstku ozbrojených jezdců a vyrazil k Yzaru. Spěchal, jak si přála Hanuer, a protože ho začaly pohánět také vlastní obavy.
 
 Muži nešetřili sebe ani koně. Zvířata vyměňovali, kde se dalo, a nebylo to tentokrát obtížné. K branám sídelního města se stahovala nejen šlechta, ale i pastevecké rodiny se svými stády.
@@ -90,8 +86,6 @@ Séned-Mar se marně pokoušel odhadnout, kolik z těch vzrušených a rozhně
 Všechno vypadalo mnohem hůř, nejen než ještě před pár dny předpokládal, ale i než se bála Hanuer. Chválil se v duchu aspoň za opatrnost, která mu zabránila vyhovět sestřiným prosbám a vzít ji s sebou.
 
 \* \* \*
-
-  
 
 Dharida zastal uprostřed bezvýznamného rozhovoru s hradním správcem. Vladař přítele uvítal s radostí a nejprve se začal podrobně vyptávat na jeho cestu a trynského krále. Choval se, jako by si ani neuvědomoval, že nad jeho hlavou visí meč. Zvěst o zpřístupnění přístavů ho navýsost potěšila a list od Latydara Kornelaka přečetl pozorně a dokonce dvakrát, očividně příjemně překvapen.
 

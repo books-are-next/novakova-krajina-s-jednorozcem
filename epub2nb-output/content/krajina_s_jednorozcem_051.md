@@ -5,17 +5,19 @@ contentType: prose
 
 ## Dvanáctá kapitola
 
-  
-
 Třpyt, poháněn do trysku, letí po neprošlapaných cestách, přes kořeny a spadlé větve, hloub a hloub do nitra pralesa. Stříbrolesklá šíje se pokrývá potem. Každou chvíli hrozí, že on i jezdec srazí vaz v některém opuštěném, lidmi dlouho nenavštíveném úvalu. Kam mě to vedeš, pane? Na jaké křivolaké stezky?
 
 Latydar se dosud v duchu pře se Zalkou. To není možné, není to možné! Nesmysl, povídačka! Odporuje jí, zlostně a rozčileně odmítá přijmout její názor.
 
 Jenže to, co se dělo po Halýšině zmizení, co nikdo nedokázal vysvětlit, co se vzpíralo zkušenosti i rozumu, to všechno náhle získávalo smysl, zapadalo jedno do druhého jak dílky skládanky, vytvářelo jasný obraz. Kletbou vyhnal vlastní ženu z lidského světa tam, odkud není návratu, jako se nelze vrátit ze zemí za Branami.
 
+  
+
 _„A byla luna, luna stálá,  
 sedmkrát sedmá paní vzala,  
 z lidského na svůj svět…“_
+
+  
 
 Na plavých křídlech jsi ke mně přilétala, Halško, má duše, a já tě nepoznal! Přilétala a utíkala přede mnou, na plavých křídlech, která nevrhají stín…
 
@@ -51,8 +53,6 @@ Kůň veden příchylnou věrností se potuloval v jeho stopách. Po půlnoci t
 
 \* \* \*
 
-  
-
 Plavá vlčice. Na vrcholu kopce, na plochém balvanu pod otevřenou zářijovou oblohou. Úplněk nad ní. Úplněk v zatmění, hlouběji a hlouběji vykusovaný stínem. Vlčice větřila. Nehybná, jako by mohutnými tlapami vrostla do kamene. Vánek čechral hustou srst na bocích. A pod ní lesy a lesy, hluboké pomezní hvozdy s cestami zapomenutými, stezkami zahrazenými vyvráceným stromem, s doupaty šelem, s očima němých laní, krajina s jednorožcem. S jednorožcem, který zpívá.
 
 Cítila ve vzduchu vlhkou vůni jezera pod lužineckým dvorcem. Všechno ji táhlo k tomu místu, ona však nechtěla, nechtěla, jako by se bála pasti, vlčí jámy, řetězu u boudy, na nějž lidé poutají cizí volnost.
@@ -66,8 +66,6 @@ Vůně hub a prvního spadaného listí, dech oschlé trávy, rozmluva kořenů
 Zatoužila se skrýt, zachránit, co jí náleželo, svobodu bloudění světem, svobodu samoty bez osamění, svobodu křídel opřených do větru, do mlhy, do oblak, a závrať od nebe k zemi a pod zem až… Skrýt se před vábením, zaklínáním, toužením. Před lovcem, před smrtí.
 
 \* \* \*
-
-  
 
 Přikrčila se, napjala tělo a skočila z vrcholku kopce do volného prostoru nad vršky stromů. Stačil jen jediný nádech, jediné slastné zatrnutí v údech – a pak už pevný rozmach křídel. Uleť, jako by vyzývaly bytosti jí podobné, pro něž lidská řeč nemá jména, uleť, naléhaly. Ano, uletím, uletím, kam mě nebude moci následovat!
 

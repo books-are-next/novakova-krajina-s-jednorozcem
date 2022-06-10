@@ -5,8 +5,6 @@ contentType: prose
 
 ## Desátá kapitola
 
-  
-
 Psi žádostivýma očima sledovali dvojici večeřících mužů. Štěněcí výraz v ebenových zorničkách, ohromné mordy, jimiž dokázali zadávit vlka a poradit si s řádným jelenem, otevřené v přátelském žebravém úsměvu.
 
 Dharid-Nyr hodil oběma pořádnou hovězí kost. Zálibně ji olizovali a drtili v mohutných čelistech, spokojeně rozvalení na podlaze. Pán byl jako vždy štědrý a dlouhonozí vladařovi průvodci se těšili z dnešního večera. Lidské starosti se jich netýkaly, ačkoli jim neuniklo napětí v chování a hlase jejich pána.
@@ -75,8 +73,6 @@ Rytíř se však Trynských neobával, věřil v Kornelakovu ochranu. Trynský 
 
 \* \* \*
 
-  
-
 Jsi zase u mě? Latydar byl potěšen a udiven, když si za úzkým věžním oknem komnaty, kde ho drželi, všiml obrysu velkého nočního ptáka. V životě se s podobným dravcem nesetkal, ani v Rozemsku, ani doma, a teď ho vídal téměř každou noc, jak krouží nad stepí, usedá na skaliska, na pokroucené větve větrem otrhaných stromů. Výrazné soví oči, ale tělo skoro orlí, navíc zvláštně plavé, prapodivně zrcadlící nevtíravé noční světlo. V temnotách se dravec ztrácí, jako by ho ani nebylo.
 
 Dravčí hlava se naklání ke křídlu, zrak se upírá na muže… jsem u tebe, jsem… Ale ruku po mně nevztahuj, ty, člověk, ty neznámý. Jakou to nade mnou mocí vládneš, že za tebou křídla sama letí, vzdávajíce se svobody v závrati šťastné a zoufalé zároveň. Člověk! Nejcizejší z cizích. Člověk… mluví na mě, nerozumím. Lidé neumějí mluvit, aby jim krajina rozuměla, a nesnaží se o to. Jenže… co za hlas ke mně doléhá, co za pouto mě svazuje, že neopustím, neopustím…? Dvě pouta, mezi nimi já, svobody zbavují. Dvě pouta, já uprostřed, noc za nocí, úplněk od úplňku. Pusťte mě, nemáte právo, lidé – ty tady, a on tam. Přejte mi moje křídla beze stínu, světlo zrcadlící! Krajino, krajino, stepi, zastaň se mě!
@@ -86,8 +82,6 @@ Měkké zapleskání perutěmi. Noční dravec poplašeně vzlétl a zmizel kde
 Přicházel rozemský vladař, dva psy po boku, zamračený přísný nepřítel. Přicházel vynést ortel. Latydar ho přivítal povzneseným úsměvem.
 
 \* \* \*
-
-  
 
 Dharid-Nyr mohl konečně na pár hodin odložit starosti dnešního dne, které vtrhly do jeho domu s náhlostí a nevypočitatelností velké vody. Mířil do svých komnat, psy v patách, ale v duchu se dosud zaobíral právě ukončeným rozhovorem s Latydarem Kornelakem.
 

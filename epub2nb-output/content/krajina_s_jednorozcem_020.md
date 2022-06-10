@@ -5,8 +5,6 @@ contentType: prose
 
 ## Čtrnáctá kapitola
 
-  
-
 Nepřijdu, řekla – a přece když týden minul, zamířila k rozcestí. Jak se blížila na určené místo, šla stále pomaleji. Nakonec se zastavila docela.
 
 Nechci to udělat, proč tam tedy jdu? pomyslela si. Lepší by bylo už ho nevidět. Netrápit sebe ani jeho. Vrátím se, budu žít, jak jsem uvykla, jak mi přísluší. Najde si jinou, která snáze unese korunu.
@@ -30,8 +28,6 @@ V téže chvíli se Halýšiných neuvěřitelně zjitřených smyslů dotkl sl
 Znala tu divnou, dráždivou vůni – stejně voněla smrt, když před lety vtrhla do Pomezí s cizími nájezdníky, s vataradskými žoldáky.
 
 \* \* \*
-
-  
 
 Stříbřité kmeny čtyř staletých buků se k sobě ve výšce dvou desítek stop nakláněly a tvořily živoucí bránu, hvězdicovitý oblouk nad širokým plochým kamenem, o nějž se bukové kmeny opíraly u země. Kdysi prý zrovna tady zabili vrazi zezadu jednoho z nejlepších damalských vladyků se ženou. Smrt spravedlivých pomstili vlci, a proto je od těch časů zdejší lidé velmi ctí. Vladycké děti pak na tomto místě zasadily bukové proutky, aby jim pomohly zahnat smutek a aby svědčily o naději.
 
@@ -91,8 +87,6 @@ Pouze jakási tvář – přímo před jeho slepnoucíma očima – pohybovala
 
 \* \* \*
 
-  
-
 Halýša si sedla na zem a položila si jeho hlavu do klína. Už na Latydara nemluvila, nevolala, neopakovala jméno. Pochopila, že ji neslyší.
 
 Znala ten pocit naprosté bezmoci, naplňoval prázdnotou. Oči, nad nimiž se skláněla, se pomalu zavřely. Dýchá ještě, nedýchá?
@@ -114,8 +108,6 @@ A potom si uvědomila, že to Latydar začal krvácet. Stažené, zelenomodré 
 Skoro nevěřícně položila druhou ruku na Latydarovu hruď. Opravdu se znova začínala zdvihat? Dívka strnula. Vnímala pouze jemný pohyb pod svou dlaní.
 
 \* \* \*
-
-  
 
 Na trámech podkrovní světnice se pomalu rozsvěcel šedivý den. U vyhaslého krbu spala služka, zabalená do pláště z ovčí vlny. Neprobudilo ji, ani když se Latydar posadil na lůžku a rozhlédl se po místnosti. Svazečky léčivých bylin zavěšené pod stropem se lehce otáčely v průvanu protahujícím škvírou nad prahem.
 

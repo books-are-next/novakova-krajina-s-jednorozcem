@@ -5,8 +5,6 @@ contentType: prose
 
 ## Jedenáctá kapitola
 
-  
-
 Začátek jara. Veljanu ovládal pocit, že začíná znova všechno, i ona sama, zatímco se pole probouzejí v ozimech a ve vysoku se skřivani snaží strhnout oblohu na zem. Nebo zemi k obloze?
 
 Něco se stalo s jejíma očima. Pročistily se podobny jarně přeplněným studnám zdvihaným vřením ledových pramenů. Dlouho se musela dívat jiným směrem než na sebe, připoutalo si ji k sobě cizí neštěstí, Latydarovo a jeho rodiny. Zvláštní, ani si nevšimla, kdy se při tom soužení nad smutkem, který nebyl jejím zcela vlastním, smířila sama se sebou. Ale podrážděnost, závistivá žárlivost ochotná zaútočit v nejnesmyslnějším okamžiku, zoufalství smísené se vzdorem, jitra, za nichž se chtělo nevědět o ničem, hlavně ne o sobě, a umřít raději – byla pryč. Bez návratu, ano, odešla, prostě a náhle.
