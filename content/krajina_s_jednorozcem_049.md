@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Desátá kapitola
 
 Přemýšlívám o tom, jaké by bylo mít vedle sebe člověka, pro něhož jsem na světě nejprvnější. Málokomu se něco takového poštěstí, málokomu. A přece, nejenom sny…
@@ -85,7 +87,9 @@ A potom ji doprovodily přede dveře kněžniných komnat. Dva vyslanci zvolen�
 
 Před lety tu taky byli, aby vyslechli svatební slib a poklonili se novému vládci. Dnes budou svědky vladařova pádu. Pět a půl roku. Pět a půl roku osamění horšího, než bylo předchozí, neboť bylo osaměním bez naděje. Pět a půl roku, a přesto chodby vedoucí do dvorany jako by dosud vzpomínaly na tehdejší jitro, jako by dosud odrážely hlasy slavnostně vystrojených dívek, které doprovázely nevěstu za ženichem, na hlavách věnce z květin a peří.
 
-  
+</section>
+
+<section>
 
 _„… dala se zlákat  
 gazela mladá,  
@@ -98,7 +102,9 @@ gazela mladá, šedavá celá,
 toho, kdo zpívá,  
 uvidět chtěla…“_
 
-  
+</section>
+
+<section>
 
 Teď tudy kráčí stejná žena v jiném doprovodu, a je to, jako by vězenkyně následovala své strážce. Doléhá na ni stín a strach, že svou hru prohraje příliš brzo, s každým dalším krokem ho přibývá. Naposled váhá, bolestně váhá s očima duše žádostivě upřenýma na rozvírající se mřížoví. Jde a za družičky má obavy a nerozhodnost. Krok a ještě krok. Zalkle se rozléhají ozvuky těch kroků mezi zdmi.
 
@@ -211,3 +217,5 @@ Nedočkal se odpovědi. Séned-Mar ztratil vědomí.
 Rána byla zlá a felčaři jen rozpačitě krčili rameny, i když Dharid neváhal slíbit za záchranu přítelova života tolik, že by jim to bohatě vystačilo do konce dnů.
 
 Na kamenné dlažbě Sálu sněmů zůstala kaluž chladnoucí, srážející se krve a nad ní pitvorně rozšklebené poloticho. Dharid-Nyr před ním utekl.
+
+</section>

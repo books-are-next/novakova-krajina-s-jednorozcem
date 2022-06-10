@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Třetí kapitola
 
 Nevěsta prosila, aby svatbu o pár týdnů odložili. Alespoň do slunovratu, říkala, v kraji, kde jsem vyrostla, se věří, že svatba, když dne přibývá, přináší dobrou vůli a šťastné roky. Zvláště když letos o slunovratu vzejde Nová luna a měsíc stane zemi skoro nadosah!
@@ -183,14 +185,18 @@ Zadívala se na něj. Obličej měl ve stínu. Nepochybně se jejími slovy bavi
 
 Překvapilo ji, když Latydar zahvízdal melodii, která k ní patřila. Ale ano, jistě, mohl ji znát. Bezpochyby si ji zpívávali damalští vojáci v jeho vojsku.
 
-  
+</section>
+
+<section>
 
 _„Veliký měsíc, čaromocná máta,  
 červnová tráva rozevlátá,  
 na prahu stanul slunovrat,  
 ještě výš nechte ohně plát…“_
 
-  
+</section>
+
+<section>
 
 Pohvizduje si do kroku vzdalujících se divokých koní damalský popěvek, který si vybavil, sotva zaslechl pár slov. Koně se ztrácejí za ohybem stezky. Ochlazuje se, slunce zapadá. Zbytek družiny je dostihl a zarazil se opodál.
 
@@ -289,3 +295,5 @@ Bála se někdy? Včera, dnes? Možná, teď se už nebojí.
 Je něco na světě, co bych neudělala, jestliže mě miluje? I duši ztratit bych pro něj dokázala…
 
 A když ji služebnice ukládaly ke spánku, vyhnala všechny, kromě Damalčanky. Ta jediná se nezalekne, budu-li potřebovat pomoci. Která druhá by se postavila králi?
+
+</section>

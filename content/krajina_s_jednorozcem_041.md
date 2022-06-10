@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Druhá kapitola
 
 Veljana měla dojem, že se do Trynu vrátil jiný člověk, než jakého znala. Anebo odloučení, nabytá jistota o jeho smrti, všechno, co se stalo za poslední měsíce kolem ní i v ní samé, nebo to všechno způsobilo, že ho jen jinak viděla? Ať tak nebo tak, scházela jí dnes odvaha mu příliš odporovat, i když se jí zdálo obtížné, ba nemožné splnit jeho přání.
@@ -74,3 +76,5 @@ Temnoty Veljana znala dobře. Ty čpěly bolestí jejího vlastního lidu. Svět
 Vrátili se do hradu až za soumraku, téměř promočení, poněvadž pozdě postřehli, že se blíží déšť. Veljana odkládala plášť, který jí půjčil rozemský rytíř, sotva spadly první kapky. Byla zamyšlená stejně jako před vyjížďkou do města.
 
 Ale na nebožku Kierisovu matku a její vinu nebo nevinu v té chvíli rozhodně ani nevzpomněla.
+
+</section>

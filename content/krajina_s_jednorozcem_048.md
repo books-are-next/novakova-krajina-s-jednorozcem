@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Devátá kapitola
 
 Překročil Jitaber po mostě vysokém a pevném, po mostě nad hraniční řekou. Kamení gryfové, levharti, sličné dívky a zamračení bojovníci s tvářemi plnými vody, vždyť pršelo, shlíželi na Latydara vstupujícího na damalskou půdu.
@@ -150,3 +152,5 @@ Zalka se zarazila.
 Vrátila se do domu, šla za dětmi a strávila s nimi zbytek dne celá zamyšlená. Když večer, už za hluboké tmy, přijel Ogien, nalezl svou ženu velice skleslou.
 
 Tma dotírala na zemanský dvorec jak úskočný obléhatel. Děti do půlnoci plakaly.
+
+</section>

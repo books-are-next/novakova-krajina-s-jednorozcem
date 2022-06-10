@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Třináctá kapitola
 
 Rozemský kníže Dharid-Nyr se vracel z lovu v dobré náladě. Už dlouho nebyl tak spokojen, už dlouho si neužil projížďky stepí, koně a svého krásného loveckého orla jako dnes.
@@ -138,3 +140,5 @@ Thoren se nezmohl na odpověď. Zmizel tiše. Zkroušený, neboť se mu těžko 
 V komnatě se nepříjemně ochladilo, oknem se vtíral vítr a krb dohasínal.
 
 Odlesky skomírajících plamenů se podobaly klubku rozhašteřených běsů.
+
+</section>

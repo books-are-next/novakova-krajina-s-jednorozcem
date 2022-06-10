@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Devátá kapitola
 
 Trs loňských kavylových klasů se pomalounku rozestoupil opatrně rozhrnut rukou v kožené, plíšky pošívané rukavici. Čtveřice mužů, tři svobodní a jeden zajatec, odpočívající za poledne v mělkém údolí půl dne cesty od Ryethových vrat, neměla ani tušení o pozorovateli, který ji zkoumal z blízké vyvýšeniny skrytý travnatou zástěnou. Ležel tam už nějakou chvíli, přitisknut k zemi, a sledoval počínání lidí pod sebou.
@@ -142,3 +144,5 @@ Prudce zdvihla sklopenou hlavu, narovnala se… Vtom kdosi zabouchal na dveře v
 Hbitě ho zarazila. Zčervenala studem. Vidíš? Vidíš, trynský králi, jak utíkám před vlastním manželem? Vidíš můj strach, úzkost mou, mé ponížení? Koho z nás zahanbili víc, tebe, zajatce, nebo mě, vladařovu ženu? Uvědomila si Latydarův soucit a dotkl se jí jak žhavý uhlík obnažené rány. Ucukla před ním.
 
 Spěchala potom chodbou plnou ostrých podvečerních stínů do svých komnat, a bez ustání cítila tu palčivost. Lépe by mi bylo, kdyby mě Kornelak urazil, než když mě politoval… Lépe, lépe…
+
+</section>

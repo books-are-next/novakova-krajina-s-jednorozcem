@@ -3,11 +3,15 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Sedmá kapitola
 
 Jak se naklonila nad děťátkem, pramen vlasů se jí svezl kolem tváře a měkce se zahoupal nad spící tvářičkou. Rychle ho odhodila zpět na záda, aby chlapečka neprobudil, ale bylo pozdě. Vzala malého kralevice do náruče a hýčkala ho. Voněl nezaměnitelnou vůní kojeňátek. Za chvilku přestal pofňukávat. Dívka trochu neuměle pobrukovala útržky ukolébavky, kterou tápavě shledávala v paměti.
 
-  
+</section>
+
+<section>
 
 _„Neboj se, neboj, noc je laskavá,  
 v měkoučkých dlaních zemi uspává,  
@@ -16,7 +20,9 @@ jdou stáda cestou necestou.
 Bílá jsou, bílá do stříbrna,  
 nad nimi luna láskyplná…“_
 
-  
+</section>
+
+<section>
 
 Uložila ho a kývla na chůvu. Ta čekala opodál, až se kněžna Veljana rozloučí s královým synem jako každý večer ode dne, kdy Jaskyr Kornelak ztratil po matce i otce. Předtím se kněžna o dítě nijak zvlášť nezajímala.
 
@@ -183,3 +189,5 @@ Kývla. Přesto, než se rozešli, dodala ještě:
 Zvedla k němu oči. Nepamatoval si, že by v nich kdy viděl takový zmatek. Prý každou volnou chvilku trávila přemýšlením o tom, co se sběhlo, a poroučela si nosit svitky a knihy, v nichž se toužila dočíst nějakou odpověď na vyřčené i nevyřčené otázky.
 
 Kierys se na ni zadíval a napadlo ho, kolik v sobě má z malé holčičky, která se tvrdošíjně vyhýbá přijmout skutečnost. Se shovívavým soucitem jí na rozloučenou přátelsky, dlouze stiskl dlaň.
+
+</section>

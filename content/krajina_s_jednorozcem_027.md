@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Šestá kapitola
 
 Latydar se probral. Chvíli hleděl překvapeně do kamenné klenby nad sebou – ale dost rychle se rozvzpomněl, co se stalo. Prudce se posadil. Hlava ho bolela, zatmělo se mu před očima a zvedl se mu žaludek. Musel se opřít zády o zeď, ke které ho položili, a párkrát se zhluboka nadechnout, aby nevolnost zahnal.
@@ -106,3 +108,5 @@ Loď sebou smýkla na vlnách, v rohu mezi bednami nazlobeně zapištěla krysa
 Halško, kdybych jen tušil… kdybych tušil, kam ses mi poděla… Musím se vrátit, abych tě našel, vlaštovičko…
 
 Loď naříkavě skřípěla. Škubala a trhala sebou na vlnách. Houpala se. Houpala se, houpala… Krysy v koutě se o cosi servaly a teď si hrály. Zatuchlý vzduch jim zřejmě nevadil. Nahoře, nad palubou se ze stožáru málem utrhla pozdě svinutá plachta a teď bláznivě pleskotala v sílícím vichru.
+
+</section>

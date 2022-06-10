@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## První kapitola
 
 Jen po veliké válce bývá takové ticho. Podobné tichu zrána po bouřlivé noci. Ticho, které s úlevou oddychuje v pomalu pookřívající zemi rozryté koňskými kopyty a botami cizích vojsk.
@@ -29,7 +31,9 @@ Sotva se začalo tančit, zahořely jí tváře a vytáčela kolo za kolem, tan
 
 Těsně před tím, než na dvoře zastavili noví hosté a pán domu, vymysleli si mladí šlechtici, trošičku rozjaření medovinou a zadýchaní tancem, že zkusí, která jejich tanečnice umí nejlíp zpívat. Dívky se vesměs ostýchaly a snad by mládencům ze hry sešlo docela, kdyby Halýša z Pomezí nevyskočila na dubovou lavici, nevznesla se nad hlavy hostí okolo a do sousedského povzbuzování nezačala škádlivý popěvek. Měla hezký hlas a dobře o tom věděla. Bázlivá nebyla nikdy a Zalčin vyčítavý pohled lehce přehlédla.
 
-  
+</section>
+
+<section>
 
 _„Chtěl bys mě, vzácný rytíři,  
 polapit na vějičku  
@@ -41,7 +45,9 @@ Nezavřeš vítr do vězení,
 tvůj nebyl, nebude a není,  
 tím si buď, vzácný pane, jistý!_
 
-  
+</section>
+
+<section>
 
 _Možná až vzejde mladé listí  
 a pšenice se zazelená,  
@@ -53,7 +59,9 @@ já srovnám s kýmsi druhým krok.
 Ty to však, aťsi stokrát chceš,  
 nelžu ti, pane, nebudeš!“_
 
-  
+</section>
+
+<section>
 
 Pobavila je a smáli se, dokonce i ten jeden nebo dva, jimž zemanka už dala košem. Patřila k tomuto kraji, k Damalu, vlasti panen, které si o sobě rozhodují samy. Navíc chytré, vstřícné a při vší své vrozené i naučené ráznosti jemné děvče mělo dar snadno si získávat oblibu u lidí.
 
@@ -210,3 +218,5 @@ Přesto se mi zdá, že za podobnou služebnici by se tvá urozenost nejspíš h
 Kněžna souhlasila. Nějakou dobu však ještě uvažovala. Nádherné oči lehce přivřené. Připomínala spící sochu z průsvitného alabastru zrůžovělého živoucí krví v modrých žilách.
 
 Všechny cesty venku byly zaváty, nejvyšší čas prošlapat nové. Kdoví, kam se stočí které z nich.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Osmá kapitola
 
 Hanuer hladila hebký karmínový hřbet knihy zdobený olivovou snítkou provedenou ve zlatě. Nádherný a nesmírně cenný dar od trynského krále. Poznala, že ho vybíral pečlivě jako projev ne pouhé vděčnosti za pomoc, ale jako výraz přátelství. Rozemský příběh o Thanrymovi a Hanuer se dávno před velkou válkou, snad v časech Latydarova praděda, dostal k trynskému dvoru s některým poselstvem – a teď se vracel domů. Jindy by se dívka dárkem těšila a donekonečna prohlížela stranu za stranou, uhranutá mistrovstvím iluminací, živostí barev, slovy, která po léta znala nazpaměť, a přece jako by je pokaždé potkávala znova. Jindy jistě, a pokud čas, který teď stojí na prahu, přejde, aniž by příliš vzal, vrátí se k dárku a náležitě ho docení. Dnes ji moc nezajímá.
@@ -150,3 +152,5 @@ Dharid-Nyr nespal vůbec. Proseděl noc za stolem, nad pergamenovými útržky. 
 Posedlý dívkou, ke které podoba patřila.
 
 Nemohl bez ní žít.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 ## Desátá kapitola
 
 Psi žádostivýma očima sledovali dvojici večeřících mužů. Štěněcí výraz v ebenových zorničkách, ohromné mordy, jimiž dokázali zadávit vlka a poradit si s řádným jelenem, otevřené v přátelském žebravém úsměvu.
@@ -192,3 +194,5 @@ A nechal ji odejít s úzkostí z nevyslyšení. Neprozradil, že její star�
 Opustila ho smutná. Jen dva páry šedých psích očí ji zvědavě doprovázely.
 
 Té noci se znavenému rozemskému vladaři vyhýbal spánek.
+
+</section>
