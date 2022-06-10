@@ -5,8 +5,6 @@ contentType: prose
 
 ## Osmá kapitola
 
-  
-
 Blížila se půlnoc. Stěny komnaty, ověšené kůžemi vzácných zvířat a obrazy vyvedenými ve zlatě a pestrých barvách, zahaloval měkký šerosvit.
 
 Křehce vyhlížející mladá žena v nenápadném šatě z drahocenné látky, ozdobená stříbrnými šperky, zvedla hlavu, když jí služebnice ohlásila pozdního návštěvníka.
@@ -94,8 +92,6 @@ Do obličeje se jí opřel vítr ze stepi a zvedl dlouhé vlasy připomínajíc
 „Tady ano. Zato v Trynu, kdepak na začátku dubna růže! Tam je do nich ještě daleko.“
 
 \* \* \*
-
-  
 
 Jenomže tenkrát před dvanácti lety byl červen a kolem cest jeden šípek za druhým obalený erbovními kvítky. Proč jí právě ty keře uvízly tak přesně v paměti?
 

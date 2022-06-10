@@ -5,8 +5,6 @@ contentType: prose
 
 ## Šestá kapitola
 
-  
-
 Latydar se probral. Chvíli hleděl překvapeně do kamenné klenby nad sebou – ale dost rychle se rozvzpomněl, co se stalo. Prudce se posadil. Hlava ho bolela, zatmělo se mu před očima a zvedl se mu žaludek. Musel se opřít zády o zeď, ke které ho položili, a párkrát se zhluboka nadechnout, aby nevolnost zahnal.
 
 Venku byla noc, místnost, kde procitl, se topila v hlubokých stínech, loučka v držáku na zdi čadivě skomírala – a její světlo spíš dávalo tušit, než ukazovalo, že krále zavřeli v nějaké podzemní místnosti, zděném sklepě nebo staré pivnici menšího dvorce, dvě úzká okna byla až u stropu, podél stěn kamenné kvádry otesané tak, aby mohly sloužit jako lavice. Na jednom z nich teď Latydar seděl.
@@ -36,8 +34,6 @@ Zároveň ho ovšem napadlo, že lidé, co na něho zaútočili, možná skuteč
 Bylo mu stále zle a hlava se mu při každém pohybu točila, přesto po nějaké době vstal a s námahou pečlivě prozkoumal své vězení. Nic se však nedozvěděl. Nezbývalo než čekat. Posadil se tedy zpátky na kamenný kvádr a trpělivě sledoval dva úzké pruhy oblohy v rámech oken, počítal, kolik hodin asi zbývá do rána, a pokoušel se dopředu nehádat, co přicházející jitro přinese.
 
 \* \* \*
-
-  
 
 Muselo být už kolem osmé hodiny ranní, když Latydar zaslechl před nově pobitými dveřmi uzavírajícími sklep hlasy a kroky. Vzápětí si lidé odemkli a zamířili dolů po schodech.
 
@@ -84,8 +80,6 @@ Latydar zas usedl na kamenné lože a soustředěně přemýšlel. Hlava ho dos
 Venku přestalo pršet. Rozhostilo se zádumčivé zimní ticho, tu a tam rušené zakrákoráním vrány.
 
 \* \* \*
-
-  
 
 Médorg z Dybna měl svou věc pečlivě promyšlenou. Pomsta, z níž by mu neplynulo nic kromě pouhého zadostiučinění, mu nestačila. Víc než o ni šlo tomuto šlechtici, který ztratil postavení a ve vlasti mu hrozil kat, o možnost nabýt nějakých výhod.
 

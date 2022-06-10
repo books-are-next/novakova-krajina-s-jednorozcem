@@ -3,8 +3,6 @@ title: Prolog
 contentType: prose
 ---
 
-  
-
 _Velká válka s Rozemskem začala, když na trynském trůně seděl čtyřicátý třetí rok Baranas, osmý vladař kornelacké dynastie, která odvozuje svůj původ od Sirany z Rokle, poslední kněžny a první královny země._
 
 _Už po dvě staletí se Tryn těšil míru, zmohutněl a zbohatl natolik, že si byl jist svou mocí a silou, svou nezranitelností a nedotknutelností. Baranas a jeho lidé se nechali zaslepit blahobytem, a tak přehlédli mraky kupící se na jihovýchodě a hrozící bouřkou, jakou království dosud nepoznalo._

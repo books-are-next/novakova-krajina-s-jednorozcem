@@ -5,8 +5,6 @@ contentType: prose
 
 ## Devátá kapitola
 
-  
-
 Překročil Jitaber po mostě vysokém a pevném, po mostě nad hraniční řekou. Kamení gryfové, levharti, sličné dívky a zamračení bojovníci s tvářemi plnými vody, vždyť pršelo, shlíželi na Latydara vstupujícího na damalskou půdu.
 
 Potřeboval být sám, a proto jako častokrát ujel své družině a přikázal mužům, aby ho za několik dní čekali v Borovnici. Nejprve vedl koně po staré kupecké cestě, která mířila od někdejších Jitaberských brodů a hraniční osady Černoboru k hlavnímu městu. Ten cíp země v podhůří damalské vrchoviny, prostorné ploché poříčí otevřené doširoka k jihu bývalo kdysi válečným polem a porůstalo ho jen trní a bodláčí. Lidi tu svíral strach a zvířata se mu vyhýbala. Ale od oněch dob uběhla staletí a to, co se dodnes povídalo, více se blížilo pověsti než pravdě.
@@ -34,8 +32,6 @@ A víc nic.
 Nejsi ani tady.
 
 \* \* \*
-
-  
 
 „Jestli jsi chtěl mluvit s manželem, vzácný pane, přijede nejdřív pozdě večer, spíš zítra.“
 

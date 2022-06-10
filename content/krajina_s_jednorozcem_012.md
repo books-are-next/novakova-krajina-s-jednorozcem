@@ -5,8 +5,6 @@ contentType: prose
 
 ## Šestá kapitola
 
-  
-
 Natáhl se do dubnové trávy v lese nedaleko jezera.
 
 S potěšením založil ruce za hlavou. Mezi větvemi rašících stromů probleskovala blankytná obloha, tu a tam mračno prosvícené sluncem. Všechna oblaka táhla důstojně k východu a pohled na ně ukolébával.
@@ -63,8 +61,6 @@ Tak hluboko se mu v zimě vtiskla do paměti její postava i jemná, nevšedn�
 
 \* \* \*
 
-  
-
 Navečer téhož dne seděl v hostinské místnosti borovnické krčmy a dosud přemítal o děvčeti, které mu dnes náhodou znova zkřížilo cestu. Líbilo by se mu ji ještě potkat – jenom netušil, jak toho setkání dosáhnout. Její jméno si nevybavil, ať se snažil sebevíc.
 
 Příchod nového hosta by ho z přemýšlení rozhodně nevytrhl, kdyby mladík v zemanském šatu a s aksamitovou čapkou posazenou po městsku na stranu, sotvaže si Latydara s údivem pečlivě prohlédl, nezamířil přímo k jeho stolu. Krok měl rozhodný, ale když na Latydara promluvil, znělo to uctivě a velice váhavě.
@@ -110,8 +106,6 @@ Jen děvče, lehounce oblečené do závoje jezerní vody, v těch snech nezahl
 Nezdávalo se mu o tom, po čem nejvíc toužil.
 
 \* \* \*
-
-  
 
 Ačkoli se na setkání s ní chystal, nakonec ho zaskočilo. Objevila se před ním znenadání. Vyšla z domu Na Lužince a stanula na prahu přímo proti Latydarovi. Téměř se ve dveřích srazili. Trhla sebou, spíš úlekem než překvapením. Rozešli se ve zlém, pod lunou velké síly, nechtěla ho už nikdy spatřit, naplnil ji strachem. Hrozil jí tenkrát. Co to jenom řekl?
 

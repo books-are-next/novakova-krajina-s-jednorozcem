@@ -5,8 +5,6 @@ contentType: prose
 
 ## Čtvrtá kapitola
 
-  
-
 Halýša stála před vojevodou z Orlaku. Nevyzval ji, aby si sedla. Čekala, až si Kierys přečte dopis od kněžny.
 
 Přejížděl řádky s lehce svraštělým čelem, jednou, podruhé. A dívka tušila, že dvojice vrásek nad obočím vyjadřovala zpočátku nesouhlas, ale teď už jen starost.
@@ -45,8 +43,6 @@ Odešla bez pozdravu, ani se nestačil vzpamatovat z toho, co mu řekla. Chtěl
 
 \* \* \*
 
-  
-
 Ještě je v duchu viděla před sebou. Stín večera zimního slunovratu rozmýval barvy a kalil je šedou. Dvě nezřetelné postavy – a mezi nimi ticho. Málo spolu mluvívali, asi jim toho nebylo třeba. Ona s bázlivou něhou položila dlaň na hřbet jeho ruky a on se k ní naklonil, až se tváří dotkl pramenů stočených vlasů. Ten křehký pohyb se málo hodil k jeho urostlé postavě a obvyklému vystupování, a proto překvapil jak nečekaný záblesk v soumraku.
 
 Smlouvali se na zítřek. A Halýša Jaldevicova, služebnice z Damalu, měla co nejdéle krýt jejich útěk. „Nezapomeň,“ žádala ji kněžna, „i kdybys musela obelhat samotného krále!“ Byli natolik zahledění sami do sebe, až se chovali sobecky s bezelstnou samozřejmostí.
@@ -66,8 +62,6 @@ Halýša je opustila, zůstali spolu sami na odlehlém nádvoříčku kiřínsk�
 A obrovitá luna dál a dál sladce, hrozivě stoupá po obloze a je v tom cosi děsivého, i když Halýša neví, co, má však v sobě náhle úzkost. Zato ti dva, které dívka v duchu dosud vidí před sebou, zatímco jde tmavými chodbami ke kněžniným komnatám, ti dva, i kdyby nějakou úzkost cítili, ztratí ji jeden v druhém.
 
 \* \* \*
-
-  
 
 Služka v předsíni Teržiných komnat se tvářila rozpačitě a vylekaně. Jako by si oddechla, když Halýša přišla.
 
@@ -153,8 +147,6 @@ Vyklouzla z komnat, tiše, nenápadně, jako zloděj – vždyť stejně jako 
 
 \* \* \*
 
-  
-
 Svítání bylo daleko.
 
 Najednou ochozy okolo nádvoří zahlučely, prokmitly plameny pochodní, lidské kroky, hlasy, křik. Utéct není kam. Ti dva se mimoděk nejprve přitiskli jeden k druhému. Hned nato kněžna vykřikla.
@@ -205,8 +197,6 @@ Potom se bez ohlédnutí vydal zpátky ke schodům na ochoz, zvláštně otupěl
 
 \* \* \*
 
-  
-
 Vojevoda z Orlaku a Terža Zalatova opustili Kiřín doprovázeni svými lidmi ještě před ránem.
 
 Také Halýša hned po souboji, který sledovala skrytá ve stínu loubí, nařídila služebníkovi osedlat koně. Kněžna Terža ji zvala, ať zůstane u ní, nebo se alespoň na společnou část cesty přidá k její družině. Damalčanka nechtěla. Sama stěží tušila proč. Přála si prostě zbavit se všech těch lidí kolem nadobro a bez otálení.
@@ -222,8 +212,6 @@ Přespříliš o tobě – i o mně.
 Po tři následující noci se Halýše zdálo o jednorožci, který jí umíral v náručí. Na bílé srsti temná krev a ve větru pronikavá vůně.
 
 \* \* \*
-
-  
 
 Latydarovi vyčetli, že je příliš velkorysý. I ti, kteří by raději viděli na trůně vojevodu z Orlaku, pohrdali králem, jenž dovolí, aby mu plivli do tváře, a nepomstí se. Médorg z Dybna, trynský zemský správce, krále otevřeně, byť uctivě káral – a za zády pomlouval, proplétaje pomluvu nářky nad osudem království. Vypudit mladé manžele ode dvora a vzít Kierysovi postavení ve Velké radě není zdaleka dostatečný trest za podobný prohřešek! Uloupená nevěsta měla přízeň nejdůležitějších lidí v království – i Lutavise. Získala by svému manželovi lesk, ba slávu, jíž se mu občas nedostává.
 

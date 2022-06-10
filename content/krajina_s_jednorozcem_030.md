@@ -5,8 +5,6 @@ contentType: prose
 
 ## Devátá kapitola
 
-  
-
 Trs loňských kavylových klasů se pomalounku rozestoupil opatrně rozhrnut rukou v kožené, plíšky pošívané rukavici. Čtveřice mužů, tři svobodní a jeden zajatec, odpočívající za poledne v mělkém údolí půl dne cesty od Ryethových vrat, neměla ani tušení o pozorovateli, který ji zkoumal z blízké vyvýšeniny skrytý travnatou zástěnou. Ležel tam už nějakou chvíli, přitisknut k zemi, a sledoval počínání lidí pod sebou.
 
 Uvažoval, podoben lovci, který dorazil na konec stopy hledané zvěře, v mladé hlavě se hnaly rozjasněné, dychtivé, nebezpečné myšlenky. Když posléze dospěl k jakémusi rozhodnutí, ostražitě se z návrší stáhl. Kavylový trs se neslyšně zavřel.
@@ -38,8 +36,6 @@ Mladík si pevněji narazil na hlavu čapku. Usmál se pod ní jako vlk. Skupina
 „Nezapomeňte,“ obrátil se ještě Nybem s důrazem k ostatním, „Vyah patří jedině mému meči!“ Potom lehce kopl do slabin svého ryzáka.
 
 \* \* \*
-
-  
 
 „Lito, pojď sem!“
 
@@ -86,8 +82,6 @@ Lita vztekle, pohrdavě odfrkla, ale dál už si netroufla odporovat. Snad by za
 Když za překvapeným Thorenem zapadly dveře, dívka usedla do vyřezávaného křesla a vzala ze stolku rozečtenou knihu. Nedokázala se však na čtení soustředit. Písmena se rozmazávala, a místo aby tlumočila slova příběhu, slévala se v jednolitou nesmyslnou změť. Červenozlatá iniciála v podobě hořícího stromu ozařovala stránku a oslňovala Chařin zrak mihotavými odlesky.
 
 \* \* \*
-
-  
 
 Latydar přivítal návštěvnici podrážděně. Ještě aby se rozemské paničky na mě chodily dívat jak na nově lapeného levharta ve zvěřinci! Už jenom to scházelo, myslel si. Ponížení, které ho potkalo v uplynulých dnech a týdnech, snášel velice zle. Vždycky byl svým vlastním pánem, navzdory sporům s otcem rozhodoval sám o sobě. A teď ho vláčeli druzí nepřátelskou zemí jako kus dobytka, jako cennou věc, která jde z ruky do ruky, která se kdekomu hodí – a získá ji, kdo má zrovna navrch, komu štěstí přálo.
 

@@ -5,8 +5,6 @@ contentType: prose
 
 ## Třináctá kapitola
 
-  
-
 Jaro ve stepi pod hradbami Yzaru. Korouhev za korouhví rozvité od země k nebi, od oblohy ke zvlněné planině, praporce třepotající se, vlnící se v jižním větru – všechny zelené, a trochu zlaté a trochu do běla a lehce do blankytu, to jak rozkvetl gazelí jazýček, obliny kopců pokryl jařabník a líce strží zesinaly koberci plaché kozličky, která by se schovávala pod keři, kdyby jich nebylo přespříliš málo pro její bujnost. Vzduch je vlahý a voní po vodě, tak nevýslovně a nevyslovitelně, tak, až to bolí…
 
 Lita otevřela dokořán okno v komnatě své paní a na podlahu dopadl proud slunečního svitu, div to necinklo, div to netřesklo o dlaždice. Charin Zara vzhlédla od barev a štětců, v rámu okna se mihl záblesk ptačího křídla a dolehlo k ní ostré zavřísknutí poštolky. V té chvíli vstoupil do komnaty Thoren. Stěží zakrýval údiv.
@@ -61,8 +59,6 @@ Ve vzduchu utkvívala kořená vůně jařabníku smísená s vůní barev.
 
 \* \* \*
 
-  
-
 Večer, když Lita pomáhala Charin Zaře s převlékáním, všimla si ošklivé podlitiny na dívčině paži.
 
 „To ti udělal ten darebák, viď, holubičko!“ pronesla rozzlobeně. „Jak si mohl troufnout vztáhnout na tebe ruku! Copak není dost, že tě týrá vězením a urážkami? Neměla jsem tě poslechnout a nechat tě s ním samu, nedovolila bych mu…, i kdyby mě potrestal sebehůř.“
@@ -79,11 +75,15 @@ Chůva se vlastními slovy rozohňovala. Probouzela se v ní dračice střeží
 
 „Uklidni se, Lito, nech staré věci spát,“ kněžna přerušila chůvu skoro káravě, „a nech být mého muže.“ Pak zazpívala s nucenou lehkostí:
 
+  
+
 _„Dva jsme na jedné lodi,  
 kol kolem moře zdivočelé,  
 peklo jen peklo plodí,  
 a ve svých mlýnech mele  
 mě, jeho, celý život náš…_
+
+  
 
 Neznáš snad tuhle písničku, Lito? Některé mosty zkrátka nepostavíš a některé rány nezahojíš. A už o tom nechci mluvit,“ prohlásila nakonec rozhodně.
 
@@ -98,8 +98,6 @@ Bylo to vysloveno jako jasný rozkaz a chůva poslechla.
 „Ale tak nějak hezky, zdá se mi.“
 
 \* \* \*
-
-  
 
 Pršelo. Pole a step pod hradbami Yzaru lačně sály vodu a vydávaly mokrou jarní vůni. K půlnoci déšť přešel v pouhé mrholení padající z mračných cárů natolik řiďoučkých, že skrz ně byl k zahlédnutí dorůstající měsíční srpek zahalený v duhovém oparu jak bílá koňská hlava v rozvířené hřívě. Ševelilo. Od nebe k zemi.
 
@@ -123,6 +121,8 @@ Dharid-Nyr si nalil víno ze džbánu a napil se. Žíznivě, chtivě, ve snaze
 
 Je to s námi jako s těmi dvěma prokletými, o nichž se na jihu zpívá a kteří se ženou ke své zkáze s nezadržitelností splašených stád a korábů pod plnými plachtami, do nichž se zapletl zlý vítr. Všechno, co nás obklopuje, se na nás ochočeně pitvoří. Plný džbán vína, za oknem mrholení, dům mírný tichem, tichem… a ve skulinách zdánlivě pevných ochranných zdí štíři…
 
+  
+
 _Připíjím hluchému tichu za noci,  
 úzkosti s každým douškem přibývá.  
 Nad kopci hrozné hvězdy planoucí.  
@@ -131,6 +131,8 @@ mou živou duši trhá na cáry.
 Jsme pohřbeni a křídlo démona  
 do stínů svrhlo, v co jsme doufali.  
 Oba jsme sami, ženo má._
+
+  
 
 Tak nějak to zpívával u přístaviště syn jednorukého rybáře, a spravoval sítě, tak nějak… Nevím přesně…, nevím už nic. Nevím už ani, kde já sám stojím. Jestli před propastí, nebo na začátku mostu.
 

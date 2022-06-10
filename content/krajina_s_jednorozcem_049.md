@@ -5,8 +5,6 @@ contentType: prose
 
 ## Desátá kapitola
 
-  
-
 Přemýšlívám o tom, jaké by bylo mít vedle sebe člověka, pro něhož jsem na světě nejprvnější. Málokomu se něco takového poštěstí, málokomu. A přece, nejenom sny…
 
 A já? Jsem sama. A jsem v kleci. Nemám už radost, z čeho jsem ji mívala – ani z hlasu cikád, který se odráží o hradby a směřuje nahoru do hlubiny, naplňující mě závratí, úzkostí ze smrti a odvahou překročit ji jako práh. Kdyby nebylo klece, nemusela bych o ní přemýšlet tolik.
@@ -65,8 +63,6 @@ Neklidné město neklidně dřímalo. Vzrušené, lačné zítřka, lačné povy
 
 \* \* \*
 
-  
-
 Ráno. Až příliš rychle přišlo, jako by i ono projevilo zarážející dychtivost, nakaženo lidmi.
 
 „Pojďte, pomozte mi s oblékáním.“
@@ -89,6 +85,8 @@ A potom ji doprovodily přede dveře kněžniných komnat. Dva vyslanci zvolen�
 
 Před lety tu taky byli, aby vyslechli svatební slib a poklonili se novému vládci. Dnes budou svědky vladařova pádu. Pět a půl roku. Pět a půl roku osamění horšího, než bylo předchozí, neboť bylo osaměním bez naděje. Pět a půl roku, a přesto chodby vedoucí do dvorany jako by dosud vzpomínaly na tehdejší jitro, jako by dosud odrážely hlasy slavnostně vystrojených dívek, které doprovázely nevěstu za ženichem, na hlavách věnce z květin a peří.
 
+  
+
 _„… dala se zlákat  
 gazela mladá,  
 gazela mladá, šedavá celá,  
@@ -100,11 +98,11 @@ gazela mladá, šedavá celá,
 toho, kdo zpívá,  
 uvidět chtěla…“_
 
+  
+
 Teď tudy kráčí stejná žena v jiném doprovodu, a je to, jako by vězenkyně následovala své strážce. Doléhá na ni stín a strach, že svou hru prohraje příliš brzo, s každým dalším krokem ho přibývá. Naposled váhá, bolestně váhá s očima duše žádostivě upřenýma na rozvírající se mřížoví. Jde a za družičky má obavy a nerozhodnost. Krok a ještě krok. Zalkle se rozléhají ozvuky těch kroků mezi zdmi.
 
 \* \* \*
-
-  
 
 Desítky mužů obrácených k ní, tu a tam povědomý obličej, letmo poznaný v letech předcházejících jejímu sňatku. Ale ať povědomí, nebo viděni poprvé, všichni, před nimiž stála, byli pro ni cizinci. Netušila, kolik z mužů ve dvoraně nyní dychtí po vladařově pádu, kolik spravedlivě váhá, kolik by se za něj rvalo do posledního dechu a kolik prostě čeká, kam se obrátí vítr.
 
@@ -187,8 +185,6 @@ Nemusels přece pošpinit čest křivou přísahou! vyčítala v duchu svému m
 Konec hry. A porážka, která zarmucuje k smrti.
 
 \* \* \*
-
-  
 
 Boj se rozšířil z hradu do města i za jeho brány, do pasteveckých tábořišť. Dole u velkého náměstí někdo zapálil kupecké vozy. Čpavý dým stoupal na palácové návrší a podoben útočícímu hadu se tyčil až nad cimbuří a střechy, dusivě, štiplavě se otíraje o mraky.
 

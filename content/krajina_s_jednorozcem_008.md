@@ -5,8 +5,6 @@ contentType: prose
 
 ## Druhá kapitola
 
-  
-
 Od břehu k břehu se klenul. Most. Vypadal neuvěřitelně křehce se svými pečlivě tesanými, bohatými ornamenty, se sochami štíhlých levhartů, jednorožců, draků a gryfů, s hlavicemi nosných oblouků, zdobenými tvářemi bezejmenných půvabných dívek a zamračených mužů.
 
 A ještě křehčí byl, hučela-li pod ním voda tak zdivočelá jako toho dne, kdy nevěsta trynského krále a její malá družina pobídli koně, aby po staroslavném mostě překročili Jitaber, hraniční řeku mezi Damalem a Trynem.
@@ -45,8 +43,6 @@ Hezky se na ni ze sedla dívá. Hezky, až se hlava točí.
 
 \* \* \*
 
-  
-
 Vojevoda obstarával pohodlí kněžny i její družiny s nezvyklou pozorností. Ona pak přijímala každé jeho rozhodnutí bez výhrad, dokonce s nepatřičnou vděčností.
 
 Ale jejich setkání byla mlčenlivá.
@@ -79,8 +75,6 @@ Jak podivná je tato cesta!
 
 \* \* \*
 
-  
-
 Halýša teď někdy zalitovala, že svolila a stala se kněžninou služebnicí, tak nepříjemné bývávaly zamračené večery ve společnosti nečekaně rozmrzelých lidí. Ale nikdy dřív neopustila domov a cosi v ní toužilo dívat se, potkávat, hledat. Bratr si její odjezd nepřál. Měl rád všechno své nablízku, zvláště teď, po letech strávených v poli. Nelíbilo se mu pomyšlení, že by jeho sestra komukoli měla sloužit. Jenže Halýšino místo v rodném statku, který vydupala z trosek, převzala jiná žena a dívka se cítila v místech své dřívější neomezené vlády jako vetřelec. I to se snáz urovná, odjedu-li na pár týdnů, na pár měsíců. Vrátím se přece, jen se porozhlédnu, chutná-li jinde jinak vítr, slunce po ránu a tající sníh. Služebné postavení chápala spíš jako hru, jako bránu k opuštění staré stezky, a proto ji neponižovalo.
 
 Pojedu, rozhodla se. A nedovolila bratrovi, aby ji zadržel. Ostatně vzala si s sebou spolehlivého služebníka. S jeho pomocí se těžko někde ve světě ztratí.
@@ -91,8 +85,6 @@ A tak Halýša poznala, co před jinými zůstalo skryto za rouškou odtažitos
 
 \* \* \*
 
-  
-
 Ještěže ji tady mám, říká si Terža, dcera knížete Zalaty. Je si jistá sama sebou. Nepoklonkuje ani nehlídá každý můj pohled, a hlídá-li, tedy tak nenápadně, že o tom nevím. Já jsem tak nesvá. Už si toho všichni všimli. Co si počnu, co si jen počnu!
 
 Ani ne přede dvěma týdny jsem byla smířená s osudem, pro nějž mě vychovali, jemuž jsem od mládí bez odporu uvykala – a uvykla. Netěšila jsem se možná na budoucnost, ale byla jsem na ni pyšná a nehrozila jsem se ničeho, co mělo přijít. Můj život – koruna, čest, pevná, přímá, vznešená stezka. Teď se mnohé pilíře ve stavbě budované po celé roky zachvěly, pukají a hroutí se, s každou hodinou mi leží v nitru víc trosek.
@@ -102,8 +94,6 @@ Kéž by to trmácení konečně dospělo ke konci – a ten muž mi navždyck
 Jak často musí královna vídat po vladaři prvního muže země?
 
 \* \* \*
-
-  
 
 Ráno vstalo pošmourné, sníh měkl, tálo. Pod koňskými kopyty čvach­tala blátivá břečka a sáně se do ní nepříjemně bořily. Tající sníh vzápětí namrzal a špatně stoupnout znamenalo uklouznutí. A přece tento den měl být nejslavnějším od doby, kdy se v Kiříně rozezněly zvony na počest vítězství nad Rozemskem a návratu krále.
 

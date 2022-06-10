@@ -5,8 +5,6 @@ contentType: prose
 
 ## Sedmá kapitola
 
-  
-
 Možná že mnoha hostům připadala přítomnost Halýši Jaldevicovy na Lužince o Slavnosti značkování hříbat navýsost přirozená, ale ona sama ji pokládala svým způsobem za náhodu. Uvědomila si to znova a jasně, když před svítáním vstávala dohlédnout na pečení chleba.
 
 S Haberovou rodinou ji sice vázalo pouto příbuzenství, zemřelý pán domu byl vzdálenějším strýcem sourozenců z Pomezí, a v době Halýšina osamělého spravování rodného statku jí Lužinečtí poskytli největší podporu – jenže na druhé straně byly v poslední době vztahy mezi oběma rodinami spíš rozpačité.
@@ -68,8 +66,6 @@ Rozběhla se k Pomezí, vybírajíc si mezi kalužemi a pramínky kousky suš�
 Domů přišla zarousaná – jako divocí koně, kteří cválali tajícím sněhem.
 
 \* \* \*
-
-  
 
 Cítila, že ji nespouští z očí – a byl to pocit nepříjemný. Snažila se Latydarovi vyhýbat, ale mezi tolika lidmi a v neustálém pohybu to nebylo jednoduché. Navíc ji sledoval jen zpovzdálí.
 
@@ -179,8 +175,6 @@ Vykročila před ním a pečlivě skryla pobavené pousmání.
 
 \* \* \*
 
-  
-
 Šli sice zadem a vyhnuli se hodujícím hostům, ale ve světnici narazili na starou Chardanovu tetu. A tak Halýše nezbylo než nejprve umírnit její hořekování. Stařenka za poslední měsíce sešla a zdětinštěla, povídavost ji ovšem neopustila, spíš naopak.
 
 „Posaď se, tetičko, a nerozčiluj se,“ chlácholila ji, a zatímco tetu usazovala na lavici, obracela se ke služce: „Přines víno, anebo…,“ podívala se letmo na Latydarovu ránu a usoudila, že tolik zase nekrvácí, „… anebo raději pálenku.“
@@ -262,8 +256,6 @@ Tetička broukavě přizvukovala…
 Víc neposlouchala. Vstala a odběhla z domu k jezeru pod lesem. Teprve tam získala zpátky ztracenou rovnováhu.
 
 \* \* \*
-
-  
 
 Z několikadenního vedra se narodila bouřka, první letos na jaře. Divoké, hrozivé chumáče černých mraků bobtnaly a srážely se nad krajinou. Od západu se ozýval hrom.
 

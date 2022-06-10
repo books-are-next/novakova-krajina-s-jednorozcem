@@ -5,8 +5,6 @@ contentType: prose
 
 ## Druhá kapitola
 
-  
-
 V celém tom domě bylo plno života. Jaký rozdíl proti tmavým, za­lklým chodbám starého paláce v Kiříně, odkud Terža přijela.
 
 Královský hrad v Trynovci ještě nebyl dostavěn, a tak vladař sídlil v jednom z měšťanských domů vonících novým dřevem a nedávno dokončenými kamennými zdmi.
@@ -50,8 +48,6 @@ Uvažovala o moci úplňku a napadlo ji, jak podivné spojenectví může člo
 Chudák děvče, pomyslela si Terža – ale sejdou-li se dva, kteří neprávem zaujímají místo někoho jiného na světě, asi je stěží může provázet štěstí… Osud, který podvedli, se staví proti nim.
 
 \* \* \*
-
-  
 
 Veljana Nobarova dorazila do Trynovce až v den podzimní rovnodennosti. Musela. Výroční Rada se měla sejít už zde. Hrad byl z velké části dostavěn. Kiřín se od nynějška, podle královy vůle a k žalosti tamějších měšťanů, stával opět pouze jedním z mnoha měst velké říše a výsadní postavení, které mu propůjčila vleklá válka, navracel místu vzkříšenému z trosek.
 
@@ -97,8 +93,6 @@ Mrzí mě, že tě cosi bolí!
 
 \* \* \*
 
-  
-
 Počkala na předním nádvoří. Bylo prázdné, pouze první opadané listí proháněl vítr po dlažbě z mohutných nestejně velkých kvádrů dohladka otesaných zručnými kameníky.
 
 Vyšel jen o chvíli později než ona, už zase napohled sebejistý a vyrovnaný jako vždycky – až ji napadlo, jestli se nedala zmýlit barvami obrazů na stěnách prostupujícími přítmím, odlesky vody a plamenů loučí, vytvářejícími v okrouhlém prostoru zvláštní šerosvitný opar.
@@ -142,8 +136,6 @@ V ulicích jeho rodícího se města. Uskutečnil jsi svůj sen, Latydare, komu
 Nese-li však na tom vinu ta malá přivandrovalá zemanka… třikrát ji prokleju. Za tebe, Tydare!
 
 \* \* \*
-
-  
 
 Pobídl koně. Třpyt přešel do měkkého klusu. Moře, mírné šedavé moře, mu omývalo kopyta, bořící se do písku. Bylo časné odpoled­ne. Kosaté říjnové slunce ostře rýsovalo stíny útesů i jezdců na pobřežních dunách, ba každé stébélko pýru vyrůstalo svým stínem v nebezpečné kopí hozené na pláž.
 
@@ -210,8 +202,6 @@ Vraceli se krokem, vedle sebe. Mluvili o obyčejných věcech. Dokonce žertova
 Alespoň mám dojem, že jsme žertovali, říkal si později Latydar. Ve skutečnosti si mnoho ze zpáteční cesty nepamatoval, jako si někdy nepamatujeme skoro nic ze zlého snu, je-li milosrdně přerušen dřív, než se do nás vtiskne naplno.
 
 \* \* \*
-
-  
 
 Znova se zdvihl severák a do okna hodil hrst dešťových kapek, až cinkly o skla. Sice se už blížil duben, ale zima se toho roku ne a ne vzdát. V krbu praskal oheň a místnost byla příjemně vytopená.
 

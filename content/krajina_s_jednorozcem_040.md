@@ -5,8 +5,6 @@ contentType: prose
 
 ## První kapitola
 
-  
-
 Eistha Char se líně pohupovala v sinském kotvišti okukovaná zvědavým davem, který se sběhl na nábřeží, jen se novina o králově návratu rozšířila po městě. Byla to krásná loď a přes veškeré nepřátelství, kterému se stěží mohlo vyhnout cokoli, co připomínalo nedávnou válku, ji mnozí obdivovali. Vypadala vedle těžkých kupeckých korábů jako mladičká panna, již poprvé přivedli na slavnost, a sličná tvář příďové sochy se usmívala se zasněnou bezelstností na molo, na hradby pevnosti, na rozčilené, vzrušené lidi. Voněla solí a chaluhami jako kterákoli jiná loď a v jejím ráhnoví usedali racci stejně jako na ráhnech lodí ostatních.
 
 Král zavítal nejprve do pevnosti. Zavřel se s panem Česetou, městským správcem, a dopodrobna se ho vyptával na všechno, co se událo v zemi, zatímco byl její vladař pokládán za mrtvého. Pán nad Sinem a okolními usedlostmi dokázal svého krále zpravit o všem poměrně přesně. Nejen proto, že v Sinu jako v jiných přístavních městech se noviny zdaleka i blízka scházely jak nitky na tkalcovském stavu, ale i proto, že pan Česeta byl bystrý a máloco si nechal ujít, na máloco neměl vlastní náhled.
@@ -31,8 +29,6 @@ Sotva se však loutny dotkla, aby ji sňala ze zdi, vrátil se v doprovodu pana
 
 \* \* \*
 
-  
-
 Koně cválali, pokrývajíce se prachem. Pole s mladým obilím vyrážejícím stébla a na nich klasy, meze, stromy, Blata kolem ústí Modravy do moře, vesnice, trnková křoviska, všechno rychle míjelo. Zraku zbyl jen letmý dojem z barev a rozmazaných tvarů, lehce dotknutých barvami, rozpitými v předletní křehkost.
 
 Lidé, kteří zahlédli šlechtickou družinu ujíždějící k sídelnímu městu, taktak rozeznali znaky na praporcích sinského pána Česety, ostře pleskajících nad hlavami jezdců a zpěněnými šíjemi koní.
@@ -49,8 +45,6 @@ Latydar jel první, o dvě délky před svými průvodci, zachmuřený. Teprve 
 
 \* \* \*
 
-  
-
 Zpráva, že se král vrací, se Trynovcem rozšířila jak požár, přeskakujíc od prahu k prahu. Když Latydar vjížděl do městských bran, rozhoupaly se zvony ve věžích chrámu, ozvaly se rohy z hradeb, do výšky vzlétla hejna vyplašených holubů, ulice i náměstí se zaplnily lidmi jako o velkém svátku. Sešlo se jich tolik, až se družina musela místy davem téměř prodírat.
 
 Latydar naslouchal nesčetným pozdravům poněkud udiven. Postřehl v nich totiž nelíčené potěšení a radost. Nikdy ho Trynští takto nevítali, ani po vítězném návratu z bojiště. Nikdy. Trynský lid přece vždycky toužil po jiném vládci, jeho, Latydara, jen trpně přijal a on se s touto skutečností nakonec smířil a vyrovnal, jako se vyrovnal s ponižováním, jímž ho častoval vlastní otec. Uzavřel se do pyšné lhostejnosti.
@@ -58,6 +52,8 @@ Latydar naslouchal nesčetným pozdravům poněkud udiven. Postřehl v nich tot
 Také teď se v sedle napřímil, zdvihl hlavu a pokračoval v cestě s odtažitým výrazem, pečlivě, ale vratce zastíraje vzrůstající překvapení.
 
 Jakýsi žebravý louteník začal starodávný chvalozpěv, jímž Trynští vítali své vládce při návratu z dalekých nebezpečných cest, ale pozměnil slova. Zpíval pak několik veršů stále dokola a dav se k němu pozvolna přidával, hlas po hlasu. Než král dospěl k paláci, jako by už zpíval kamennými ústy sám Trynovec:
+
+  
 
 _„Buď zdráv, ty, kdo se vracíš,  
 ty, kdo se vracíš, vítr ve vlasech!  
@@ -67,6 +63,8 @@ které jsi obehnal pevnými hradbami!
 Vítej ve městě bílých havranů se zlatými věnci!  
 S láskou volají tvé jméno,  
 jméno toho, kdo se vrací, vítr ve vlasech…“_
+
+  
 
 Na schodech paláce stála dívka. Štíhlá, vysoká, plavá, v bílé sváteční říze. Několik kroků před ostatním dvorem. Odpolední paprsky se protahovaly vysokým arkýřem boční branky a obtékaly její nehybnou postavu.
 

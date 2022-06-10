@@ -5,8 +5,6 @@ contentType: prose
 
 ## Čtrnáctá kapitola
 
-  
-
 Ještě před tím, než odplují z Rozemska, chtěl Séned-Mar navštívit svou sestru. Byli si velice blízcí a odloučení, které jim přinesl konec války, snášeli oba neradi.
 
 Znamenalo to asi dva dny ztráty. A Sénedovi bylo jasné, že vyvolá další vlnu nelibosti trynského krále. Dosud byl Kornelak v neprávu, když zazlíval průvodcům průtahy – a viděl pohodlnost nebo nedobrý zájem za kdejakou malou změnou směru putování. Zdržení způsobené vydatnými jarními dešti, které rozbahnily step, bylo snad jediné, které trynský král svým průvodcům nevyčítal, ale jeho chatrná trpělivost vzala za své docela. Čekat, že v takovém rozpoložení pochopí výhody, jež družině mohl krátký odpočinek na statku rodiny Mar přinést, a přehlédne hlavní důvod návštěvy, jímž bylo Sénedovo přání vidět sestru, by bylo pošetilé.

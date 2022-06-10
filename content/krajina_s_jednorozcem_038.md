@@ -5,8 +5,6 @@ contentType: prose
 
 ## Sedmnáctá kapitola
 
-  
-
 „Řeklas mu o tom?“
 
 Hanuer mlčky zavrtěla hlavou a pokračovala v loudavé chůzi po bratrově boku, oči stočené k zemi, jako by zkoumavě pozorovala dokvétající pomněnky a rašící šarlatníček na břehu potoka, kde se procházeli. Ve skutečnosti znova zvažovala své rozhodnutí Kornelakovi nic neprozradit.
@@ -174,8 +172,6 @@ Trochu bezradně pokrčila rameny.
 Nesouhlasil s ní. Ale jistý si nebyl. Ani Hanuer si nebyla jistá. Jenže rozhodnutí se už nemohla vyhnout, a tak se nevyhýbala.
 
 \* \* \*
-
-  
 
 Krajina, na kterou shlížel z vrcholu hřebene, oddechovala jako ohromné zvíře spokojeně odpočívající v paprscích odpoledního slunce. Na východě a na severu se otevírala do bezkonečné dálky, mírně zvlněná, hebce rozevlátá vysokou bujnou travou, která už vyhnala stébla, začínala kvést a v závanech větru dýmala pylem. K jihu klesala do šedomodrého oparu prozrazujícího zkušeným očím blízkost moře. Na západ prales, o němž se vyprávěl nejeden příběh i v Latydarově rodišti. Jeden z králových předků jím prý před dávnými lety projížděl na cestě za nevěstou. Hranice.
 

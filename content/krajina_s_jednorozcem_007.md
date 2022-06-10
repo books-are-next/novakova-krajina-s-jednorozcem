@@ -5,8 +5,6 @@ contentType: prose
 
 ## První kapitola
 
-  
-
 Jen po veliké válce bývá takové ticho. Podobné tichu zrána po bouřlivé noci. Ticho, které s úlevou oddychuje v pomalu pookřívající zemi rozryté koňskými kopyty a botami cizích vojsk.
 
 A do takového ticha, co ho pořád ještě dost není, začíná sněžit. Listopadové ohně na hrobech, pod stromy vysazenými na paměť předků, uhasly, přiblížila se zima.
@@ -31,6 +29,8 @@ Sotva se začalo tančit, zahořely jí tváře a vytáčela kolo za kolem, tan
 
 Těsně před tím, než na dvoře zastavili noví hosté a pán domu, vymysleli si mladí šlechtici, trošičku rozjaření medovinou a zadýchaní tancem, že zkusí, která jejich tanečnice umí nejlíp zpívat. Dívky se vesměs ostýchaly a snad by mládencům ze hry sešlo docela, kdyby Halýša z Pomezí nevyskočila na dubovou lavici, nevznesla se nad hlavy hostí okolo a do sousedského povzbuzování nezačala škádlivý popěvek. Měla hezký hlas a dobře o tom věděla. Bázlivá nebyla nikdy a Zalčin vyčítavý pohled lehce přehlédla.
 
+  
+
 _„Chtěl bys mě, vzácný rytíři,  
 polapit na vějičku  
 jak pošetilou křepelku,  
@@ -41,6 +41,8 @@ Nezavřeš vítr do vězení,
 tvůj nebyl, nebude a není,  
 tím si buď, vzácný pane, jistý!_
 
+  
+
 _Možná až vzejde mladé listí  
 a pšenice se zazelená,  
 prstýnek navlékne mi kdosi,  
@@ -50,6 +52,8 @@ snad letos a snad napřesrok –,
 já srovnám s kýmsi druhým krok.  
 Ty to však, aťsi stokrát chceš,  
 nelžu ti, pane, nebudeš!“_
+
+  
 
 Pobavila je a smáli se, dokonce i ten jeden nebo dva, jimž zemanka už dala košem. Patřila k tomuto kraji, k Damalu, vlasti panen, které si o sobě rozhodují samy. Navíc chytré, vstřícné a při vší své vrozené i naučené ráznosti jemné děvče mělo dar snadno si získávat oblibu u lidí.
 
@@ -74,8 +78,6 @@ Jako by měla za sebou jen samá šťastná probuzení a ještě šťastnějš�
 Potřebovala bych alespoň odlesk plamene téhle… malé selky.
 
 \* \* \*
-
-  
 
 Zalatova jediná dcera Terža, dědička starého vznešeného jména a po matce jeden z posledních výhonků rodu blízce spřízněného s králi denyrovské dynastie, se nejdřív neměla stát budoucí královnou. Tu z ní učinila teprve válka.
 
@@ -134,8 +136,6 @@ Kralevic k velkolepému daru nic nepřidal. Otcovo rozhodnutí zpečetit v obv
 O Lutavisově vyjednávání s Vihorovou nevěstou se nedověděl. A bylo to dobře, jinak by nejspíš dávné zasnoubení s Teržou zrušil – otci na zlost. Snáze by odpustil bratrově nevěstě urážku a pohrdání než otci, že o něm smlouval za jeho zády. Měl osmnáct, velel třetině vojska, a ať mu otec sebevíc nedůvěřoval, Latydar se rozhodně dávno necítil být chlapcem, za něhož je třeba rozhodovat.
 
 \* \* \*
-
-  
 
 Kněžna si rozčesávala vlasy. Dnes chtěla být sama se svými myšlenkami, poslala služku pryč.
 
@@ -196,8 +196,6 @@ Za okny potaženými blanami promaštěnými lojem a zavřenými okenicí divo�
 Šelmy ve Vlčím lese spaly v doupatech pokrytých mohutnícími závějemi – až vítr ustane, rozhostí se ticho. Ticho, jaké bývá jen po veliké válce.
 
 \* \* \*
-
-  
 
 Není to špatné děvče pro tvou službu, mínila ráno kněžnina vyzvědačka. Narodila se v druhém roce války. Je sice pohrobek – ale rozhodně se proto nestala čarodějkou ani morou, zdejší by na to dali ruku do ohně a je jim, myslím, možné věřit. Její otec zahynul při prvním damalském střetu s nájezdníky. Matka si pospíšila za ním, děvčeti byl asi měsíc.
 

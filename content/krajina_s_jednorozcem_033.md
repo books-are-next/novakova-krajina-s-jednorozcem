@@ -5,8 +5,6 @@ contentType: prose
 
 ## Dvanáctá kapitola
 
-  
-
 Yzar opustili za úsvitu. Družina rozemského vladaře vedla Latydara k moři jinou cestou, než jakou do hlavního města dorazil před pár dny coby vězeň.
 
 Kraj nově založených polí a vesnic, jímž zprvu projížděli, jako by patřil spíš kamsi do trynského pohraničí, ne do vlasti divokých pastevců. Jenom měl dosud spoustu ostrých hran jak zhruba otesaná socha. Půda osetá ozimem nebo právě dooraná pro jař se ještě docela nepoddala lidským rukám, ještě si na ně nezvykla, ještě si žila po svém. Nectila lidské stezky a meze lidských polí, vše svévolně pokrývala trsy stepních bylin a nevymýtitelných křovisek, vtrhujících bezstarostně do brázd, odkud je oráči vyhnali teprve nedávno. Tu a tam poutníci zahlédli mladinký sad, osamělý ovocný stromek na rozcestí – ale země se bránila štěpy přijmout, byly jí cizí.
@@ -37,6 +35,8 @@ Jako dnes. Odpočatá zvířata klusala k jihu.
 
 Nybem jedoucí v čele družiny začal cosi pobrukovat. Vyplašili hejno křepelek, v pleskotu polekaných křídel se vzneslo a zapadlo za oblinu nízkého pahrbku, nad nímž vycházelo dnešní slunce. Mladíkův hlas zůstal povlávat nad krajinou.
 
+  
+
 _„Dva stromy u cesty, vichřicí olámané.  
 Strže a údolí porostlá tymiánem  
 pro radost rozcuchaných koní.  
@@ -46,15 +46,17 @@ A tvoje krásná, tmavá hlava,
 těžkými copy zdobená,  
 o moje prsa opřená.“_
 
+  
+
 Koně pofrkávali. Step setřásala rosu.
 
 \* \* \*
 
-  
-
 Podivný den. Dusný, horký, zamračený, téměř letní, ačkoli byl teprve duben. Tak daleko už se dostali k jihu. Za severozápadním obzorem se převaluje vzdálená bouřka, nízké nebe tíží. Lidé a koně jsou splaveni potem, když jedou přes obloučky Žalských pahorků. Z mokřinaté země Malého jezeří stoupá mlžná pára a roje komárů, týrající všechny živé bytosti v okolí. Obvyklá přívětivost zdejších lad vzala protentokrát za své. Je nevlídno, parno, šedě. Po svěžesti otevřené stepi, jíž jeli ještě včera, ani památky. I duben sám jak by se tady zalknul. Míle ubývají pomalu, koně se vlečou znaveným krokem, šíje zvlhlé, občas jim od huby odpadají bělavé chomáčky slin.
 
 Nybem si dnes jen pobrukuje, těžký vzduch dusí slova i táhlý nápěv.
+
+  
 
 _„Sázela v kopcích lilii, ej, sokolička bílá,  
 slétli se černí krkavci, že se jim zalíbila.  
@@ -66,6 +68,8 @@ Kéž je ďas noc co noc štve nad i pod zemí,
 nauzdí ocelí, osedlá plameny,  
 na ostrých čepelích před ránem napase,  
 že tak ukřivdili panně černovlasé.“_
+
+  
 
 Až když se před nimi rozevřel výhled na rozlehlou vodní plochu jezera Pomen, zavanul poutníkům v ústrety čerstvý větřík. Zmoření koně zdvihli pokleslé hlavy a živě zafrkali. I jezdci se probrali z otupělosti a spokojeně se nadechli. Ubylo také ovádů, lehké jezerní povívání je snad odneslo do zatuchlých arachatských bažin. Pozvolna padal soumrak.
 
@@ -104,8 +108,6 @@ Latydar se převalil na bok a přitáhl si k tělu plášť… Jezero ve stepi
 Thanrymův meč se jasněji vztyčil nad obzor.
 
 \* \* \*
-
-  
 
 Také Séned-Marovi se té noci spánek vyhýbal. Vzal si první hlídku. Když ho kolem půlnoci Nybem vystřídal, natáhl se rytíř k ohni, ale usnout se mu nedařilo. Brzy zase vstal.
 
@@ -168,8 +170,6 @@ Nybem vrátil šíp do toulce. Kývl na znamení, že se podvoluje velitelovu p�
 Séned-Mar podruhé pokrčil rameny. Pak zanechal mladíka na hlídce a sám se té noci podruhé uložil ke spánku. Únava ho konečně zmohla, zahnala nepříjemné úvahy, a on po chvíli tvrdě usnul. Od jezera se plazila lipová vůně, těžkla a konejšila.
 
 \* \* \*
-
-  
 
 O dva dny později opustili Malé jezeří a znova je přivítala otevřená step. Tráva tady už byla vzrostlá, sahala koním mnohde po břicha, široké koňské plece ji rozrážely jako lodní příď moře a jako moře se za družinou tráva zase zavírala. Noci byly studené, nakloněné k novu a vládla jim souhvězdí hučící neslyšným halasem z hluboka, z vysoka, z nezměrné dáli.
 
