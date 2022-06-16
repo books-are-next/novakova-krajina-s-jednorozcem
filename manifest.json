@@ -5,10 +5,11 @@
   "title": "Krajina s jednorožcem",
   "author": "Luisa Nováková",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "novakova-krajina-s-jednorozcem-112577b",
-  "revision": "112577b",
+  "identifier": "novakova-krajina-s-jednorozcem-a3178e8",
+  "revision": "a3178e8",
   "readingOrder": [
     "promo.html",
     "krajina_s_jednorozcem_005.html",
@@ -61,8 +62,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:53:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272426239
+    "date": "Thu Jun 16 2022 07:31:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364703485
   },
   "documents": [
     {
@@ -1384,9 +1385,9 @@
   ],
   "totals": {
     "all": {
-      "words": 111810,
-      "chars": 681934,
-      "ideas": 3667
+      "words": 111811,
+      "chars": 681942,
+      "ideas": 3668
     },
     "chapters": {
       "words": 111674,
