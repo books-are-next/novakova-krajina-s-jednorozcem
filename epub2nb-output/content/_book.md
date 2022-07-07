@@ -63,7 +63,7 @@ readingOrder:
   - krajina_s_jednorozcem_049.html
   - krajina_s_jednorozcem_050.html
   - krajina_s_jednorozcem_051.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

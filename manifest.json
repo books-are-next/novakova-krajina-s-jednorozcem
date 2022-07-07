@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "novakova-krajina-s-jednorozcem-1ca8d94",
-  "revision": "1ca8d94",
+  "identifier": "novakova-krajina-s-jednorozcem-9812d14",
+  "revision": "9812d14",
   "readingOrder": [
     "promo.html",
     "krajina_s_jednorozcem_005.html",
@@ -59,11 +59,11 @@
     "krajina_s_jednorozcem_049.html",
     "krajina_s_jednorozcem_050.html",
     "krajina_s_jednorozcem_051.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:17:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979460207
+    "date": "Thu Jul 07 2022 08:35:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182908652
   },
   "documents": [
     {
@@ -1343,7 +1343,7 @@
       "role": "chapter",
       "order": 47,
       "prev": "krajina_s_jednorozcem_050.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1364,11 +1364,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 130,
-      "chars": 901,
+      "chars": 900,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "krajina_s_jednorozcem_051.html",
       "next": null,
@@ -1385,8 +1385,8 @@
   ],
   "totals": {
     "all": {
-      "words": 111811,
-      "chars": 681942,
+      "words": 111810,
+      "chars": 681946,
       "ideas": 3668
     },
     "chapters": {
