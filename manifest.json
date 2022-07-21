@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "novakova-krajina-s-jednorozcem-1df1d4e",
-  "revision": "1df1d4e",
+  "identifier": "novakova-krajina-s-jednorozcem-15cd6e7",
+  "revision": "15cd6e7",
   "readingOrder": [
     "promo.html",
     "krajina_s_jednorozcem_005.html",
@@ -62,8 +62,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:03:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188226042
+    "date": "Thu Jul 21 2022 14:36:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414169820
   },
   "documents": [
     {
@@ -1366,7 +1366,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 130,
-      "chars": 900,
+      "chars": 901,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -1385,8 +1385,8 @@
   ],
   "totals": {
     "all": {
-      "words": 111810,
-      "chars": 681946,
+      "words": 111811,
+      "chars": 681942,
       "ideas": 3668
     },
     "chapters": {
