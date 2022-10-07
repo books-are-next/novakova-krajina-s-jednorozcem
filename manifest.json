@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "novakova-krajina-s-jednorozcem-b3db44a",
-  "revision": "b3db44a",
+  "identifier": "novakova-krajina-s-jednorozcem-d75a055",
+  "revision": "d75a055",
   "readingOrder": [
     "promo.html",
     "krajina_s_jednorozcem_005.html",
@@ -62,8 +62,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:00:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924432334
+    "date": "Fri Oct 07 2022 14:05:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151534714
   },
   "documents": [
     {
