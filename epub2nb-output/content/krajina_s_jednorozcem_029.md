@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Osmá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Osmá kapitola
 
 Loď, vezoucí v podpalubí královského zajatce, vplula do bouřky. Moře si s ní rozmarně pohrálo, severovýchodní vítr při prvním nenadálém nárazu utrhl plachtu a potom zvesela polámal stěžně. Vichřice zahnala poškozenou kocábku, bez ustání zalévanou obrovským syčícími vlnami, daleko ze směru plavby. Zahodila ji nakonec jak hračku, která už omrzela, mezi útesy jednoho z neobydlených ostrovů, sřetězených do širokého, lodím nebezpečného oblouku. Rozemští jim přezdívali Běloskalí, námořníci v Trynu nazvali sou­ostroví Královský luk. Skutečně totiž připomínalo dlouhý válečný luk, s napjatou tětivou drobných ostrůvků a osamělých útesů, útočně obrácený proti vzdálenému rozemskému pobřeží.
 
@@ -21,7 +19,7 @@ Když za dva týdny Latydar a jeho věznitelé odjížděli z ostrova, po obli
 
 Únor končil a s ním i zdejší krátká deštivá zima.
 
-\* \* \*
+* * *
 
 Přistáli u opuštěného úseku pobřeží asi sedm mil od přístavního města Utharu. Loď Trynské vyložila a spěšně odplula. Pobřežní skály okolo byly proděravělé menšími i většími jeskyněmi. Vhodnější úkryt by se v okolí našel stěží. A Médorg z Dybna úkryt pro svého zajatce hledal, nechtěl, aby se o něm příliš vědělo. Zahlazoval za sebou stopy, jak se dalo.
 
@@ -49,7 +47,7 @@ A že neuhasla, Latydar nepochyboval.
 
 Zbývala jenom naděje na útěk. Té se nevzdával. Střežili ho sice pečlivě a téměř nezbavovali pout, jenže budou putovat stepí, divokou, neznámou stepí – ledaco se může přihodit. Stačilo zůstat ostražitý.
 
-\* \* \*
+* * *
 
 Médorgovi lidé vyslaní zrána do přístavu se vrátili oklikou až navečer. Vedli dvanáct jezdeckých koní a nákladní mezky, obtížené vším, co bylo na cestu potřeba. Nakoupili dlouhé kabátce, úzké nohavice, šuby z kravských koží a čapky zdobené peřím, které se dokonale hodily, budou-li chtít předstírat šlechtickou družinu mířící za nějakým mírumilovným cílem.
 
@@ -77,7 +75,7 @@ Médorg z Dybna se probudil v dobré míře. Hloupě žertoval na úkor svého
 
 Latydar neříkal nic. Za tu noc, jež minula, se mu na tváři usadil zvláštní cizí výraz. Když si ho Médorg později všiml, pocítil letmý neklid. Najednou měl dojem, že nehledí na Latydara Kornelaka, kterým pohrdal, ale že se dívá na krále Lutavise, toho mocného neúprosného vládce, s nímž si není radno hrát. Nebyl tak nepodobný svému otci, Latydar, Lutavisův syn, jak si mysleli lidé, a bolest to na něj prozradila.
 
-\* \* \*
+* * *
 
 Syrový vítr vrhal jezdcům déšť do tváře. Nízké osení na polích, měnících k nepoznání před pár lety ještě téměř neobývanou přímořskou nížinu, se ostře zelenalo, mladé, právě rašící stromky oliv, tu a tam vysazené na mezích a okolo cesty, stříbřitě prosvětlovaly sychravý den. Všechno vyhlíželo šedozeleně a zelenošedě, až na trsy tři palce vysokých a pro trynské oči nezvykle velkých rozemských ladoněk, které se podobaly rozverným cákancům temně modré barvy v přísně podmračené tváři březnového dne.
 
@@ -103,7 +101,7 @@ Proto Latydar cestu po moři brzy zavrhl. Věděl, kam ho Médorg z Dybna veze,
 
 O tom, jak se protluče nekonečnými mílemi stepi až k hranicím, zatím nepřemýšlel. Snadné to nebude, ale hlavně aby už držel osud zase ve vlastních rukou. Nad rozemskou stepí vyjdou noc co noc souhvězdí a ta ho povedou, spolehlivě a bezpečně. Latydar v nich umí číst.
 
-\* \* \*
+* * *
 
 Po čtrnácti dnech se začal jednotvárný vzhled stepi proměňovat. Zpestřel množícími se háji stromů synrach a skupinami ostnatých keřů nasazujících právě na květ. Zvlnil se a z trávy častěji a častěji vystupovaly bělošedé balvany. Na některých – kdysi pravděpodobně vyznačujících hlavní cestu k Sedmé bráně – bylo znát stopy dávného opracování, deštěm, větrem, sluncem i sněhem zvětralé a napolo smazané ornamenty, většinou zobrazující okřídlené koně a hady s lidskými hlavami, erbovní znamení sedmibranských držav. Tu a tam se dalo přečíst pár do kamene vytesaných písmen, ale slova by z nich už sotva kdo složil.
 
@@ -121,7 +119,7 @@ Těžko skrýval rozrušení. Už aby padla tma, už aby usnuli…
 
 Ve větvích synrachu se ozvalo strašidelné naříkání žalostníka, soumrak se prohluboval.
 
-\* \* \*
+* * *
 
 Prodloužené stíny se už smísily s tmou a po slunci zbyl pouhý šarlatový pruh skřípnutý mezi obzorem a ocelovými cáry mraků. Tehdy zaslechli dusot několika koní. Mířili k nim ze stejné strany, z níž sami přijeli. Médorg i jeho muži vyskočili a chopili se zbraní. Latydar pozorně zdvihl hlavu.
 
@@ -193,7 +191,7 @@ Konečně se Latydar s úlevou vyhoupl na oblý hřbet. Pobídl hřebce nejprve
 
 Jasná noc si pohrávala s vláním koňské hřívy, zaplétala se do ní, do jezdcových vlasů a do záhybů jeho pláště. Nad Latydarovou hlavou zakroužil veliký dravý pták a dlouhé perutě plavě pro­bleskly tmou, jakmile se o ně opřel měsíc. Přibývající kotouč skloněný k východu vrhal jezdci do cesty jeho vlastní stín.
 
-\* \* \*
+* * *
 
 Noc a dusot šedáka, noc a vítr, noc a měsíc. A pod měsícem letí, letí plavý pták.
 

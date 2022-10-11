@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Sedmá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Sedmá kapitola
 
 Možná že mnoha hostům připadala přítomnost Halýši Jaldevicovy na Lužince o Slavnosti značkování hříbat navýsost přirozená, ale ona sama ji pokládala svým způsobem za náhodu. Uvědomila si to znova a jasně, když před svítáním vstávala dohlédnout na pečení chleba.
 
@@ -67,7 +65,7 @@ Rozběhla se k Pomezí, vybírajíc si mezi kalužemi a pramínky kousky suš�
 
 Domů přišla zarousaná – jako divocí koně, kteří cválali tajícím sněhem.
 
-\* \* \*
+* * *
 
 Cítila, že ji nespouští z očí – a byl to pocit nepříjemný. Snažila se Latydarovi vyhýbat, ale mezi tolika lidmi a v neustálém pohybu to nebylo jednoduché. Navíc ji sledoval jen zpovzdálí.
 
@@ -175,7 +173,7 @@ Zdráhal se.
 
 Vykročila před ním a pečlivě skryla pobavené pousmání.
 
-\* \* \*
+* * *
 
 Šli sice zadem a vyhnuli se hodujícím hostům, ale ve světnici narazili na starou Chardanovu tetu. A tak Halýše nezbylo než nejprve umírnit její hořekování. Stařenka za poslední měsíce sešla a zdětinštěla, povídavost ji ovšem neopustila, spíš naopak.
 
@@ -257,7 +255,7 @@ Tetička broukavě přizvukovala…
 
 Víc neposlouchala. Vstala a odběhla z domu k jezeru pod lesem. Teprve tam získala zpátky ztracenou rovnováhu.
 
-\* \* \*
+* * *
 
 Z několikadenního vedra se narodila bouřka, první letos na jaře. Divoké, hrozivé chumáče černých mraků bobtnaly a srážely se nad krajinou. Od západu se ozýval hrom.
 

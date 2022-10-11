@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Třináctá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Třináctá kapitola
 
 Jaro ve stepi pod hradbami Yzaru. Korouhev za korouhví rozvité od země k nebi, od oblohy ke zvlněné planině, praporce třepotající se, vlnící se v jižním větru – všechny zelené, a trochu zlaté a trochu do běla a lehce do blankytu, to jak rozkvetl gazelí jazýček, obliny kopců pokryl jařabník a líce strží zesinaly koberci plaché kozličky, která by se schovávala pod keři, kdyby jich nebylo přespříliš málo pro její bujnost. Vzduch je vlahý a voní po vodě, tak nevýslovně a nevyslovitelně, tak, až to bolí…
 
@@ -59,7 +57,7 @@ Odvrátila se. Stála proti oknu, v plném slunci, takže Dharid oslněný prud
 
 Ve vzduchu utkvívala kořená vůně jařabníku smísená s vůní barev.
 
-\* \* \*
+* * *
 
 Večer, když Lita pomáhala Charin Zaře s převlékáním, všimla si ošklivé podlitiny na dívčině paži.
 
@@ -103,7 +101,7 @@ Bylo to vysloveno jako jasný rozkaz a chůva poslechla.
 
 „Ale tak nějak hezky, zdá se mi.“
 
-\* \* \*
+* * *
 
 Pršelo. Pole a step pod hradbami Yzaru lačně sály vodu a vydávaly mokrou jarní vůni. K půlnoci déšť přešel v pouhé mrholení padající z mračných cárů natolik řiďoučkých, že skrz ně byl k zahlédnutí dorůstající měsíční srpek zahalený v duhovém oparu jak bílá koňská hlava v rozvířené hřívě. Ševelilo. Od nebe k zemi.
 

@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Šestá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Šestá kapitola
 
 Po návratu z chrámu Latydar narazil na kněžnu-správkyni, jak se pod arkádami vnitřního nádvoří prochází s rozemským rytířem. Živě se spolu bavili. Popravdě mluvil hlavně Séned-Mar a dívka mu naslouchala. Potom se zastavila a rozesmála se lehkomyslným dívčím smíchem, kterého by se Latydar od vážné Veljany nikdy nenadál.
 
@@ -83,7 +81,7 @@ Latydar nějak vytušil, o čem dívka přemýšlí. Zastavil se podruhé, a j
 
 „Mrzí mě, žes to odhalila. Nechci, aby ses trápila. No tak, sestřičko,“ dodal chlácholivě, jako by on byl najednou z nich dvou ten rozumnější a starší. „Pojď se raději nasnídat. A pak si promluvíme o zítřejší Radě.“
 
-\* \* \*
+* * *
 
 Dalšího dne konečně zasedla Velká rada. Latydar tentokrát chtěl, aby se sjeli skutečně všichni. Proto tak dlouho čekal, ačkoli průtahy vždycky těžko snášel a teď byl zvlášť jako na trní. Přál si rychle vyřešit, co bylo třeba, a potom… Potom? Snad hledat dál. Kdekoli…
 
@@ -131,7 +129,7 @@ Pokrčil rameny. Zasmála se.
 
 A Veljanu napadlo, jestli ho ve skutečnosti ty věčné půtky svým způsobem nebaví.
 
-\* \* \*
+* * *
 
 Večer pořádal vladař slavnost. Velkolepá hostina, nespočet světel, lesk drahocenných rouch, hudba stékající z oken do srpnové noci, všechna ta barvitá okázalost, v níž Latydar čas od času nacházel zalíbení.
 
@@ -169,7 +167,7 @@ Vyhoď mě vysoko, vysoko, rytíři z cizí země, a pak mě pevně chyť! Je�
 
 Škoda že já zůstávám…
 
-\* \* \*
+* * *
 
 Eistha Char se zhoupla na vysoké vlně, jako by pták roztáhl křídla a odrazil se k letu, jako by hříbě pustili ze stáje do ohrady. Pod plnými plachtami, štíhlá příď rozčísla hladinu. A lidnatý sinský přístav se zdál Veljaně najednou prázdný, mořská pláň zvučela v jejím nitru. Pocítila stesk a touhu. Lekla se jich. Přitáhla plášť k tělu, jako by ji ovanul vlhký chlad. Špičky střevíčků smáčelo moře, vodní tříšť zanechávala na sametovém lemu řízy bělavé mapy, schnoucí v dopoledním slunci.
 

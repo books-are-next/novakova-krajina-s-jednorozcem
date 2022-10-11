@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Šestá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Šestá kapitola
 
 Natáhl se do dubnové trávy v lese nedaleko jezera.
 
@@ -61,7 +59,7 @@ Damalčanka, jejíž jméno zapomněl a teď si je marně pokoušel vybavit �
 
 Tak hluboko se mu v zimě vtiskla do paměti její postava i jemná, nevšední tvář. A neposlušný pramen hnědých vlasů.
 
-\* \* \*
+* * *
 
 Navečer téhož dne seděl v hostinské místnosti borovnické krčmy a dosud přemítal o děvčeti, které mu dnes náhodou znova zkřížilo cestu. Líbilo by se mu ji ještě potkat – jenom netušil, jak toho setkání dosáhnout. Její jméno si nevybavil, ať se snažil sebevíc.
 
@@ -107,7 +105,7 @@ Jen děvče, lehounce oblečené do závoje jezerní vody, v těch snech nezahl
 
 Nezdávalo se mu o tom, po čem nejvíc toužil.
 
-\* \* \*
+* * *
 
 Ačkoli se na setkání s ní chystal, nakonec ho zaskočilo. Objevila se před ním znenadání. Vyšla z domu Na Lužince a stanula na prahu přímo proti Latydarovi. Téměř se ve dveřích srazili. Trhla sebou, spíš úlekem než překvapením. Rozešli se ve zlém, pod lunou velké síly, nechtěla ho už nikdy spatřit, naplnil ji strachem. Hrozil jí tenkrát. Co to jenom řekl?
 

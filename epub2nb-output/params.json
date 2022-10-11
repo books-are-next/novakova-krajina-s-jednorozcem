@@ -8,17 +8,17 @@
       "author": "Luisa Nováková",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-22T00:00:00.000Z",
-      "isbn": "978-80-274-2002-5; 978-80-274-2001-8; 978-80-274-2003-2",
+      "isbn": "",
       "publisherShort": "mkp",
       "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\n",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP_uroven2_kapitola",
+      "h2": "",
       "h3": "MLP_uroven3_nadpis\n",
       "h4": "",
-      "hr": "",
+      "hr": "MLP_hvezdicky",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
@@ -26,7 +26,9 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP_obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP_verse\nMLP_verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b",
+      "centered": "",
+      "verse": "",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP_dopis_bez1radku_-I\nMLP_text_-I\nMLP_text_uprostred_-I\nMLP_verse\nMLP_verse.+\nMLP_znak_kurziva_11b\nMLP_znak_kurziva_9b\nMLP_znak_tucna_kurziva_11b\nMLP_dopis_-I-\nMLP_dopis_bez1radku_-I-",
       "strong": "MLP_tiraz_autor_a_nazev\nMLP_licence_paragraf",
       "remove": "",
       "ignore": ""
@@ -761,85 +763,85 @@
         "xhtml": "krajina_s_jednorozcem_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_007.md",
         "xhtml": "krajina_s_jednorozcem_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Druhá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_008.md",
         "xhtml": "krajina_s_jednorozcem_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třetí kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_009.md",
         "xhtml": "krajina_s_jednorozcem_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtvrtá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_010.md",
         "xhtml": "krajina_s_jednorozcem_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pátá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_011.md",
         "xhtml": "krajina_s_jednorozcem_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šestá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_012.md",
         "xhtml": "krajina_s_jednorozcem_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sedmá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_013.md",
         "xhtml": "krajina_s_jednorozcem_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Osmá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_014.md",
         "xhtml": "krajina_s_jednorozcem_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Devátá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_015.md",
         "xhtml": "krajina_s_jednorozcem_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Desátá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_016.md",
         "xhtml": "krajina_s_jednorozcem_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jedenáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_017.md",
         "xhtml": "krajina_s_jednorozcem_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvanáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_018.md",
         "xhtml": "krajina_s_jednorozcem_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třináctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_019.md",
         "xhtml": "krajina_s_jednorozcem_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtrnáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_020.md",
         "xhtml": "krajina_s_jednorozcem_020.xhtml"
@@ -851,103 +853,103 @@
         "xhtml": "krajina_s_jednorozcem_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_022.md",
         "xhtml": "krajina_s_jednorozcem_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Druhá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_023.md",
         "xhtml": "krajina_s_jednorozcem_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třetí kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_024.md",
         "xhtml": "krajina_s_jednorozcem_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtvrtá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_025.md",
         "xhtml": "krajina_s_jednorozcem_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pátá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_026.md",
         "xhtml": "krajina_s_jednorozcem_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šestá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_027.md",
         "xhtml": "krajina_s_jednorozcem_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sedmá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_028.md",
         "xhtml": "krajina_s_jednorozcem_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Osmá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_029.md",
         "xhtml": "krajina_s_jednorozcem_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Devátá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_030.md",
         "xhtml": "krajina_s_jednorozcem_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Desátá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_031.md",
         "xhtml": "krajina_s_jednorozcem_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jedenáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_032.md",
         "xhtml": "krajina_s_jednorozcem_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvanáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_033.md",
         "xhtml": "krajina_s_jednorozcem_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třináctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_034.md",
         "xhtml": "krajina_s_jednorozcem_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtrnáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_035.md",
         "xhtml": "krajina_s_jednorozcem_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Patnáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_036.md",
         "xhtml": "krajina_s_jednorozcem_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šestnáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_037.md",
         "xhtml": "krajina_s_jednorozcem_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sedmnáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_038.md",
         "xhtml": "krajina_s_jednorozcem_038.xhtml"
@@ -959,73 +961,73 @@
         "xhtml": "krajina_s_jednorozcem_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_040.md",
         "xhtml": "krajina_s_jednorozcem_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Druhá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_041.md",
         "xhtml": "krajina_s_jednorozcem_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Třetí kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_042.md",
         "xhtml": "krajina_s_jednorozcem_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čtvrtá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_043.md",
         "xhtml": "krajina_s_jednorozcem_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pátá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_044.md",
         "xhtml": "krajina_s_jednorozcem_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šestá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_045.md",
         "xhtml": "krajina_s_jednorozcem_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sedmá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_046.md",
         "xhtml": "krajina_s_jednorozcem_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Osmá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_047.md",
         "xhtml": "krajina_s_jednorozcem_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Devátá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_048.md",
         "xhtml": "krajina_s_jednorozcem_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Desátá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_049.md",
         "xhtml": "krajina_s_jednorozcem_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jedenáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_050.md",
         "xhtml": "krajina_s_jednorozcem_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvanáctá kapitola",
         "subtitleSuggest": "",
         "filename": "krajina_s_jednorozcem_051.md",
         "xhtml": "krajina_s_jednorozcem_051.xhtml"
@@ -1105,6 +1107,6 @@
       "user": "books-are-next",
       "repo": "novakova-krajina-s-jednorozcem"
     },
-    "generatedAt": 1665416174174
+    "generatedAt": 1665478204547
   }
 }

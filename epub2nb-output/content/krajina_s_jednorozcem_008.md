@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Druhá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Druhá kapitola
 
 Od břehu k břehu se klenul. Most. Vypadal neuvěřitelně křehce se svými pečlivě tesanými, bohatými ornamenty, se sochami štíhlých levhartů, jednorožců, draků a gryfů, s hlavicemi nosných oblouků, zdobenými tvářemi bezejmenných půvabných dívek a zamračených mužů.
 
@@ -43,7 +41,7 @@ Teržina tvář je zrůžovělá a oživené oči zdůrazňují krásu budoucí
 
 Hezky se na ni ze sedla dívá. Hezky, až se hlava točí.
 
-\* \* \*
+* * *
 
 Vojevoda obstarával pohodlí kněžny i její družiny s nezvyklou pozorností. Ona pak přijímala každé jeho rozhodnutí bez výhrad, dokonce s nepatřičnou vděčností.
 
@@ -75,7 +73,7 @@ Kéž bychom brzy dorazili do Kiřína! Kéž by se konečně umoudřilo vichrn�
 
 Jak podivná je tato cesta!
 
-\* \* \*
+* * *
 
 Halýša teď někdy zalitovala, že svolila a stala se kněžninou služebnicí, tak nepříjemné bývávaly zamračené večery ve společnosti nečekaně rozmrzelých lidí. Ale nikdy dřív neopustila domov a cosi v ní toužilo dívat se, potkávat, hledat. Bratr si její odjezd nepřál. Měl rád všechno své nablízku, zvláště teď, po letech strávených v poli. Nelíbilo se mu pomyšlení, že by jeho sestra komukoli měla sloužit. Jenže Halýšino místo v rodném statku, který vydupala z trosek, převzala jiná žena a dívka se cítila v místech své dřívější neomezené vlády jako vetřelec. I to se snáz urovná, odjedu-li na pár týdnů, na pár měsíců. Vrátím se přece, jen se porozhlédnu, chutná-li jinde jinak vítr, slunce po ránu a tající sníh. Služebné postavení chápala spíš jako hru, jako bránu k opuštění staré stezky, a proto ji neponižovalo.
 
@@ -85,7 +83,7 @@ Putování ji příliš nenamáhalo, uvykla těžkému životu a byla zdravá, 
 
 A tak Halýša poznala, co před jinými zůstalo skryto za rouškou odtažitosti. Nepochopila to hned, snad že jí samé vojevoda k srdci nepřirostl, ale koncem prvního týdne cesty věděla, jaké myšlenky se skutečně honí za kněžniným vysokým bílým čelem.
 
-\* \* \*
+* * *
 
 Ještěže ji tady mám, říká si Terža, dcera knížete Zalaty. Je si jistá sama sebou. Nepoklonkuje ani nehlídá každý můj pohled, a hlídá-li, tedy tak nenápadně, že o tom nevím. Já jsem tak nesvá. Už si toho všichni všimli. Co si počnu, co si jen počnu!
 
@@ -95,7 +93,7 @@ Kéž by to trmácení konečně dospělo ke konci – a ten muž mi navždyck
 
 Jak často musí královna vídat po vladaři prvního muže země?
 
-\* \* \*
+* * *
 
 Ráno vstalo pošmourné, sníh měkl, tálo. Pod koňskými kopyty čvach­tala blátivá břečka a sáně se do ní nepříjemně bořily. Tající sníh vzápětí namrzal a špatně stoupnout znamenalo uklouznutí. A přece tento den měl být nejslavnějším od doby, kdy se v Kiříně rozezněly zvony na počest vítězství nad Rozemskem a návratu krále.
 

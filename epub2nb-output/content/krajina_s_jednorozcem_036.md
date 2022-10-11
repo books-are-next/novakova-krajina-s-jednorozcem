@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Patnáctá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Patnáctá kapitola
 
 Jedna z jižanských bájí vyprávěla o tom, že když sličná a moudrá Hanuer uprchla před svými bratry a mužem, jehož pro ni vybrali, opustila rodný dům a výsady kněžny, aby se stala ženou cizince Thanryma a spojila se s ním v životě i umírání, uchýlili se manželé po měsících, v nichž se skrývali před pronásledovateli, po týdnech věčných útěků nakonec do bezpečí neproniknutelného thušského pralesa. Zůstávali tam dva roky. A byla to jediná léta míru, jež jim byla dopřána bok po boku v tomto světě.
 
@@ -43,7 +41,7 @@ Tehdy byl večer mírný. Slunce zapadalo měkce, do podvečerního oparu, do ze
 
 Slunce se sklonilo za obzor, měsíc vzletěl oranžově zlatý, obrovský, podoben ohnivé kouli planul a pomalu vychladal na obloze, když dívka vstala a zamířila ke stavení. Zpívala si. Psi se honili kolem ní v ohromných kruzích.
 
-\* \* \*
+* * *
 
 Na krajinu se už sneslo hluboké šero, když Sénedova družina dorazila ke skalnatému hřebenu, jenž se, stočen do oblouku, náhle výhružně zvedl ze stepi. S obtížemi přebrodili rozvodněný potok a objevila se před nimi průrva ve strmé stěně, kterou vedla stezka široká sotva pro dva jezdce. Jakmile k ní přijeli, tmou probleskla světla. Nad stezkou bděli strážci.
 
@@ -91,7 +89,7 @@ Mlčenliví tvorové spjatí s měsícem se jim zpovzdálí vyhýbali. Jen měk
 
 Hanuer, zlatovlasá Hanuer, sličná Hanuer, která ledacos víš, zdalipak tušíš, kdo váhá u dveří tvého domu?
 
-\* \* \*
+* * *
 
 Hanuer se v ranhojičském umění vyznala mistrovsky. Naučila se mu od báby, a že měla víc jemnosti a citu, předčila svou vychovatelku už jako poloodrostlé děvčátko. Hbité, sebevědomé a navýsost opatrné ruce, které se dokázaly dotýkat s takovou laskavostí, ke zdraví, a dokonce k životu navrátily nejednoho z míarských psanců a uprchlíků. Teď po válce jich naštěstí nebylo tolik třeba. Nezlenivěly ani neznejistěly však proto.
 
@@ -121,7 +119,7 @@ V měsíčním světle její dlaně prosvítaly, jako prosvítají plátky bíl
 
 Luna zvolna mizela v korunách pralesních stromů, ze sadu zaznívalo vrzání cvrčků a šustot kroků nočních tuláků. Trpělo cosi, naříkalo, a toužilo jak bleskem rozpolcený borový kmen, jak napolovic rozkrojené jablko.
 
-\* \* \*
+* * *
 
 Bratr a sestra seděli vedle sebe na staré truhle a vyprávěli si. Ostatní muži už odešli spát, Sénedovi se nechtělo. Většinu času mluvil on a Hanuer poslouchala. Několikrát ho přerušila překvapenou otázkou. Ptala se však málo a ani jednou na Yzar a na Dharid-Nyra. To nebylo pro rytíře nikterak udivující, ale trápilo ho to.
 
@@ -139,7 +137,7 @@ Nepřemlouval ji. Hanuer vstala. Doprovodila bratra do podkroví, kde byla jeho 
 
 Dveře přívětivě vrzly v pantech a Séned-Mar osaměl. Odstrojil se a ulehl. Zhasl svíčku. Než usnul, myslel na paní Visnu, matku jejich otce, která je vychovala, poněvadž dnešek byl výročním dnem její smrti. A hlavně myslel na Hanuer a na smutek, o němž jediný z lidí mnohé tušil.
 
-\* \* \*
+* * *
 
 Hanuer přes potemnělý dvůr spěchala, za proužkem slabého svitu pode dveřmi jizby, v níž odpočíval zraněný.
 
@@ -153,7 +151,7 @@ Přistoupila k lůžku. Latydar klidně a hluboce oddechoval ze spánku. Hore�
 
 Pak u něj usedla a pozorovala ho, dlouze rozvažujíc o všem, co se dověděla od bratra. Teprve když se popůlnoční svět povážlivě skulil k svítání a dívka pocítila, že se jí klíží oči, probudila manželku svého správce a nechala se u raněného vystřídat.
 
-\* \* \*
+* * *
 
 Ráno promluvila Hanuer se správcem. Dala si přivést všechny tři nové služebné.
 

@@ -11,7 +11,7 @@ meta:
   author: Luisa Nováková
   publisher: Městská knihovna v Praze
   modified: '2021-11-22T00:00:00.000Z'
-  isbn: 978-80-274-2002-5; 978-80-274-2001-8; 978-80-274-2003-2
+  isbn: ''
   publisherShort: mkp
   edition: beletrie
 readingOrder:

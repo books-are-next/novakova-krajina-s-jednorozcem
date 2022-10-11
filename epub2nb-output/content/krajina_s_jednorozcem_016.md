@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Desátá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Desátá kapitola
 
 „Měla by ses vdát,“ ozvala se tiše Elyna Haberova z Lužinky. Klopila přitom oči jako ostatně téměř vždycky, když s někým mluvila o vážných věcech a vrozená nesmělost ji tísnila víc než jindy.
 
@@ -72,7 +70,7 @@ Potom se otočila tváří k sestřence a už klidněji řekla:
 
 Elyna kývla. Za živý svět by se už neodvážila prodloužit doznělý rozhovor o jediné další slůvko.
 
-\* \* \*
+* * *
 
 Halýša pobídla klisnu.
 

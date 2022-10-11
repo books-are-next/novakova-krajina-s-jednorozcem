@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Dvanáctá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Dvanáctá kapitola
 
 Třpyt, poháněn do trysku, letí po neprošlapaných cestách, přes kořeny a spadlé větve, hloub a hloub do nitra pralesa. Stříbrolesklá šíje se pokrývá potem. Každou chvíli hrozí, že on i jezdec srazí vaz v některém opuštěném, lidmi dlouho nenavštíveném úvalu. Kam mě to vedeš, pane? Na jaké křivolaké stezky?
 
@@ -57,7 +55,7 @@ Kůň veden příchylnou věrností se potuloval v jeho stopách. Po půlnoci t
 
 Úplná luna se začala zatmívat.
 
-\* \* \*
+* * *
 
 Plavá vlčice. Na vrcholu kopce, na plochém balvanu pod otevřenou zářijovou oblohou. Úplněk nad ní. Úplněk v zatmění, hlouběji a hlouběji vykusovaný stínem. Vlčice větřila. Nehybná, jako by mohutnými tlapami vrostla do kamene. Vánek čechral hustou srst na bocích. A pod ní lesy a lesy, hluboké pomezní hvozdy s cestami zapomenutými, stezkami zahrazenými vyvráceným stromem, s doupaty šelem, s očima němých laní, krajina s jednorožcem. S jednorožcem, který zpívá.
 
@@ -71,7 +69,7 @@ Vůně hub a prvního spadaného listí, dech oschlé trávy, rozmluva kořenů
 
 Zatoužila se skrýt, zachránit, co jí náleželo, svobodu bloudění světem, svobodu samoty bez osamění, svobodu křídel opřených do větru, do mlhy, do oblak, a závrať od nebe k zemi a pod zem až… Skrýt se před vábením, zaklínáním, toužením. Před lovcem, před smrtí.
 
-\* \* \*
+* * *
 
 Přikrčila se, napjala tělo a skočila z vrcholku kopce do volného prostoru nad vršky stromů. Stačil jen jediný nádech, jediné slastné zatrnutí v údech – a pak už pevný rozmach křídel. Uleť, jako by vyzývaly bytosti jí podobné, pro něž lidská řeč nemá jména, uleť, naléhaly. Ano, uletím, uletím, kam mě nebude moci následovat!
 

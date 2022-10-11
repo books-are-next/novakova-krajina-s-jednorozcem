@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Třetí kapitola
 contentType: prose
 ---
 
 <section>
-
-## Třetí kapitola
 
 První víno z rozemských vinohradů. Nasládlé jako krajina zalykající se sluncem, s kořeněnou vůní stepních trav a rozmarýnu rostoucího ve viničních kopcích. Takové je rozemské víno, plamen na dně každého poháru, třpyt na rozhoupané hladině. Nádherné, nádherné víno, bohatší brokátového šatu kněžen.
 

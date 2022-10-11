@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Druhá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Druhá kapitola
 
 Veljana měla dojem, že se do Trynu vrátil jiný člověk, než jakého znala. Anebo odloučení, nabytá jistota o jeho smrti, všechno, co se stalo za poslední měsíce kolem ní i v ní samé, nebo to všechno způsobilo, že ho jen jinak viděla? Ať tak nebo tak, scházela jí dnes odvaha mu příliš odporovat, i když se jí zdálo obtížné, ba nemožné splnit jeho přání.
 
@@ -35,7 +33,7 @@ Přijede, jistě přijede, zpráva nezpráva. Slíbil své ženě, že se vrát�
 
 Už aby byl Kierys v Trynovci. Veljana se s ním potřebovala poradit. Vždyť ačkoli se Latydar tvářil, jako by jeho únos do Rozemska byl dopsaný svitek, kněžna nezapomněla, co jí nestřeženě prozradil: že totiž Médorg z Dybna jednal s pomocí kohosi dalšího, nějakého štíra skrytého pod královským prahem. Kněžna pátrala po zrádci jak hladová liška po kořisti a byla den ze dne podezíravější.
 
-\* \* \*
+* * *
 
 Veljana seděla na kamenné lavičce pod loubím vnitřního nádvoří. Příjemný červnový den odháněl mnohou starost, ne však všechny. Zůstávala lehká, neodbytná pachuť na jazyku. Dívka se bránila nepříjemným předtuchám.
 

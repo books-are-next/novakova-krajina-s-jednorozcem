@@ -1,11 +1,9 @@
 ---
-title: ''
+title: První kapitola
 contentType: prose
 ---
 
 <section>
-
-## První kapitola
 
 Eistha Char se líně pohupovala v sinském kotvišti okukovaná zvědavým davem, který se sběhl na nábřeží, jen se novina o králově návratu rozšířila po městě. Byla to krásná loď a přes veškeré nepřátelství, kterému se stěží mohlo vyhnout cokoli, co připomínalo nedávnou válku, ji mnozí obdivovali. Vypadala vedle těžkých kupeckých korábů jako mladičká panna, již poprvé přivedli na slavnost, a sličná tvář příďové sochy se usmívala se zasněnou bezelstností na molo, na hradby pevnosti, na rozčilené, vzrušené lidi. Voněla solí a chaluhami jako kterákoli jiná loď a v jejím ráhnoví usedali racci stejně jako na ráhnech lodí ostatních.
 
@@ -29,7 +27,7 @@ Jedna z dívek postřehla rytířův pohled a chytila se ho jak spásné myšl
 
 Sotva se však loutny dotkla, aby ji sňala ze zdi, vrátil se v doprovodu pana Česety král. Rozhoupaný nástroj ťukl zvučně do kamenné stěny, potom zkonejšeně zmlkl a znehybněl. Rozemští rytíři i trynské šlechtičny vydechli úlevou.
 
-\* \* \*
+* * *
 
 Koně cválali, pokrývajíce se prachem. Pole s mladým obilím vyrážejícím stébla a na nich klasy, meze, stromy, Blata kolem ústí Modravy do moře, vesnice, trnková křoviska, všechno rychle míjelo. Zraku zbyl jen letmý dojem z barev a rozmazaných tvarů, lehce dotknutých barvami, rozpitými v předletní křehkost.
 
@@ -45,7 +43,7 @@ Latydar jel první, o dvě délky před svými průvodci, zachmuřený. Teprve 
 
 „Nádherné město!“ řekl Séned-Mar. A vyslovil to rozemsky, víc k sobě než k mladému králi. Latydar spokojeně pobídl koně do klusu.
 
-\* \* \*
+* * *
 
 Zpráva, že se král vrací, se Trynovcem rozšířila jak požár, přeskakujíc od prahu k prahu. Když Latydar vjížděl do městských bran, rozhoupaly se zvony ve věžích chrámu, ozvaly se rohy z hradeb, do výšky vzlétla hejna vyplašených holubů, ulice i náměstí se zaplnily lidmi jako o velkém svátku. Sešlo se jich tolik, až se družina musela místy davem téměř prodírat.
 

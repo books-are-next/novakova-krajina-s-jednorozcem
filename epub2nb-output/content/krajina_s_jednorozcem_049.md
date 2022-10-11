@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Desátá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Desátá kapitola
 
 Přemýšlívám o tom, jaké by bylo mít vedle sebe člověka, pro něhož jsem na světě nejprvnější. Málokomu se něco takového poštěstí, málokomu. A přece, nejenom sny…
 
@@ -63,7 +61,7 @@ Jestli hrát hru, v níž tak jako tak budu poražena?
 
 Neklidné město neklidně dřímalo. Vzrušené, lačné zítřka, lačné povyražení, lačné krve.
 
-\* \* \*
+* * *
 
 Ráno. Až příliš rychle přišlo, jako by i ono projevilo zarážející dychtivost, nakaženo lidmi.
 
@@ -108,7 +106,7 @@ uvidět chtěla…“_
 
 Teď tudy kráčí stejná žena v jiném doprovodu, a je to, jako by vězenkyně následovala své strážce. Doléhá na ni stín a strach, že svou hru prohraje příliš brzo, s každým dalším krokem ho přibývá. Naposled váhá, bolestně váhá s očima duše žádostivě upřenýma na rozvírající se mřížoví. Jde a za družičky má obavy a nerozhodnost. Krok a ještě krok. Zalkle se rozléhají ozvuky těch kroků mezi zdmi.
 
-\* \* \*
+* * *
 
 Desítky mužů obrácených k ní, tu a tam povědomý obličej, letmo poznaný v letech předcházejících jejímu sňatku. Ale ať povědomí, nebo viděni poprvé, všichni, před nimiž stála, byli pro ni cizinci. Netušila, kolik z mužů ve dvoraně nyní dychtí po vladařově pádu, kolik spravedlivě váhá, kolik by se za něj rvalo do posledního dechu a kolik prostě čeká, kam se obrátí vítr.
 
@@ -190,7 +188,7 @@ Nemusels přece pošpinit čest křivou přísahou! vyčítala v duchu svému m
 
 Konec hry. A porážka, která zarmucuje k smrti.
 
-\* \* \*
+* * *
 
 Boj se rozšířil z hradu do města i za jeho brány, do pasteveckých tábořišť. Dole u velkého náměstí někdo zapálil kupecké vozy. Čpavý dým stoupal na palácové návrší a podoben útočícímu hadu se tyčil až nad cimbuří a střechy, dusivě, štiplavě se otíraje o mraky.
 

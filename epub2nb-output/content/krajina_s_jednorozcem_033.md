@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Dvanáctá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Dvanáctá kapitola
 
 Yzar opustili za úsvitu. Družina rozemského vladaře vedla Latydara k moři jinou cestou, než jakou do hlavního města dorazil před pár dny coby vězeň.
 
@@ -56,7 +54,7 @@ o moje prsa opřená.“_
 
 Koně pofrkávali. Step setřásala rosu.
 
-\* \* \*
+* * *
 
 Podivný den. Dusný, horký, zamračený, téměř letní, ačkoli byl teprve duben. Tak daleko už se dostali k jihu. Za severozápadním obzorem se převaluje vzdálená bouřka, nízké nebe tíží. Lidé a koně jsou splaveni potem, když jedou přes obloučky Žalských pahorků. Z mokřinaté země Malého jezeří stoupá mlžná pára a roje komárů, týrající všechny živé bytosti v okolí. Obvyklá přívětivost zdejších lad vzala protentokrát za své. Je nevlídno, parno, šedě. Po svěžesti otevřené stepi, jíž jeli ještě včera, ani památky. I duben sám jak by se tady zalknul. Míle ubývají pomalu, koně se vlečou znaveným krokem, šíje zvlhlé, občas jim od huby odpadají bělavé chomáčky slin.
 
@@ -117,7 +115,7 @@ Latydar se převalil na bok a přitáhl si k tělu plášť… Jezero ve stepi
 
 Thanrymův meč se jasněji vztyčil nad obzor.
 
-\* \* \*
+* * *
 
 Také Séned-Marovi se té noci spánek vyhýbal. Vzal si první hlídku. Když ho kolem půlnoci Nybem vystřídal, natáhl se rytíř k ohni, ale usnout se mu nedařilo. Brzy zase vstal.
 
@@ -179,7 +177,7 @@ Nybem vrátil šíp do toulce. Kývl na znamení, že se podvoluje velitelovu p�
 
 Séned-Mar podruhé pokrčil rameny. Pak zanechal mladíka na hlídce a sám se té noci podruhé uložil ke spánku. Únava ho konečně zmohla, zahnala nepříjemné úvahy, a on po chvíli tvrdě usnul. Od jezera se plazila lipová vůně, těžkla a konejšila.
 
-\* \* \*
+* * *
 
 O dva dny později opustili Malé jezeří a znova je přivítala otevřená step. Tráva tady už byla vzrostlá, sahala koním mnohde po břicha, široké koňské plece ji rozrážely jako lodní příď moře a jako moře se za družinou tráva zase zavírala. Noci byly studené, nakloněné k novu a vládla jim souhvězdí hučící neslyšným halasem z hluboka, z vysoka, z nezměrné dáli.
 

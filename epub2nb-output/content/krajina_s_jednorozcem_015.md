@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Devátá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Devátá kapitola
 
 Zatímco byl král za hranicemi, vojevoda orlacký přijal jeho výzvu a navrátil se ke dvoru. Objevil se v Kiříně brzy po Latydarově odjezdu. Tak záhy, až to bylo s podivem – a některé dokonce napadlo, jestli Kierys, jenž vladařovu povahu znal lépe než ostatní, na Latydarovo odpuštění dávno nečekal.
 
@@ -47,7 +45,7 @@ Stín nevole zmizel. Smířila se už s jeho snem obnovit Trynovec co nejrychle
 
 Latydar přistoupil o krok blíž a udělal pohyb, jako by se chtěl konejšivě dotknout její ruky. Ale v poslední chvíli si to rozmyslel. Jenom přikývl.
 
-\* \* \*
+* * *
 
 Nazítří za sebou Latydar zanechal úzké uličky Kiřína a vydal se k jihozápadu. S malou družinou a v sedle výtečného koně by uběhla dlouhá cesta rychle, ale Latydar nespěchal.
 
@@ -61,7 +59,7 @@ A i řady žebráků řídly, čím víc se poutníci blížili k obnovovaném
 
 Socha Sirany z Rokle, která doposud stála nad dávným pohřebištěm knížat a králů, osamělá, tichá a oprýskaná, hleděla k němu vydrolenými, zamženými zorničkami. Na její kamenné hlavě, v koruně pokryté lišejníkem, toho roku zahnízdili stěhovaví ptáci. Vykládalo se to jako nadějné znamení.
 
-\* \* \*
+* * *
 
 Polozapomenutý obyčej přikazoval králi dohlédnout na to, jak jsou pokládány základy chrámu v sídelním městě. Dávná knížata prý sama pomáhala na stavbě – a Latydar se rozhodl udělat totéž.
 

@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Jedenáctá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Jedenáctá kapitola
 
 Když Thoren přišel své paní oznámit, že krátkodechá vzpoura, uhašená snadno předně díky kněžninu svědectví a novému slibu, vyhasla stejně rychle, jak se rozhořela, dívka už neplakala. Už se zdvihla z lůžka, na němž předtím ležela zdánlivě nekonečnou dobu, stočená do klubíčka, a vzlykala rozhořčeně, zoufale, k neutišení.
 
@@ -70,7 +68,7 @@ Nezbyla z dvojí samoty ani ta jediná.“_
 
 Stříbrná olivová snítka stočená do kroužku zmatněla hlubokou tmou.
 
-\* \* \*
+* * *
 
 Dharid-Nyr proseděl noc v předkomnatě zraněného přítele.
 
@@ -94,7 +92,7 @@ Rozednívá se. V probouzejícím se hradě nastává obvyklý shon. Vrzly dve�
 
 Daleko odtud Hanuer vyšla na zápraží a jde si umýt unavené oči ke studni s dřevěným vahadlem.
 
-\* \* \*
+* * *
 
 Stála u okna jeho komnaty. Stejně jako včera navečer jí Dharid-Nyr neviděl do tváře, oslněn jasným dnem venku. Ale tentokrát k němu pokročila, vystoupila ze světla. A poznal, že ani ona té noci nespala. Že dosud nesvlékla šedý svatební šat. Jen šperky odložila.
 

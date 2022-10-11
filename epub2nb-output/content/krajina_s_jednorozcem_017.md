@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Jedenáctá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Jedenáctá kapitola
 
 Vrátil se sotva před týdnem a zase chce odjet!
 

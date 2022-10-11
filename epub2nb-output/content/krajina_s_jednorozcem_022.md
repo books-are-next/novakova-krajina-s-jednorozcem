@@ -1,11 +1,9 @@
 ---
-title: ''
+title: První kapitola
 contentType: prose
 ---
 
 <section>
-
-## První kapitola
 
 Králův panoš zastihl zemskou správkyni na arkádách nad hlavním ná­dvořím kiřínského hradu a hned tam jí předal pánovo spěšné poselství. Tam si ho taky Veljana přečetla. Dvakrát. A stále jako by mu nevěřila.
 
@@ -171,7 +169,7 @@ Nedovolím ti usednout na trynský trůn, ať bys měla životů devět jako ko�
 
 S tím navečer opustila vojevodův dům odhodlanější, než do něj přišla.
 
-\* \* \*
+* * *
 
 A zase Kiřín plný rozdychtěného slavnostního davu, rytíři, měšťané, praporce, dvojí kruh hradeb a všude voní čerstvé větve jedlí, borovic, smrků… Dravci se vznášejí ze sokolnických rukavic. Trubky, píšťaly, bubínky. Země se otřásá pod nohama, otřásá se vzduch. Jako před rokem.
 
@@ -187,7 +185,7 @@ Stín ustoupil. Choulí se žebrácky ve špinavém koutě.
 
 Opodál. Vyčkává.
 
-\* \* \*
+* * *
 
 Latydar šel do Velké rady sebevědomě, stejně jako pokaždé. Proč také ne? Všechno bylo v pořádku, jen musel dostát zvyklostem, požádat o to, co je předem splněno. Nepočítal s odporem, pokud šlo o Halýšinu korunovaci – i když by musel oslepnout nevšimnout si, jak se nejeden z velmožů k jeho svatbě staví. Dokonce Veljana. Ale pokládal kněžnin chlad, s nímž se obracela k mladé nevěstě, za poloviční vrtoch, projev uražené ješitnosti – nepotěšilo ji, že se o všem dozvěděla na poslední chvíli, říkal si. Jenže copak se ke mně někdy chovala tak, abych si mohl myslet, že o mně skutečně chce něco vědět? Vždyť jsem si občas připadal jako odmítaný prosebník, žebrající o její sesterskou přízeň. A teď je uražená. Dlouho jí to nevydrží.
 
@@ -225,7 +223,7 @@ Rada čekala výbuch zlosti. Mlčenlivý hněv velmože zaskočil.
 
 „Stalo se po právu,“ řekla Veljana pevně.
 
-\* \* \*
+* * *
 
 Halýša nebyla rozhodnutím Rady nijak udivená.
 
@@ -277,7 +275,7 @@ Usnula.
 
 Úplněk svítil na lože a na zavřená víčka ťukal drápkem studeného paprsku.
 
-\* \* \*
+* * *
 
 Když Latydar osaměl, kupodivu rychle se ovládl. Posadil se do křesla, zády k oknu, natáhl nohy před sebe, ruce založil na prsou a s hlavou mírně skloněnou začal uvažovat.
 
@@ -329,7 +327,7 @@ Nevybavoval si přesně, co jí pověděl. Ale odešla na lože ještě před se
 
 Musel se přesvědčit, zda alespoň klidně spí – a ukonejšit tak rozjitřené svědomí. Ostěním krytá dvířka, spojující komnaty královy s ložnicí jeho ženy, lehoučce cvakla. Latydar tiše zamířil vzhůru po úzkém točitém schodišti a mihotavý plamínek svíčky roztančil na kamenných zdech králův spěchající stín.
 
-\* \* \*
+* * *
 
 Všude dokola se povalovala lehká mlha, prozářená měsícem. Obrysy stromů a keřů, skalisek rozesetých v rozlehlé pláni, kamenů, vysokých, vysokánských trav, siluety vlků, sov kroužících nízko nad zemí, to všechno z oparu vystupovalo náhle, stříbřitě, měkce.
 
