@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Sedmá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Sedmá kapitola
 
 Zalka, zemanka z Pomezí, četla manželův list. Ogien, jemuž sestřina svatba s trynským králem otevřela bránu k damalskému dvoru, pobýval právě u damalského vladaře.
 
@@ -25,7 +23,7 @@ Ogien měl pravdu. Latydar nemeškal a poslal list na Pomezí hned po svém př
 
 <section>
 
-„Jeho návratem se mnohé mění, jak jistě chápeš. Nadešel čas prozradit, co jsme před vojevodovými lidmi utajili. Znám Tvůj názor, vždyť jsme nejednou o celé věci mluvili. Ty pak víš, že jsem s Tebou nikdy příliš nesouhlasil. Nakonec jsi mě však přesvědčila, že je dobré si nechat pro sebe pravdu, když není jisto, co se na trynském dvoře děje. Teď však je král zpátky a nemůžeme déle lhát. Prosím Tě, má milovaná, smiř se s tím, je neodvratné, abys…“
+_„Jeho návratem se mnohé mění, jak jistě chápeš. Nadešel čas prozradit, co jsme před vojevodovými lidmi utajili. Znám Tvůj názor, vždyť jsme nejednou o celé věci mluvili. Ty pak víš, že jsem s Tebou nikdy příliš nesouhlasil. Nakonec jsi mě však přesvědčila, že je dobré si nechat pro sebe pravdu, když není jisto, co se na trynském dvoře děje. Teď však je král zpátky a nemůžeme déle lhát. Prosím Tě, má milovaná, smiř se s tím, je neodvratné, abys…“_
 
 </section>
 
@@ -74,13 +72,13 @@ Zalka se bála. To ji ovšem neodvrátilo od jejího předsevzetí. Naopak, čí
 
 <section>
 
-„Můj pane, můj manželi, Tvoje sestra mi donesla svého syna, a i když nepromluvila, neboť už nezná lidskou řeč, tolik jí zbylo ve vzpomínce z jejího předešlého života, že donesla své dítě domů a donesla ho mně! Přála si nepochybně, abych ho vychovala. A já to udělám, i kdyby mi ten maličký dávno nepřirostl k srdci, a Ty víš, že přirostl.
+_„Můj pane, můj manželi, Tvoje sestra mi donesla svého syna, a i když nepromluvila, neboť už nezná lidskou řeč, tolik jí zbylo ve vzpomínce z jejího předešlého života, že donesla své dítě domů a donesla ho mně! Přála si nepochybně, abych ho vychovala. A já to udělám, i kdyby mi ten maličký dávno nepřirostl k srdci, a Ty víš, že přirostl._
 
-Ačkoli se nyní jeho otec vrátil, nedovolím, aby se cokoli změnilo. Nevěřím tomu člověku. Jsem si jistá a opakuji Ti, že nikdo jiný, pouze a jedině on nese vinu na neštěstí Tvé sestry. Od okamžiku, kdy jsem Halýšu viděla jako bytost beze stínu, mnoho jsem přemýšlela, mnoho vzpomínala a vyptávala se moudrých starců a stařen. Člověku se nemůže stát něco takového, jako se stalo jí, zničehonic – a ani tentokrát se nestalo.
+_Ačkoli se nyní jeho otec vrátil, nedovolím, aby se cokoli změnilo. Nevěřím tomu člověku. Jsem si jistá a opakuji Ti, že nikdo jiný, pouze a jedině on nese vinu na neštěstí Tvé sestry. Od okamžiku, kdy jsem Halýšu viděla jako bytost beze stínu, mnoho jsem přemýšlela, mnoho vzpomínala a vyptávala se moudrých starců a stařen. Člověku se nemůže stát něco takového, jako se stalo jí, zničehonic – a ani tentokrát se nestalo._
 
-Už když se Tvá sestra vrátila z cesty do Kiřína, pomalu se proměňovala. Skrývala to přede mnou, já však poznala, že něco není v pořádku.
+_Už když se Tvá sestra vrátila z cesty do Kiřína, pomalu se proměňovala. Skrývala to přede mnou, já však poznala, že něco není v pořádku._
 
-Kdo jiný může mít její neštěstí na svědomí, ne-li král, s nímž se právě v noci Nové luny vzcházející jednou za sto padesát let ve zlém rozešla? Mnohokrát jsme o tom mluvili a sám jsi uznal, že co si myslím, je až příliš podobné pravdě. A takovému člověku mám teď svěřit dítě? Sama chlapečka vychovám, a čí je syn, se dozví, teprve až dospěje a nastane čas, kdy by měl usednout na otcův trůn. Prosím, můj milý, věř, že je to jediná správná cesta!“
+_Kdo jiný může mít její neštěstí na svědomí, ne-li král, s nímž se právě v noci Nové luny vzcházející jednou za sto padesát let ve zlém rozešla? Mnohokrát jsme o tom mluvili a sám jsi uznal, že co si myslím, je až příliš podobné pravdě. A takovému člověku mám teď svěřit dítě? Sama chlapečka vychovám, a čí je syn, se dozví, teprve až dospěje a nastane čas, kdy by měl usednout na otcův trůn. Prosím, můj milý, věř, že je to jediná správná cesta!“_
 
 </section>
 

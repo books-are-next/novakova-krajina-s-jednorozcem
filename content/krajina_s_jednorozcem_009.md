@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Třetí kapitola
 contentType: prose
 ---
 
 <section>
-
-## Třetí kapitola
 
 Nevěsta prosila, aby svatbu o pár týdnů odložili. Alespoň do slunovratu, říkala, v kraji, kde jsem vyrostla, se věří, že svatba, když dne přibývá, přináší dobrou vůli a šťastné roky. Zvláště když letos o slunovratu vzejde Nová luna a měsíc stane zemi skoro nadosah!
 
@@ -51,7 +49,7 @@ Proklouzla okolo něj. Ranní světlo jí přitom padlo přímo do tváře a vy
 
 Když král po půl hodině vstupoval do hodovní síně, šedivé prosincové ráno dozrávalo v pošmourný den.
 
-\* \* \*
+* * *
 
 Zacinkala odnášená cínová miska.
 
@@ -101,7 +99,7 @@ Rozčiloval se čím dál víc, ani si nepovšiml jejího rozrušení, nebo si h
 
 Odešla mlčky a tiše za sebou zavřela dveře.
 
-\* \* \*
+* * *
 
 Halýša si musela přiznat, že ji královo přání vyvedlo z míry. Bylo málo věcí, pro něž se kdy v životě cítila nesvá. A našlo se málo lidí, vedle nichž ztrácela jistotu. Latydar patřil mezi tu hrstku.
 
@@ -240,7 +238,7 @@ Nezdálo se jí správné dárek přijmout. Přesto podruhé neodmítla. A pro�
 
 Pak pobídli koně a cvalem zamířili k sídelnímu městu.
 
-\* \* \*
+* * *
 
 Slavnost. Světla. A stoly plné zvěřiny, poháry s vínem, medovina. Nejnádhernější roucha, smích a hovor. Bubny, loutny, píšťaly. Čas k tanci. Jako tolikrát, vzdychla Terža.
 

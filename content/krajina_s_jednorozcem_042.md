@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Třetí kapitola
 contentType: prose
 ---
 
 <section>
-
-## Třetí kapitola
 
 Ruka se jí nezachvěla, když plnila pohár. Červené těžké víno odrazilo jas loučky v držáku na zdi a pětinásobný plamen svícnu na stole, až se usadilo, zčernalé, zrádné.
 
@@ -53,7 +51,7 @@ Král odešel a Terža Zalatova zůstala sedět s očima polozakrytýma víčk
 
 Kierysi, kde se touláš, pospěš ke mně!
 
-\* \* \*
+* * *
 
 Vojevoda Kierys pojedl v hostinci a vyšel se projít kolem řeky. Stříbrnice se v těch místech stáčela do oblin a kliček jako tělo velkého mírného draka, vytvářejíc zákruty, mělké písčiny a stulíkové tůně, nad nimiž se klonily koruny šepotavých starých vrb. Vlhká vůně rdesna, rákosu a puškvorce prostupovala chladný večerní vzduch. Měsíc zanechával stopy svých kročejů na vrcholcích stromů, na podemletých březích, na říčních vírech, jako by houpavě putoval ladným dívčím krokem od břehu k břehu, od západu na východ, od zlatěžluté do bělostně stříbrné. Jeho svit usedl s vojevodou na stráň a přemítavě mu dělal společnost.
 
@@ -109,7 +107,7 @@ Vojevoda Kierys si umyl tvář v tůni. Pak se pomalu obrátil zpět ke vsi. R�
 
 Před hostincem potkal posla v královských barvách, který znaveně sesedal ze stejně znaveného hřebce.
 
-\* \* \*
+* * *
 
 Několik dní poté kolem poledne přišla Veljana oznámit Latydarovi, že se právě narodil druhý Kierysův syn. Byla velice bledá.
 
@@ -249,7 +247,7 @@ Neodpověděla. Zklidněný dech prozradil, že vyčerpáním usnula.
 
 V každém rysu dokonalá krása.
 
-\* \* \*
+* * *
 
 Novina o smrti mladé vojevodkyně se roznesla po městě, ještě než padl soumrak. Umřela ve spánku a manžela se nedočkala. Kierys kníže z Orlaku dorazil o dobrou hodinu později.
 

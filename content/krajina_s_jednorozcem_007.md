@@ -1,11 +1,9 @@
 ---
-title: ''
+title: První kapitola
 contentType: prose
 ---
 
 <section>
-
-## První kapitola
 
 Jen po veliké válce bývá takové ticho. Podobné tichu zrána po bouřlivé noci. Ticho, které s úlevou oddychuje v pomalu pookřívající zemi rozryté koňskými kopyty a botami cizích vojsk.
 
@@ -85,7 +83,7 @@ Jako by měla za sebou jen samá šťastná probuzení a ještě šťastnějš�
 
 Potřebovala bych alespoň odlesk plamene téhle… malé selky.
 
-\* \* \*
+* * *
 
 Zalatova jediná dcera Terža, dědička starého vznešeného jména a po matce jeden z posledních výhonků rodu blízce spřízněného s králi denyrovské dynastie, se nejdřív neměla stát budoucí královnou. Tu z ní učinila teprve válka.
 
@@ -143,7 +141,7 @@ Kralevic k velkolepému daru nic nepřidal. Otcovo rozhodnutí zpečetit v obv
 
 O Lutavisově vyjednávání s Vihorovou nevěstou se nedověděl. A bylo to dobře, jinak by nejspíš dávné zasnoubení s Teržou zrušil – otci na zlost. Snáze by odpustil bratrově nevěstě urážku a pohrdání než otci, že o něm smlouval za jeho zády. Měl osmnáct, velel třetině vojska, a ať mu otec sebevíc nedůvěřoval, Latydar se rozhodně dávno necítil být chlapcem, za něhož je třeba rozhodovat.
 
-\* \* \*
+* * *
 
 Kněžna si rozčesávala vlasy. Dnes chtěla být sama se svými myšlenkami, poslala služku pryč.
 
@@ -203,7 +201,7 @@ Za okny potaženými blanami promaštěnými lojem a zavřenými okenicí divo�
 
 Šelmy ve Vlčím lese spaly v doupatech pokrytých mohutnícími závějemi – až vítr ustane, rozhostí se ticho. Ticho, jaké bývá jen po veliké válce.
 
-\* \* \*
+* * *
 
 Není to špatné děvče pro tvou službu, mínila ráno kněžnina vyzvědačka. Narodila se v druhém roce války. Je sice pohrobek – ale rozhodně se proto nestala čarodějkou ani morou, zdejší by na to dali ruku do ohně a je jim, myslím, možné věřit. Její otec zahynul při prvním damalském střetu s nájezdníky. Matka si pospíšila za ním, děvčeti byl asi měsíc.
 

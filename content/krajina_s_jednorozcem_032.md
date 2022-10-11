@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Jedenáctá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Jedenáctá kapitola
 
 Začátek jara. Veljanu ovládal pocit, že začíná znova všechno, i ona sama, zatímco se pole probouzejí v ozimech a ve vysoku se skřivani snaží strhnout oblohu na zem. Nebo zemi k obloze?
 

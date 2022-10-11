@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Pátá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Pátá kapitola
 
 Taržická kněžna, členka Velké rady, správkyně jedenáctého kraje Veljana Nobarova přijala vpředvečer prvního února, před Svátkem havranů nečekaného hosta.
 

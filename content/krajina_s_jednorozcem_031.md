@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Desátá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Desátá kapitola
 
 Psi žádostivýma očima sledovali dvojici večeřících mužů. Štěněcí výraz v ebenových zorničkách, ohromné mordy, jimiž dokázali zadávit vlka a poradit si s řádným jelenem, otevřené v přátelském žebravém úsměvu.
 
@@ -73,7 +71,7 @@ Rytíř se však Trynských neobával, věřil v Kornelakovu ochranu. Trynský 
 
 „Tvoje manželka.“
 
-\* \* \*
+* * *
 
 Jsi zase u mě? Latydar byl potěšen a udiven, když si za úzkým věžním oknem komnaty, kde ho drželi, všiml obrysu velkého nočního ptáka. V životě se s podobným dravcem nesetkal, ani v Rozemsku, ani doma, a teď ho vídal téměř každou noc, jak krouží nad stepí, usedá na skaliska, na pokroucené větve větrem otrhaných stromů. Výrazné soví oči, ale tělo skoro orlí, navíc zvláštně plavé, prapodivně zrcadlící nevtíravé noční světlo. V temnotách se dravec ztrácí, jako by ho ani nebylo.
 
@@ -83,7 +81,7 @@ Měkké zapleskání perutěmi. Noční dravec poplašeně vzlétl a zmizel kde
 
 Přicházel rozemský vladař, dva psy po boku, zamračený přísný nepřítel. Přicházel vynést ortel. Latydar ho přivítal povzneseným úsměvem.
 
-\* \* \*
+* * *
 
 Dharid-Nyr mohl konečně na pár hodin odložit starosti dnešního dne, které vtrhly do jeho domu s náhlostí a nevypočitatelností velké vody. Mířil do svých komnat, psy v patách, ale v duchu se dosud zaobíral právě ukončeným rozhovorem s Latydarem Kornelakem.
 

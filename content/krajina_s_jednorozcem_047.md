@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Osmá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Osmá kapitola
 
 Hanuer hladila hebký karmínový hřbet knihy zdobený olivovou snítkou provedenou ve zlatě. Nádherný a nesmírně cenný dar od trynského krále. Poznala, že ho vybíral pečlivě jako projev ne pouhé vděčnosti za pomoc, ale jako výraz přátelství. Rozemský příběh o Thanrymovi a Hanuer se dávno před velkou válkou, snad v časech Latydarova praděda, dostal k trynskému dvoru s některým poselstvem – a teď se vracel domů. Jindy by se dívka dárkem těšila a donekonečna prohlížela stranu za stranou, uhranutá mistrovstvím iluminací, živostí barev, slovy, která po léta znala nazpaměť, a přece jako by je pokaždé potkávala znova. Jindy jistě, a pokud čas, který teď stojí na prahu, přejde, aniž by příliš vzal, vrátí se k dárku a náležitě ho docení. Dnes ji moc nezajímá.
 
@@ -65,7 +63,7 @@ Pochybovačně stáhla obočí.
 
 A Séned-Mar se cítil zaskočen, neboť to bylo poprvé, co od ní slyšel tato slova.
 
-\* \* \*
+* * *
 
 Těch několik služebníků, co s sebou měl, nechal Séned, ať cestují s trynskými dary sami, vzal hrstku ozbrojených jezdců a vyrazil k Yzaru. Spěchal, jak si přála Hanuer, a protože ho začaly pohánět také vlastní obavy.
 
@@ -87,7 +85,7 @@ Séned-Mar se marně pokoušel odhadnout, kolik z těch vzrušených a rozhně
 
 Všechno vypadalo mnohem hůř, nejen než ještě před pár dny předpokládal, ale i než se bála Hanuer. Chválil se v duchu aspoň za opatrnost, která mu zabránila vyhovět sestřiným prosbám a vzít ji s sebou.
 
-\* \* \*
+* * *
 
 Dharida zastal uprostřed bezvýznamného rozhovoru s hradním správcem. Vladař přítele uvítal s radostí a nejprve se začal podrobně vyptávat na jeho cestu a trynského krále. Choval se, jako by si ani neuvědomoval, že nad jeho hlavou visí meč. Zvěst o zpřístupnění přístavů ho navýsost potěšila a list od Latydara Kornelaka přečetl pozorně a dokonce dvakrát, očividně příjemně překvapen.
 

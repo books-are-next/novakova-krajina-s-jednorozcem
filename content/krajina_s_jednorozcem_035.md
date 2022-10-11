@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Čtrnáctá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Čtrnáctá kapitola
 
 Ještě před tím, než odplují z Rozemska, chtěl Séned-Mar navštívit svou sestru. Byli si velice blízcí a odloučení, které jim přinesl konec války, snášeli oba neradi.
 

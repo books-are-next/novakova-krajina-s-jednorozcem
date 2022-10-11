@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Čtrnáctá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Čtrnáctá kapitola
 
 Nepřijdu, řekla – a přece když týden minul, zamířila k rozcestí. Jak se blížila na určené místo, šla stále pomaleji. Nakonec se zastavila docela.
 
@@ -29,7 +27,7 @@ V téže chvíli se Halýšiných neuvěřitelně zjitřených smyslů dotkl sl
 
 Znala tu divnou, dráždivou vůni – stejně voněla smrt, když před lety vtrhla do Pomezí s cizími nájezdníky, s vataradskými žoldáky.
 
-\* \* \*
+* * *
 
 Stříbřité kmeny čtyř staletých buků se k sobě ve výšce dvou desítek stop nakláněly a tvořily živoucí bránu, hvězdicovitý oblouk nad širokým plochým kamenem, o nějž se bukové kmeny opíraly u země. Kdysi prý zrovna tady zabili vrazi zezadu jednoho z nejlepších damalských vladyků se ženou. Smrt spravedlivých pomstili vlci, a proto je od těch časů zdejší lidé velmi ctí. Vladycké děti pak na tomto místě zasadily bukové proutky, aby jim pomohly zahnat smutek a aby svědčily o naději.
 
@@ -87,7 +85,7 @@ Potom na koruny stromů a na ptáky nedohlédl vůbec.
 
 Pouze jakási tvář – přímo před jeho slepnoucíma očima – pohybovala rty, ale slova z nich nevycházela. Dívka, hezká a cizí – anebo ne? Škoda že už ani tebe nevidím, možná bych si stačil vzpomenout. Víčka pomalu klesla na ztemnělé oči, křečovitý, namáhavý dech se zklidňoval a slábl.
 
-\* \* \*
+* * *
 
 Halýša si sedla na zem a položila si jeho hlavu do klína. Už na Latydara nemluvila, nevolala, neopakovala jméno. Pochopila, že ji neslyší.
 
@@ -109,7 +107,7 @@ A potom si uvědomila, že to Latydar začal krvácet. Stažené, zelenomodré 
 
 Skoro nevěřícně položila druhou ruku na Latydarovu hruď. Opravdu se znova začínala zdvihat? Dívka strnula. Vnímala pouze jemný pohyb pod svou dlaní.
 
-\* \* \*
+* * *
 
 Na trámech podkrovní světnice se pomalu rozsvěcel šedivý den. U vyhaslého krbu spala služka, zabalená do pláště z ovčí vlny. Neprobudilo ji, ani když se Latydar posadil na lůžku a rozhlédl se po místnosti. Svazečky léčivých bylin zavěšené pod stropem se lehce otáčely v průvanu protahujícím škvírou nad prahem.
 

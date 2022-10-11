@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Pátá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Pátá kapitola
 
 Nad stepí řádila vichřice, k jihu nesla sníh. V komínech si zoufala meluzína a zdálo se, že temnými chodbami yzarského hradu polokráčejí, poloproplouvají přízraky dávno mrtvých vládců a nádherných paní, z nichž zbyl pouze prach pod mohylami, prach roztroušený mezi drahokamy náhrdelníků a obroučkami prstenů. Místo vábivých ženských rtů, o nichž zpívávali dvorští pěvci, úškle­bek sličně utvářené lebky – jenom zuby, přirovnávané k perlám a sněhu na horách, se v temnu mohyl dosud skvějí.
 

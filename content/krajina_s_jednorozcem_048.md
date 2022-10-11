@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Devátá kapitola
 contentType: prose
 ---
 
 <section>
-
-## Devátá kapitola
 
 Překročil Jitaber po mostě vysokém a pevném, po mostě nad hraniční řekou. Kamení gryfové, levharti, sličné dívky a zamračení bojovníci s tvářemi plnými vody, vždyť pršelo, shlíželi na Latydara vstupujícího na damalskou půdu.
 
@@ -33,7 +31,7 @@ A víc nic.
 
 Nejsi ani tady.
 
-\* \* \*
+* * *
 
 „Jestli jsi chtěl mluvit s manželem, vzácný pane, přijede nejdřív pozdě večer, spíš zítra.“
 
